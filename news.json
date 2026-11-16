@@ -1,5 +1,57 @@
 [
  {
+  "id": "2a494aca10cf",
+  "title": "Oil Retreats as Traders Weigh Supply Glut - Rigzone",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUlmQjB4TExvMHB1bkdJVG9rUkY1c3BjRHktUFBwMG5xUDhTUTRRUFA4ckFRVXFnV1dERDNaWTUxM0RtaW5UWlFMeVNnSzA0X0lNT05maVI4ZUc0eEdWajdBZC1qWXhTMTkwM0xzeHF4STkxeDVtTVBlOUVVWW1OUFJDZHE3ZS1xcml6ZHVpVko0a2RYYWVvLUFZbkZqRWZEc3NBZTln?oc=5",
+  "ts": 1794866099,
+  "time": "Mon, 16 Nov 2026 20:41:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Traders see supply glut, oil retreats, reinforcing downward trend."
+ },
+ {
+  "id": "fe1119ae84d9",
+  "title": "[Oil Prices] Plunge More Than 3%...IEA: \u201cGlobal Oil Market in Oversupply\u201d - \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qaHRzUWRRXzlDOFdmNFktbHplVXFrMUdnVTNZNi1rcjFKaDg5eXhyRTlmTHNvcFR5a2ZoZWxOZ19zVGd0OE5rX2tieUJ1NWdOZmh4Yk1XOE4?oc=5",
+  "ts": 1794866098,
+  "time": "Mon, 16 Nov 2026 21:38:26 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Oil plunges >3% on oversupply, pushing prices sharply lower."
+ },
+ {
+  "id": "4fa323a82706",
+  "title": "Still In The Danger Zone: Why Crude Oil's Decline Might Only Be Temporary (SP500) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEt3REJNOGs5N282NHNiNmJzNGVEbUNzTEFQVUFqeVZiSUJfX3dKd0ZhS1JncHZNQmRhZktneVRPMm1TaXZ2T29aRkdDVkw4ckFpX0tyS01uWkRYcEdTTFdfa296TTJ3TW5faDYxLTZvbk42dzd0SWZ1TXVaWkZSYjNzalJRY0p6eHJMUzdiZGxpRXJla0ozQnI2TVF2ZG9ycjVFMl9RRVBzU3ZG?oc=5",
+  "ts": 1794866098,
+  "time": "Mon, 16 Nov 2026 21:27:14 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Oil decline may be temporary but suggests near\u2011term price drop."
+ },
+ {
+  "id": "5a0f3a7d62a0",
+  "title": "Canadian Financial Close: Loonie weakens, crude oil falls - The Western Producer",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGVHd0RKYjZqNzk4ZUR0VGtQTDZiZzRtNjJZckdZdEhzNmxMSW9IV0U2dUxmV2o5YlRiY3dLbkpJdHZqLTVuRmMwb3EzaHhTME9LVXlBU0xud0lkUmZqaU0yRnhCTWNyTUJaQ0NBam8zYzdtOVNiYUJlZk9xNU5Eck5iSGcwdjAtTFdWbTc5b29JTXpvSm1Db1ZpYw?oc=5",
+  "ts": 1794866098,
+  "time": "Mon, 16 Nov 2026 21:34:32 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Crude oil falls, indicating downward pressure on prices."
+ },
+ {
   "id": "ca5ccdaa8ed2",
   "title": "Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0x2dW5mVTB6dmR1TU9yVGVfaGxUdHlBTU83NG1fVmVlaThzczFFSXJRb2l6MDJrOFc4bXJXWFNzRklySEg5eUp4bXBtbXRnUjk4NzV6THJWdUhiWkJfX3N1b0tLRU5DeHpfSUxzc09rY2dQeFU0ek16SDJObmpYYzZXY2VCMTdNdmg1N3A1VQ?oc=5",
