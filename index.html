@@ -1,23 +1,78 @@
 <!doctype html><html><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Stock News</title>
+<title>Trading Desk</title>
 <style>
-body{font-family:system-ui;margin:0;background:#0f1115;color:#eee}
-h1{font-size:18px;padding:14px;margin:0;background:#161a22;position:sticky;top:0}
+body{font-family:system-ui;margin:0;background:#0f1115;color:#eee;padding-bottom:60px}
+h1{font-size:17px;padding:12px 14px;margin:0;background:#161a22;position:sticky;top:0;z-index:2}
+h1 span{font-size:11px;font-weight:normal;opacity:.6;float:right}
+nav{display:flex;position:fixed;bottom:0;left:0;right:0;background:#161a22;z-index:3}
+nav button{flex:1;padding:14px 0;background:none;border:0;color:#999;font-size:14px}
+nav button.on{color:#fff;border-top:3px solid #7cb7ff}
 select{margin:10px;padding:8px;width:calc(100% - 20px);font-size:16px}
-.c{margin:10px;padding:12px;border-radius:10px;background:#1b212c;border-left:5px solid #888}
+.c{margin:10px;padding:12px;border-radius:10px;background:#1b212c;border-left:5px solid #888;line-height:1.5}
 .bullish{border-color:#22c55e}.bearish{border-color:#ef4444}
 .t{display:inline-block;padding:2px 8px;border-radius:6px;background:#2d3748;font-size:12px;font-weight:bold}
-.m{font-size:12px;opacity:.7}a{color:#7cb7ff}
+.m{font-size:12px;opacity:.7}a{color:#7cb7ff}.g{color:#22c55e}.r{color:#ef4444}
 </style></head><body>
-<h1>📈 Live Stock News</h1>
-<select id="f" onchange="r()"><option value="">All</option></select>
-<div id="l"></div>
+<h1>📈 Trading Desk <span id="u"></span></h1>
+<div id="v"></div>
+<nav>
+<button data-t="p" onclick="tab('p')">💼 Portfolio</button>
+<button data-t="c" onclick="tab('c')">🛢 Brent</button>
+<button data-t="n" onclick="tab('n')">📰 News</button>
+<button data-t="b" onclick="tab('b')">📝 Brief</button>
+</nav>
 <script>
-let D=[];
-fetch('news.json?'+Date.now()).then(x=>x.json()).then(d=>{
- D=d;[...new Set(d.map(i=>i.stock))].sort().forEach(s=>f.add(new Option(s,s)));r();});
-function r(){l.innerHTML=D.filter(i=>!f.value||i.stock==f.value).map(i=>
-`<div class="c ${i.sentiment}"><b>${i.stock}</b> <span class="t">${i.action||'WATCH'}</span> · ${i.sentiment} · ${i.score}/10<br>
-${i.title}<br><i>${i.reason}</i><div class="m">${i.src} · ${i.time} · <a href="${i.link}" target="_blank">Source</a></div></div>`).join('')}
+const LIVE=''; // optional: paste Cloudflare Worker URL here
+let N=[],P=null,B=null,S=null,L={},cur='p',fl='';
+const $=id=>document.getElementById(id);
+const J=u=>fetch(u+'?'+Date.now()).then(r=>r.json()).catch(()=>null);
+const f=(n,d=2)=>n==null||isNaN(n)?'-':Number(n).toLocaleString('en-IN',{minimumFractionDigits:d,maximumFractionDigits:d});
+const cl=n=>n>0?'g':n<0?'r':'';
+const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+async function load(){[N,P,B,S]=await Promise.all([J('news.json'),J('prices.json'),J('brief.json'),J('screen.json')]);N=N||[];draw()}
+async function live(){if(!LIVE||!P)return;try{L=await(await fetch(LIVE+'?s='+[...P.holdings.map(h=>h.symbol+'.NS'),'BZ=F'].join(','))).json();draw()}catch(e){}}
+function tab(t){cur=t;draw()}
+function spark(a){if(!a||a.length<2)return'';const mn=Math.min(...a),mx=Math.max(...a),w=300,h=60;
+ const p=a.map((v,i)=>(i/(a.length-1)*w).toFixed(1)+','+(h-(v-mn)/(mx-mn||1)*h).toFixed(1)).join(' ');
+ return `<svg viewBox="0 0 ${w} ${h}" width="100%" height="70"><polyline fill="none" stroke="#7cb7ff" stroke-width="2" points="${p}"/></svg>`}
+function card(i){return `<div class="c ${i.sentiment}"><b>${esc(i.stock)}</b> <span class=t>${esc(i.action||'WATCH')}</span> · ${i.sentiment} · ${i.score}/10<br>
+${esc(i.title)}<br><i>${esc(i.reason)}</i><div class=m>${esc(i.src)} · ${esc(i.time)} · <a href="${i.link}" target=_blank>Source</a></div></div>`}
+function mk(){return P&&P.market?`<div class=m style="padding:8px 12px">${Object.entries(P.market).map(([k,v])=>`${k} <b>${f(v.price)}</b> <span class="${cl(v.pct)}">${f(v.pct)}%</span>`).join(' · ')}</div>`:''}
+function pf(){
+ if(!P)return'<p class=m style="padding:12px">Waiting for first price run...</p>';
+ let ti=0,tv=0,td=0;
+ const cards=P.holdings.map(h=>{
+  if(h.error)return `<div class=c><b>${h.symbol}</b> price unavailable. Check ticker in watchlist.json</div>`;
+  const p=L[h.symbol+'.NS']??h.price,val=h.qty*p,inv=h.qty*h.avg,pnl=val-inv,day=h.qty*(p-h.prev);
+  ti+=inv;tv+=val;td+=day;
+  const n=N.find(i=>(i.stock||'').toUpperCase()==h.symbol);
+  return `<div class="c ${pnl>=0?'bullish':'bearish'}"><b>${h.name}</b> <span class=m>${h.qty} @ ₹${f(h.avg)}</span><br>
+  ₹${f(p)} <span class="${cl(p-h.prev)}">${f((p-h.prev)/h.prev*100)}%</span><br>
+  P&amp;L <b class="${cl(pnl)}">₹${f(pnl,0)} (${f(pnl/inv*100)}%)</b> · Today <span class="${cl(day)}">₹${f(day,0)}</span>
+  ${n?`<div class=m>📰 ${esc(n.action||'')}: ${esc(n.reason)} <a href="${n.link}" target=_blank>link</a></div>`:''}</div>`}).join('');
+ return mk()+`<div class=c><b>Portfolio</b><br>Invested ₹${f(ti,0)} · Value ₹${f(tv,0)}<br>
+ P&amp;L <b class="${cl(tv-ti)}">₹${f(tv-ti,0)} (${f((tv-ti)/ti*100)}%)</b> · Today <span class="${cl(td)}">₹${f(td,0)}</span></div>`+cards+
+ `<p class=m style="padding:0 12px">Prices from Yahoo, may lag. Not financial advice.</p>`}
+function cr(){const c=P&&P.crude;if(!c)return'<p class=m style="padding:12px">No crude data yet</p>';
+ const p=L['BZ=F']??c.price,lv=[['R2',c.r2],['R1',c.r1],['Pivot',c.pivot],['S1',c.s1],['S2',c.s2]];
+ return mk()+`<div class="c ${c.bias=='BULLISH'?'bullish':c.bias=='BEARISH'?'bearish':''}"><b>BRENT</b> <span class=t>${c.bias}</span><br>
+ <span style="font-size:28px">$${f(p)}</span> <span class="${cl(c.pct)}">${f(c.pct)}% day</span>${spark(c.spark)}
+ <div class=m>Trend ${c.trend} · RSI ${c.rsi} · 30m move ${c.move30==null?'-':f(c.move30)+'%'}<br>
+ Day high ${f(c.hi)} / low ${f(c.lo)} · SMA20 ${f(c.sma20)} · SMA50 ${f(c.sma50)}</div></div>
+ <div class=c><b>Key levels</b><br>${lv.map(([k,v])=>`${k}: <b>${f(v)}</b>${p>v?' ✓ price above':''}`).join('<br>')}
+ <div class=m>${c.note}. Rule-based, not a trade signal.</div></div>`+
+ N.filter(i=>i.stock=='CRUDE').slice(0,8).map(card).join('')}
+function nw(){const st=[...new Set(N.map(i=>i.stock))].sort();
+ return `<select onchange="fl=this.value;draw()"><option value="">All</option>${st.map(s=>`<option ${s==fl?'selected':''}>${esc(s)}</option>`).join('')}</select>`+
+ N.filter(i=>!fl||i.stock==fl).slice(0,80).map(card).join('')}
+function br(){const row=x=>`${x.s}: ₹${f(x.price)} · RSI ${x.rsi} · vol ${x.volx}x · 5d ${x.ch5}%`;
+ return (B?`<div class=c><b>${B.kind=='morning'?'🌅 Morning brief':'🌇 Post-market summary'}</b> <span class=m>${esc(B.time)}</span>
+ <div style="white-space:pre-wrap;margin-top:8px">${esc(B.text)}</div></div>`:'<p class=m style="padding:12px">No brief yet</p>')+
+ (S?`<div class=c><b>📊 Data-based ideas</b> <span class=m>${esc(S.time)}</span><br><b>Momentum</b><br>${S.momentum.map(row).join('<br>')||'none'}
+ <br><b>Oversold</b><br>${S.oversold.map(row).join('<br>')||'none'}<div class=m>Rule-based screen. Ideas, not advice.</div></div>`:'')}
+function draw(){$('u').textContent=P?P.updated:'';
+ document.querySelectorAll('nav button').forEach(b=>b.className=b.dataset.t==cur?'on':'');
+ $('v').innerHTML=({p:pf,c:cr,n:nw,b:br}[cur])()}
+load();setInterval(load,60000);if(LIVE){live();setInterval(live,15000)}
 </script></body></html>
