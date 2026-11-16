@@ -1,5 +1,31 @@
 [
  {
+  "id": "0025fbc9d364",
+  "title": "Canadian Financial Close: Loonie weakens, crude oil falls - Manitoba Co-operator",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWhub3daMmZhWFRjUGlvODR1N0dWdFRzY3VYUk5qNFJPZUE0dGJMazdNdWhNdHdVMWFGVGlNMG4zcEM2N084bklqcVhibktHXzd0NHF6SFpXLTV2ODBFT3VuRUU5R3NwVUx5djF3azhydzR3U24wSHEzWDduazVoejBsQjRkZER0MWtZUTFNb1BMZlg1aVpIeFN4MkhERmVUQmdRR0ZOaw?oc=5",
+  "ts": 1794871571,
+  "time": "Mon, 16 Nov 2026 21:34:16 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Crude declines as loonie weakens, suggesting further downside."
+ },
+ {
+  "id": "eede2f1cca66",
+  "title": "Tankers Hit Mines in the Strait of Hormuz, So Why Are Oil Prices Falling? - BBN Times",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnZ2LXFWOE5QM1BPMkZzbUE2YkkyVjAycGJuNVJWb09ZNHRhUmVxN0k4R0VFZnQ3VDlCdE5LNWRBZWtIeGlNenNSSUpfMkxxLUZmM3haY3Jya255TGlrbzA0TUtiQVlhd0VmWlVoTE8tRlNPT05HaWJmMlhURWZERVhTOWxkLVUt?oc=5",
+  "ts": 1794871571,
+  "time": "Mon, 16 Nov 2026 23:01:56 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Oil prices dip despite supply concerns, indicating downward pressure."
+ },
+ {
   "id": "3e5a09713281",
   "title": "OPEC Officials Meet to Discuss Oil Production Capacity Review - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNTZ4U2lZWlJ6eE9ud0NRX0h1RU9CUEMxanF5bWpqRVJNb2FEb2Vmc2hwTGZ1cl9NTlRXZ0pKcGhNbVNhYUQ4ZXVOVEhYelJudV9xUUtzRF82U2wyUWRRNjU0WVZpVzVoS3dpaDhmRE5QanczU1dyd21mYUpRa2tpWXF6YkZzcjJhcGswaUpseHhMNjFsZ2c?oc=5",
