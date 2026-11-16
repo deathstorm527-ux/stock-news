@@ -1,0 +1,19 @@
+{
+ "holdings": [
+  {"symbol":"ETERNAL","name":"Eternal Zomato","qty":10,"avg":347.60},
+  {"symbol":"FINCABLES","name":"Finolex Cables","qty":27,"avg":1297.81},
+  {"symbol":"JINDALSAW","name":"Jindal Saw","qty":25,"avg":241.20},
+  {"symbol":"KALYANKJIL","name":"Kalyan Jewellers","qty":75,"avg":712},
+  {"symbol":"PCJEWELLER","name":"PC Jeweller","qty":1648,"avg":16.56},
+  {"symbol":"MILKYMIST","name":"Milky Mist Dairy","qty":218,"avg":306.52},
+  {"symbol":"PNGJL","name":"PN Gadgil Jewellers","qty":3,"avg":603.70},
+  {"symbol":"SKYGOLD","name":"Sky Gold and Diamonds","qty":60,"avg":969.17}
+ ],
+ "topics": [
+  {"symbol":"CRUDE","name":"Brent crude oil price"},
+  {"symbol":"CRUDE","name":"MCX crude oil"},
+  {"symbol":"CRUDE","name":"OPEC oil supply"},
+  {"symbol":"CRUDE","name":"crude oil inventory EIA"},
+  {"symbol":"GOLD","name":"gold price India"}
+ ]
+}
