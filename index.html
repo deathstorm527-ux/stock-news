@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stock News</title>
+<style>
+body{font-family:system-ui;margin:0;background:#0f1115;color:#eee}
+h1{font-size:18px;padding:14px;margin:0;background:#161a22;position:sticky;top:0}
+select{margin:10px;padding:8px;width:calc(100% - 20px);font-size:16px}
+.c{margin:10px;padding:12px;border-radius:10px;background:#1b212c;border-left:5px solid #888}
+.bullish{border-color:#22c55e}.bearish{border-color:#ef4444}
+.t{display:inline-block;padding:2px 8px;border-radius:6px;background:#2d3748;font-size:12px;font-weight:bold}
+.m{font-size:12px;opacity:.7}a{color:#7cb7ff}
+</style></head><body>
+<h1>📈 Live Stock News</h1>
+<select id="f" onchange="r()"><option value="">All</option></select>
+<div id="l"></div>
+<script>
+let D=[];
+fetch('news.json?'+Date.now()).then(x=>x.json()).then(d=>{
+ D=d;[...new Set(d.map(i=>i.stock))].sort().forEach(s=>f.add(new Option(s,s)));r();});
+function r(){l.innerHTML=D.filter(i=>!f.value||i.stock==f.value).map(i=>
+`<div class="c ${i.sentiment}"><b>${i.stock}</b> <span class="t">${i.action||'WATCH'}</span> · ${i.sentiment} · ${i.score}/10<br>
+${i.title}<br><i>${i.reason}</i><div class="m">${i.src} · ${i.time} · <a href="${i.link}" target="_blank">Source</a></div></div>`).join('')}
+</script></body></html>
