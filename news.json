@@ -1,5 +1,57 @@
 [
  {
+  "id": "d94d4bb073e4",
+  "title": "U.S. Military Strikes Iranian Missile Site Near Strait of Hormuz - gCaptain",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXNBODNiLUlBTzNEN0lUdlk1Z2N4dExRRFVEY3BsejBYUHdDd3NYYlptZXk3OWNXZEJLbFZVYWM0U1FrdTEwNm9PMTBlWXFWSnJyYS1pTkx5Tm9ZcWxZb1R2dXg2LUNlOWxxR3NxMk5JOEhldzV2S1NXbXh2bmY1MVpjWGJXeE9wdWdhYmdR?oc=5",
+  "ts": 1794951022,
+  "time": "Tue, 17 Nov 2026 20:14:20 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Strait of Hormuz strike raises supply risk, oil likely up."
+ },
+ {
+  "id": "a9af3ead5ff1",
+  "title": "Gold prices hover near 13-month low in subdued trading By Investing.com - Investing.com India",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0c2d0N3TGdSX211bDdHeHhLc2tmN0xWMlBFUGxIWUU5RmVjak5UbUhWYi1xTmZObXZldF81VnFjMmVDSkNjOHBTRkxsbURITG9hOGdVM2YzQW5kUDlxV3h3S25HNFh2d0xITnhFQnNCZ1dIeVFQdmpKcHY0SjRtVHNJcXNubFF0Tnp6TWw1M3VleHBXczRfZllSX29mX0xwbFd5NVRyakVZRlpNME5zcmJnN084ZlUyZi01cExkdzU?oc=5",
+  "ts": 1794951022,
+  "time": "Tue, 17 Nov 2026 20:17:21 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Gold near 13\u2011month low, indicating downward trend."
+ },
+ {
+  "id": "86dc182564ea",
+  "title": "Oil up 1% on Tanker Attacks, Expected US Crude Drop - GV Wire",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0o5cmhRS3pXNkxBamRYMWNmMlFoRldFdWl6TW04MExLYV9ONnJLbHNpTlRJQzBtejk4SExzQkVubE1oa1dJN1NaZ1lOSHNpN3JYOWxpZVFFb3ZVUVBIa1J4QkpJZGE0eE5HQmNhNHhDcHhKazVpa3oySzRyUG5oSGwyMEUzS2M?oc=5",
+  "ts": 1794951021,
+  "time": "Tue, 17 Nov 2026 19:35:30 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Tanker attacks boost oil, pointing up for crude."
+ },
+ {
+  "id": "998c4ac50435",
+  "title": "Oil Futures Rise as Middle East Shipping Risks Persist - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM?oc=5",
+  "ts": 1794951021,
+  "time": "Tue, 17 Nov 2026 20:44:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Shipping risks lift oil prices, indicating upward move."
+ },
+ {
   "id": "48b8f0aaf024",
   "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalFpQlNmd0pHWk91N3FKZU5OZDVoY3dYbE90eTA4alNpd2Fna2RPRFZmR3RoSDVfVGNkYUxXRjg0OUctaDJpR1JNQWdhdWY2cGlKZ2hQYmtHbnFqbVlCaHIyMmhNOTBQSHRrdzVwN1EzQlF3NDRfRmFWYzVvYkljdmtmN0F0ajRRZDVROGIwMlUtQXZ2dmhrVmp4SFQ5Z290Y1E?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 4,
   "action": "WATCH",
   "reason": "Technical momentum shift creates uncertainty"
- },
- {
-  "id": "1f659dba6a65",
-  "title": "PC Jeweller Ltd Downgraded to Hold Amid Mixed Technical and Fundamental Signals - MarketsMojo",
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDIybk9qYVFZMm5MT1l0eGJNQ3p1eUo5Z0FWby1jemNhcDAyM3ZxSS1hYWhkMF9lQ0lPZHVXbndvMzJwVVBPM2gwekNvZjFKcDRHMzROb0pHSW5RVlN0bFljMUI1NFIyUUZlRjlfWENvRmo0SDRnRU9WRnF3YXE0NmJDc3h3ZnZZRl9nczZGVF8wVGhfWmlKWkdfWGFyN1BTMEdyTUdOY1ozQWpWTUNSOWZrdlZSWmE5Q0M4U01kdzZoT3dNQjVWY0oxRlVOdzdGZTBISWViNHY?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 03:39:14 GMT",
-  "src": "news.google.com",
-  "stock": "PCJEWELLER",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "HOLD",
-  "reason": "Downgraded to Hold, reflects mixed technical and fundamental outlook"
- },
- {
-  "id": "4b6938c69cab",
-  "title": "Kalyan Jewellers Share Price Hits Fresh 52-Week High Today - Univest",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTJXbjZZd0Q5WXhZcXR4WmNuOHcwVjZSZXVFVjdvYmhkcnhTMXNWU2FTX0hTRGpmZ2JYVVlQdDRzN3VFTHhBRUxvS1ZqTmtSOEJZRElIQzBIWmZscU5MZjBkLVpzQXBfQlRSTG0xSTUwU3pEaEVJZjNtWDF6cTFiTFNUeG5PbGRBVjM0bVhoVDBraXl1RVE?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 05:25:00 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Shares hit fresh 52\u2011week high, indicating demand surge"
- },
- {
-  "id": "a4a0d721aef7",
-  "title": "Kalyan Jewellers KALYANKJIL Q2 FY27 Earnings Call Key Takeaways - Kalkine India",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWGN4R0ZENkprdm41VGY1ajU2YWVtRExMcFlFaVByaGJfX0MzWjN2SzMza0lXQnVVMFpWNVc3SGd6bzVOTkd3UUNlTEF5QzJCNHhNVDBsNkpBX05ISncyRkoyYnRMT1J4STRHZXRfZ004WFNGYllDTEtVTVNwMnBIYmJybEZnQkFSRWtrRHhlYmF1eDBLeE1aS0tRaDVYTE5FclRqUjVYN0d5MzZaeE14bXNJaXlYNjdULVRLTWFJX2tUT0RIbnNZcA?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 05:12:00 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "HOLD",
-  "reason": "Q2 earnings call highlights positive performance"
- },
- {
-  "id": "a17ec41eec44",
-  "title": "Kalyan Jewellers Clears Non-GML Debt to Fund Store Stock - Multibagg AI",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNXNwM2lPaHh6bWFDaWgtb01PeU1QeHZaWVRlSk02SW1tZU1WblJ0WXNyZVRmTkIxM1psbG9uZ0lFMC1pVUxWbUpDWWNCOWJpZjQ5c3JvMUtseXFVSmZHMEU2NkpvY0lSdURkQklfb2RQSHNoY2lZNGNJdVF3Ym5vOHVYTVpybXo1Ym1xbzVKRlpvZkh4QmFvM195QlhMZEpnYzJrQnBfN19uY2g0VnY2bnUxRHNuRWZiQmVQZlVKTQ?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 05:04:19 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "HOLD",
-  "reason": "Debt cleared, funding store stock improves financial health"
  }
 ]
