@@ -1,5 +1,57 @@
 [
  {
+  "id": "48b8f0aaf024",
+  "title": "STAYING THE COURSE: OPEC+ Keeps Oil Output Policy Unchanged for October - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPalFpQlNmd0pHWk91N3FKZU5OZDVoY3dYbE90eTA4alNpd2Fna2RPRFZmR3RoSDVfVGNkYUxXRjg0OUctaDJpR1JNQWdhdWY2cGlKZ2hQYmtHbnFqbVlCaHIyMmhNOTBQSHRrdzVwN1EzQlF3NDRfRmFWYzVvYkljdmtmN0F0ajRRZDVROGIwMlUtQXZ2dmhrVmp4SFQ5Z290Y1E?oc=5",
+  "ts": 1794949487,
+  "time": "Mon, 16 Nov 2026 23:22:03 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "OPEC+ output unchanged, points up for oil price."
+ },
+ {
+  "id": "646075793d49",
+  "title": "P N Gadgil Jewellers Investor Analysis | StockIQ - The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW1PelhraEg0bWo5SGlJZURGRDVwdy0wb3VvSVMwTU9qd3NJODYxZW1tOHJyQmpfa1FrcHFnNnJkc1NFbnpPNnlKSlpuOExTX04tQUVhX1BBNVQ5N2xVZWM3SmVxUW5DbUg5UW93QnFkeG05N2dLRk41M1ZmYno3YWtEWm9ZSURWWVdPV1NncW9aa1NtdWJ3a1dn?oc=5",
+  "ts": 1794949486,
+  "time": "Tue, 17 Nov 2026 18:45:33 GMT",
+  "src": "news.google.com",
+  "stock": "PNGJL",
+  "sentiment": "neutral",
+  "score": 4,
+  "action": "WATCH",
+  "reason": "Investor analysis released, no clear catalyst yet."
+ },
+ {
+  "id": "d270c3b3615b",
+  "title": "Jindal Saw Limited (NSE:JINDALSAW) Agrees to Divest Step-Down Subsidiary Jindal Intellicom for \u20b915.45 Crore - Kalkine India",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQTQ1V0ZPNU9QeFFpczdzVDZpVlgzTnZXNXN0VGtpNERVUDRzRFhjX1dYS1FlV3d0OUtNWkJIZDU0UXVEb0l4Z1RYOVE5X3M3Ung4dndEang4dFFWSFl2bFVqUTl1ZHBOb0xONFNiWDQ4aE45dWVNNlRaQ0l4TWRyMEhqX1hmaGcwRWVNV2Z5ajhOd0REQXJ2RXRZb2lEbGVrWWlzb29sUDd1a3JUdFpWTVJ3YjBDbVBDY3ZJRE4zTWVpSE1zOUhvaHNmdGVXTXhCYnNfZVRXeEdSWmdY?oc=5",
+  "ts": 1794949484,
+  "time": "Tue, 17 Nov 2026 10:23:00 GMT",
+  "src": "news.google.com",
+  "stock": "JINDALSAW",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "HOLD",
+  "reason": "Divesting subsidiary for cash may improve balance sheet, impact unclear."
+ },
+ {
+  "id": "3da07567b7fa",
+  "title": "FINCABLES: Revenue up 19% YoY to \u20b96,321 crore, PAT up 14%, and \u20b99/share dividend declared - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV0wtSHVpbmtLWmdUWV9VdFF4QVZpNkg5blo4b0Q4YmR3cFNKeTRNSWFHcjBsbGZ0aTJfSWZxdmhzVVFMR3h5eWhHRS1fYWRuaFc2U2J6OTRDWmdrQ1NPaFRzbzZsbzBXMENkbTRLU0ItZUdSNzF3ZFNBYS1sRG9vQ05RRkI0X3pDV0Y2cE90NGZFM0plRWRadm1aM0NPYTNVdDhWOUFTdzhIVy1fODRoTjRNMExhekJVOEw5R015bHhkbkZWWlJIUlpzT2lZYlRMaWtpV2d4Rm92NWlpUl9wZUtENjRpeU9hN3ZPT1JKMDQwLWhRUjh4UA?oc=5",
+  "ts": 1794949484,
+  "time": "Mon, 16 Nov 2026 22:14:00 GMT",
+  "src": "news.google.com",
+  "stock": "FINCABLES",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Revenue +19% YoY, PAT +14%, dividend declared boosts outlook."
+ },
+ {
   "id": "e2bd9c95b822",
   "title": "Trump and Iran Signal No Quick End to War as Oil Tankers Burn in Iraqi Waters - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWpHZkhPU0lEZVV5SU93RFd0TDhUZktMZ0t1Sk01NXZpWmJYV2JTZWpWNUdBczVBQ1N6QTBHT1oyclhyUHU2QXpyRF9JZkY1dlpyZzFIdmRYRnVwRndBX2FSZVVWVTZ3cnltMElpc2JYQkRwdFctaWdRRWc4WDBJMXV2dHJSU2JVMHJQYU9sQndCQ1NiUHpHaWd0S1JvdHM4N2laNnU2a1ozV0E?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 7,
   "action": "HOLD",
   "reason": "Debt cleared, funding store stock improves financial health"
- },
- {
-  "id": "d5e3bb95297f",
-  "title": "Kalyan Jewellers Share Price Rally: 42% Gain in 11 Sessions - Univest",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWW00eS1sRHA4b1VyV1ZmX0IwdmVsd1RlcXhaTkRzMjhpRFlyc1drZWNNdDJvTFVsSWVlT3ZzMk9ZcVVSWWd6VGI3Y3pEWThRek9ER3NSbTVtaEpnUXBobFRUVnhwZVlOX0drUXM5TVhPR2xVTmRkemZLV1B3SmFmYWRyWEQ0b0FXWWpWRUhuM0lFbXlxM1ZkcWRpMHRob1hVd0c3dDA2QktDSkF1Y0VCRTdJYS1melM4YjVnenlxdS1HTEgwZTdISkQ5bDFUaWFjNjJv?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 11:33:00 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "42% price rally in 11 sessions signals strong momentum"
- },
- {
-  "id": "53e3cbd0b546",
-  "title": "Gold Rate Today: 24K Gold Falls to Rs 1,36,800 - HDFC Sky",
-  "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1hRSzU3SFAycUtJZllfemczOW9IdGxVUHJYakhtSjVTSDVHU2RpaW1jaDl4QTdXelFKVE9rTkt6eWxWWGlIa1F2RVU2cTR6aGFyOFA3SEw4OHUtbWw4ak1aXzV0LUw2VVdWYmM1cERfMThEMkRsdy1MU08tV3pvQTVQNWJKa2tTRUxnS3VpQ0Q0SEJNNld1X25fSzN5YktuZHg2SHI5QVE5OFFaUFluSG9PM29FVU5UdEV6ZVZYWVlZblVoVVZVdm9SZ0xpWnNYeExSSVo2eGEwcWtOWkd4YXNnWVl6ZTRqbXd6bHBZUkxsUzZQa3JpWGpKX0g?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 04:46:50 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Gold price fell, may pressure jewellery margins"
- },
- {
-  "id": "66cb498da1e0",
-  "title": "India bought 29% less gold last quarter. So how did Titan and Kalyan grow over 20%? - Upstox",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdm5yZmpFMHJTandNMGtIT3djeEx6YTdpY0F5QXFxUWg1TC1GYTVvbnhsQjRldEZOVVFnYkxKYVVlVXp6NEZmcUEyYTZIUExHb2RzRjAxLVpXbHFFZkNrYVM4U2w4QmlJMXhyeGdOdWxzTUc4a2hYN0xWS0EzRXN0Y0pkY1FUbE1JVWlJWWF0S0QxY0pVU2p1ekNjWlBqalQtcWc4djhKem9NZ3ItRjU5NWp0YTNra0o4TVJpbTVUbHIwRU1EMFlYeDJNU3pjX1NjZlFHcA?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 06:38:24 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Kalyan grew >20% even with 29% lower gold purchases"
- },
- {
-  "id": "76ece5f38a20",
-  "title": "Gold prices boost jewellers' sales, but profits tell a mixed story - Moneycontrol.com",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYm9neDMyTkJyeWN4ZlVCLXVFcldVdnRtWkg3UUNDVU1YN2cxZmJhSnJSUlZDNXZrV2xoU1JiWWNCZGdBeV9COXBldndNaWRLS2dqZGE0N0xRaU9kcjhVUUs3RFo1TVJjdnZmcG5mMGhsX0RpYWdPell4UUMtMmZJZkV4ZTkzS2FUSHVlbF9FUm9uLWxQb3FaS0VobXdjd3d1NXl1T3FMN21tZl9oVjBRMWtvRmpfc3VDOTI1MXdRWjk3OFhMbzZIaVBURFhHWGvSAc8BQVVfeXFMT2JvZ3gzMk5CcnljeGZVQi11RXJXVXZ0bVpIN1FDQ1VNWDdnMWZiYUpyUlJWQzV2a1dsaFNSYlljQmRnQXlfQjlwZXZ3TWlkS0tnamRhNDdMUWlPZHI4VVFLN0RaNU1SY3Z2ZnBuZjBobF9EaWFnT3pZeFFDLTJmSWZFeGU5M0thVEh1ZWxfRVJvbi1sUG9xWktFaG13Y3d3dTV5dU9xTDdtbWZfaFYwUTFrb0ZqX3N1QzkyNTF3UVo5NzhYTG82SGlQVERYR1hr?oc=5",
-  "ts": 1794854132,
-  "time": "Mon, 16 Nov 2026 07:08:13 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "HOLD",
-  "reason": "Higher gold prices lift jewellery sales despite mixed profit margins"
  }
 ]
