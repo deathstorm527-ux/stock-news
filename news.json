@@ -1,5 +1,44 @@
 [
  {
+  "id": "ba694fa68431",
+  "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaU5kZ1JwUVprenZfUUdIeHRMMlVXM3I3LUFFWl93cEZTVGI4OVg4MUVqVTRBSmpaT1U3SGdsMFA2RGdmclZNTDJMSVhyenJYX1J6VTFzMEhMbkFFMGhENFlEQ1NqWUZlVDdjbEt3Mmd2MThHTUdMRHhKWWU0RU9sR1N5U1k2Q3J3SklVNU1SM3RtekpPa19kMFRWbEZVU0p3STFQbklDeGJscTh2TnotazdJY0NEbjlhNURLZU5OZ2syZy1fS1dNd3BXYzg?oc=5",
+  "ts": 1795036444,
+  "time": "Wed, 18 Nov 2026 15:17:23 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Crude edges higher on inflation optimism, suggesting bullish intraday opportunity."
+ },
+ {
+  "id": "227c585231df",
+  "title": "Oil prices fall as higher US crude stocks temper supply risks - Arab News",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2I0dzdjQU9neWpyY2I1YmVPMnVseDFyMXNOdlhybDE2cUctLVdxcDdaazBsYTZKZWxnWExRTDlsbVVjWHlhejhBV1h6Wi05SzNVZldNMEZFOHFqV0ZDcXhiUDZmb21tUmwxX24yUG01MzBzY0NRZThQa2tFbVlEai1feERCMi04em9Yb0ZsalJZeGE1OWg4YXJ4SThXYzRmb0JJ?oc=5",
+  "ts": 1795036443,
+  "time": "Wed, 18 Nov 2026 07:05:38 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Crude prices fall as US inventories rise, indicating bearish intraday trend."
+ },
+ {
+  "id": "87e97447e153",
+  "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
+  "link": "https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html",
+  "ts": 1795036440,
+  "time": "Thu, 19 Nov 2026 02:40:12 +0530",
+  "src": "www.livemint.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Gold down 3% on hawkish Fed signals, bearish outlook."
+ },
+ {
   "id": "c6c7aea60d8e",
   "title": "Daily Summary: Hawkish Fed and fading optimism around Nvidia hit markets. Gold near 3700 - XTB.com",
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb2NGNHRCWjJIbWYyUUNORlpucWdYYTNzT1BCb2dqVm5KV05sNTB3YjJiUElfc0ZDZWpIaVdFcDZjVkJZR0pNOUtRNXl2eTVHbkJKUHJwQS1kTlFwdG9aVklVc0xndVdJazNtSkdzV0V0Y0szXzljSDhYZ2ZxQ2ZuclhfQ3FuZUJTdENibGljNjlfLVNsQUVuTEtXSUFyU2lmdnFWTmNwYlkxNGZuWDBLNkFHaXozdDdvb3pFVFpvT1NsdmVpcnZmdkpYek5xT1pidG9ESTNxQlp5aEta?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 6,
   "action": "BUY IDEA",
   "reason": "Tanker attacks and Mideast exports lift oil prices"
- },
- {
-  "id": "81a9b4c2bc51",
-  "title": "Bank Nifty breaks into uncharted territory as FII billions back India\u2019s bull run - BusinessLine",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObElSOHJvV2pxdWd2dzRxX1h1alBhV1hxdnNHX1lJTW1rbUZMeHl5ckZfTUo2S3phMVNMU3RGRTYyMFQtX0NMb2xPc2UxTE01SVFST1Y2NXNldU56dEdTdHR3QzJMWGlIQmozMDdwYjhrNGg5aW5PQWFrVWQ1QkQxcU43a3RRNnNtUzVoelZqU2tCczNYenpFWE1uOGJJU3BwSFduN2Y3azNUSlhvSkJQN0w4UTVxOUliVjNGYjRjcXd2aW9mV3ljajQ5LWM3NUsyU1QwUU5mYkwyZ1du0gHjAUFVX3lxTE1aUERrcmhCZjZ6Rk9DS1RjT1AtZU5kSlVsWlk5aXVFNHdjcVREalc5cFp4RVdJYTU2ckFpaF9YdjV2dVZpejZnZHVSbjNsc1BHVkJQNkY0TmtHcUZlTV9sNkhybVplZkpfSXotMDhWQ3dRU0dkLXlINkVRck5EYmVPNHJIUXBWNW5ZVEgxbVNjNktUWFZNWFpvcFllbDAtSXNRdGEtbW5UNzNTOENWbHBzWktWdS1QOFlFRFVJXzlUc3hPZGJJaFJwM0hiLTFQeHNYdHNwc0tEM1lQRGY4b1RrYmRJ?oc=5",
-  "ts": 1794927299,
-  "time": "Tue, 17 Nov 2026 14:01:57 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "HOLD",
-  "reason": "FII inflows push Bank Nifty to new highs"
- },
- {
-  "id": "290419dae09c",
-  "title": "Sensex, Nifty extend gains for second session as FIIs, banking stocks support rally - The Indian Awaaz",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnZEOGhQMVUwNG5zbEtxMUVJNy13b19wLXhXUmFzR0lxUHFKSG56SkNaZHJjUUZsYzdUU01YWG9rNlNJTDJ5S3hsT0I4TmdMVmVvNHFNMXZXVUJhaWVfZjFCOWo0VDQxQjQ2cjF1WnpXYXB4U3hSY2VEWUpBZTR6Q0JfTE8xWjFXeW83cHd1bEN6OGgtYzRxb09HUndiSTJLQ2VNQ3dwYWVVWXdWOHc?oc=5",
-  "ts": 1794927299,
-  "time": "Tue, 17 Nov 2026 14:25:00 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "HOLD",
-  "reason": "FIIs and banking stocks support rally, market gains"
- },
- {
-  "id": "3439e4a6b567",
-  "title": "Closing Bell: Nifty Gains to 25,387 as Bank Nifty Hits Record High; Crude Eases Near $92 - India Infoline",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFBZcFhabjZvbkc4QkJadkRpRGFySkh1UDF6QVIwX1FCV2dMUjd4ZWVtNjF6VTF2YlpNazdxdERwRjRVLUlCUGNrTy1hOGZjNzZzNnFvanBjLXhvMXVuX3ZuV1BubFR0VDZ5VE1idktDUGRHdlNOUjFBSEwzUG5aWW45VTBlR2dzbWJnTlpkRlRTUlY5UE0wM0k4Yi15Q1h4bGFGUlAzeEhRaUx6T05rOF9wUkw1a0ltUlRWTVlvOVFlTHMyNUE?oc=5",
-  "ts": 1794927299,
-  "time": "Tue, 17 Nov 2026 12:37:54 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Crude eases near $92, indicating downward pressure"
  }
 ]
