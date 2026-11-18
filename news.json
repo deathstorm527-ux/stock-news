@@ -1,5 +1,57 @@
 [
  {
+  "id": "800977ba034c",
+  "title": "OPEC speaks up for fossil fuels at COP31 climate talks - American Journal of Transportation",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHkzYTFXWFBFV2UtNlhQSzBzM2QweW1fMzg3MzNRT3FDVXJ1RXBGMU5sY3JCTDJ2SnRaa1FWaUlQY0pKeDhYX0hJT3ZWdEtUZWhQUnFRT0E2eGNQNGRLQ1JBY21RX09TVWFOQ1FTU2VlZmNfeHFFaFRFUUUtV1dQZkk2cER4Skk?oc=5",
+  "ts": 1795043123,
+  "time": "Wed, 18 Nov 2026 17:39:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "OPEC backs fossil fuels, may sustain demand and support crude prices."
+ },
+ {
+  "id": "b1b55abf77a9",
+  "title": "Venezuela\u2019s Oil Exports Surpassed 1 Million Bpd for the First in 6 months, Shipping Data Shows - EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEpjcTFCWkF2VDRGVThZMXlaY01vbl9Qd295YUtZenpWRjJCYlJRY1lTdi1iM24xdUhaekwxUGxsMFpPOFZUWW5DTGI1NGM4TjlWQzFTdENwQlNnU3QxMl9xTjlQVlc1NXhkck9MR1hsVWtEbXpqcWRIU0x4c3FSN1ZsVGItRjdPVHg2dnZwR3pqai1zT1FiSW9LMXI1SXJSc05SakdqTGxlbk9ZekNaWTFLMm1CWVpEUGtQWDdHUQ?oc=5",
+  "ts": 1795043123,
+  "time": "Wed, 18 Nov 2026 12:00:20 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Venezuelan export surge adds supply, likely pushing crude prices down."
+ },
+ {
+  "id": "00caaf46d6eb",
+  "title": "Sudeep Pharma - 16 microcap stocks surge up to 390% in CY26, emerge as multibaggers - The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWEpTa1FsWXprMnY4Wk5SUVcyVGZoZklLOVFZQjZfVFVmNmFuNlh2a3ZxUXRjZnhteXhMd09sVHp1TXBCaUxrRF95dWZjdUhMOU1uQlB5VmQzWFRFSHMzWE5uSzloNHdJN2o4cWxsZ1otSkVNN1RGeHAwYndLeG1UOV91eXQ2SGhoLV82RXJsVE04Z1lpUHoyeDVjbFBEUUg3eGhjcHp6aDdtNG0wSU93N2RteUJ0YzhqdGd4eE9IRFg3VWs2VVM5OGdta3oxSGphazJoV1d5ZHJvLTh6SUpFeTBjVEl6QWFWU2lkTVltY0ppQQ?oc=5",
+  "ts": 1795043122,
+  "time": "Wed, 18 Nov 2026 06:45:06 GMT",
+  "src": "news.google.com",
+  "stock": "Sudeep Pharma",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Microcaps soaring, Sudeep Pharma shows multibagger potential."
+ },
+ {
+  "id": "8769592f2a7c",
+  "title": "Foreign Holdings of US Treasuries Decline by Most Since March",
+  "link": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-decline-by-most-since-march-11795039752193.html",
+  "ts": 1795043118,
+  "time": "Thu, 19 Nov 2026 03:39:11 +0530",
+  "src": "www.livemint.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "US Treasury decline may raise yields, pressuring gold lower."
+ },
+ {
   "id": "4478683b9733",
   "title": "Silver and Copper Lead Gold Lower as the Dollar Rises - FXEmpire",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmc1UkNNZXdEZHFQMEdSQ0had05pX0Vzd0JRVmFGaEh1Rk1FRWMwbDhkS096MkRHOGczUFI2cW5uTEYwUmNITmZsSHphS1JVUFpEQ0J1WHJJSVAtY3FnaVVkWTAyQmtkSGY3ZXhHdld1YUhHV0dwZFRCTFVIOGtQdmhMZ2U5SnlaZ1Bfcnl5VHh2eGk4eEtad2dqcmFnaXBVeHBKSGxfMA?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 5,
   "action": "WATCH",
   "reason": "Crude price at $91.67 suggests stable, neutral market direction"
- },
- {
-  "id": "3905e3b7571c",
-  "title": "Jindal Saw (NSE: JINDALSAW): Share Disposal Changes the Ownership Picture - Kalkine India",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa09UUGIwTGItT3dUTk9pN0ZtM2tNdExpZkxxejhNR09pU3VLaDJBLWdzM25wVzVFTTBKejlDbkpxMkpHNGRGR3VQX2t4U2taT2RoVVZMYTZJQzJDRHFHQzYyNzZxTmxNYUVMM2wzZVIxaUg4NktjT0lfTENqS1RWdFN1dmJyRGRXa0hKWUxxalBuTXMyX2YtMlJfZjhtZTNVdzRJbzltRzNZVVBsQmwxOHhPN21KZw?oc=5",
-  "ts": 1794930737,
-  "time": "Tue, 17 Nov 2026 13:47:00 GMT",
-  "src": "news.google.com",
-  "stock": "JINDALSAW",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Share disposal dilutes ownership, likely pressuring JINDALSAW share price downward"
- },
- {
-  "id": "91bbf87564c9",
-  "title": "Bank Nifty breaks into uncharted territory as FII billions back India\u2019s bull run - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2lMNnpjMkI4S2xKYm81Vjc1S2VJMFU1blpodDZVU3BKR0wtcDlGMXdjeWJDMmN1b3hGbC0yN0gzb0JSOWVXb3VmSks1MVRQRWEtREtvVlFaeG5UX0xRN3hYMHdUbDlEQTBjZTMwX012cUMtdmIwN2RPYWdYd0NlNmlpWDlndmJXa2ZraEkzTHlnS0ZtSUNLNDhOM2lFY0paZnZZYzF6RzZkVUJaRjhVYTVmMFdhcEg2b0VxMEJtMTVNWlkxRmF2TTI4Nm5DYm9rRk1r?oc=5",
-  "ts": 1794930736,
-  "time": "Tue, 17 Nov 2026 14:21:30 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "FII inflows boost Bank Nifty to record highs, supporting bullish market outlook"
- },
- {
-  "id": "42dd4b3a38ad",
-  "title": "Fed raises nominal rates as oil prices drop, Robin J. Brooks states - Traders Union",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGQtWHZLcFRYYjJXOXBkTU1FY1hCaHhFcnFwMmdNV05PSzJTblBWU0ItUnp2SjJBQWlHU05qVnVtVzJFOTIwLU40bUpudlRUcXBHNmZBVERpUUUwbXMtZlZmTWVfRE9uRldZMGhwUGNoMUhTZmNnLXp5SVZNS0VTRXk1N3o?oc=5",
-  "ts": 1794930418,
-  "time": "Tue, 17 Nov 2026 14:50:31 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Rate hike drags oil, points down."
- },
- {
-  "id": "45e348055489",
-  "title": "Oil Futures Rebound as Trump Shrugs Off Need for Iran Deal - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVG5RS0lub0RlMzltTEJDNkVKUVVmdnNHcG14bGRMQ0pFeTJ1NW9ibkk4dVI5TExfNVMzclpKYTI1d3FnQXdEVldRZmJnZWxHZXlUWDZHWmJPRUxhQ2xxNVpLSDFvTFFKOFpScEZSMVI2eW1EcFlwM2YyZXBHNzctVDAxNVFpd2ZCUVZIUnAyVDdiRm5IWDBfbDNyUWdMSzg?oc=5",
-  "ts": 1794930418,
-  "time": "Tue, 17 Nov 2026 14:48:44 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Futures rebound on political calm, points up."
  }
 ]
