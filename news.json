@@ -1,5 +1,57 @@
 [
  {
+  "id": "40878d513f06",
+  "title": "Silver Is Falling Faster Than Gold as Rising Rates and Weak Demand Take Their Toll - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUNqMmotT3JhcHBMUXM5di1iR3NtSnNOR3BhS2V6X25uaUlpZHF1MFo1T3JTZTZSaFFlNGg2VmhIZUU3WFhoUWZYNWpOWVJqNFhKVDJONnZDM2o2clh1dFZrWkNiMXY3X1k3ZVFDMURoRFZsTmpvaUx1ZDY3d3JQYXgzaTFfUk9mOXFyMEVZMjBPdXA4QVNCRGNaQVFrMXJwa3R0XzJ4RG5VVzEwU2R5NDZjR1RvWFNOaC0weU5hVi1wZWRnNXc?oc=5",
+  "ts": 1795037033,
+  "time": "Wed, 18 Nov 2026 20:03:50 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Gold under pressure from rising rates, though outperforms silver"
+ },
+ {
+  "id": "4a1b1972e7d6",
+  "title": "Oil Falls 3% Despite Middle East Attacks - Rigzone",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTNiVUhteWkydEd5RDJyQ2t3QlE2SVk1dUpKS0FBQnQxR2s4UmFicWpqRUh5emFXOE5pT2NxY2dQeWpCYWF5RjljZklRbjNjLVNWWVlQckw0MHRSZk5XSGRudVFXRFZnNmRWTHlZclI4ZWprWDJHWnRTWlVpMXRLT0pOeEZJUERrb2ZEWUxTVS1VQURJWGtNMmZQNjN6bWFmSG13?oc=5",
+  "ts": 1795037033,
+  "time": "Wed, 18 Nov 2026 21:14:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Oil drops 3% despite geopolitical tension, indicating downward move"
+ },
+ {
+  "id": "0f87ca37503a",
+  "title": "World Bank Forecasts 24% Surge in Energy Prices in 2026 Due to Middle East War - EnergyNow",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVB1Z3lBRTlEaUcyTGc0M0JzQzhMVnJhcGVhLU9VazVjY0xSOXk5Ti03cnRfS2JaUDJZX2dQOUozd0RHNGNnYXZHYjJHMEhOTzRZMUNxeDY5ZHFKQ29rTjJsa3VQVFJUUEE1LVhmQVFuamg2Yk9fZDIxTHFmckZ3cDhBQjgtN1dGVkVVLWRQZlp3YlZtUXByWDVacUJJRW4zMmxhUzFsdUx1RkE?oc=5",
+  "ts": 1795037032,
+  "time": "Wed, 18 Nov 2026 19:29:29 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "Energy price surge forecast implies upward pressure on crude"
+ },
+ {
+  "id": "689328094821",
+  "title": "ICE canola futures fall as vegoils and crude oil weaken - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0dkNl9wVTctdG9TM3l0WjZEanNsNWF4THlhSVM5UnY1aWNsMWEtVmxSQTJHbURSbndwczlibWhETDVVYkQxeXMweDFSWkVJNHVsd1Q1NGxRX1ZPTHhBQkFaTGRaVVY1Tkh0SWZfd1hYVzg2NkNFbnA2Y01XM1BjS1pIa1paX2g1UFBuRXZwNFJmY3JWQ20xSmFyU0J0NlRRbFk0VHNlcmhPUjdBR0lTd0FYLTBYY0E?oc=5",
+  "ts": 1795037032,
+  "time": "Wed, 18 Nov 2026 20:22:12 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Crude oil weakening signals price decline"
+ },
+ {
   "id": "ba694fa68431",
   "title": "Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com",
   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaU5kZ1JwUVprenZfUUdIeHRMMlVXM3I3LUFFWl93cEZTVGI4OVg4MUVqVTRBSmpaT1U3SGdsMFA2RGdmclZNTDJMSVhyenJYX1J6VTFzMEhMbkFFMGhENFlEQ1NqWUZlVDdjbEt3Mmd2MThHTUdMRHhKWWU0RU9sR1N5U1k2Q3J3SklVNU1SM3RtekpPa19kMFRWbEZVU0p3STFQbklDeGJscTh2TnotazdJY0NEbjlhNURLZU5OZ2syZy1fS1dNd3BXYzg?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 6,
   "action": "AVOID",
   "reason": "Gold slides to one-year low, bearish outlook"
- },
- {
-  "id": "0a26b5b8c566",
-  "title": "Gold Price Falls to Rs 1.38 Lakh per 10 Grams, Silver Hits One-Year Low - Kashmir Observer",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3dHOWFhRlJyQmpDTmVyNFlHQk41UzVjV25Dc1g4WGsxdVVKQVZzVFFfdVNlaU50U2dmTThmZTF6eWxMN00yY2J2aWU5a1VleDdXWmtaaUZhOVV4TW0zcW90TExaT0JXMVhrcmtQR0VwVW5jY2E3Y0hJbUNkbElhQ2toQ0h1TzE1TVl2Uy1KT2N3OEJwUkllX2NFYUd1Rk1MMXV5T2ZrRTZPdGJ3dG00?oc=5",
-  "ts": 1794927303,
-  "time": "Tue, 17 Nov 2026 14:18:35 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Gold drops to Rs1.38L/10g, downtrend"
- },
- {
-  "id": "537996598ac4",
-  "title": "US Commercial Crude Stocks hit 8-Yr Low, Gasoline Demand Rises Ahead of Holiday Weekend - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXN4aUx3eVptblhxczJnNGtYa0JtS2F3MS02WWx6Smlnam1Vd0xwZnJ0QjdWY0RvWWN4bWdTSTZHSkJ0czRINkprZnhyek9FMVczcmVIRThTSTF2QjRkR3QyRF9UZDNJM1N5NkpzazEwclh6dVZHelNhUFU1YlV3bDJ1bFZjdVBfRlR2QnlLSmppMWVwbVpzcDlfZWJPeVdZaXFFal9wMTg0TjRYRUg2bjRVeE9rbi1v?oc=5",
-  "ts": 1794927302,
-  "time": "Tue, 17 Nov 2026 09:03:10 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Low stocks and rising demand push crude up"
- },
- {
-  "id": "e55484c62893",
-  "title": "U.S. Crude Oil Inventories Expected to Fall Last Week, While Refined Product Stocks May Rise - Sunsirs",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RZzVDb0J0UXVCZGtQXy01dFY2dnl4eE1ZZVVMeDN4Q0hMRTlYSHZZNTBCN29yMjZrZ001bFRvVGp0S2tmNmV1X0VlNnNENnNuaEZVMHpfNExydGk1aHc?oc=5",
-  "ts": 1794927302,
-  "time": "Tue, 17 Nov 2026 03:07:37 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Inventories expected to drop, supporting price rise"
- },
- {
-  "id": "51fec62fcbd6",
-  "title": "Oil prices caught between tanker attacks and rising Mideast exports - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm40d1ZiR2k1S1RxaFdvQzJVYmRJUE1rcnNLZkEyRkZzbk5KZjlqWl9sZW9MUFB2OHpwdGZzT3duNzVnMnNaMEJMYkFKWndKTWE1OWNtd0hLcWRtSmVVYU5JaTBlNXZuT2t0V1AzVHdXVEhPMWt5QnhXakxpWkxiQk50ZEt0UGtXT3RpeXdiNEY0UXBqeXk2RGVHYURMNzJzNm13Zldtbm8tQQ?oc=5",
-  "ts": 1794927301,
-  "time": "Tue, 17 Nov 2026 01:37:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Tanker attacks and Mideast exports lift oil prices"
  }
 ]
