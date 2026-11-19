@@ -1,5 +1,57 @@
 [
  {
+  "id": "952793591071",
+  "title": "Oil down 1% as US oil stocks post larger-than-expected rise, EIA says By Reuters - Investing.com South Africa",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTdqb0Q1Q0dFZ3Q1UTF3RzU5U05YekxudnJuQzY4b0lLYnlaaG5LQ1FoMlh6X0YyRWpnWmxGVmI3VktJQkM2aGtyeUtqRnRrU3dGVnF5TVJCMm8ta1dMOVZ1ZW9TTEVocTBObEIzT2FNQkl5OG1DSUlSNEx1aUdPWXlPZ2drQkt3WkpVOFJKekU2Z193Z2h1c3dCdHNlTGRic0JGM05vcGY2ZjNYS3JHaU02bVJvaTg?oc=5",
+  "ts": 1795046455,
+  "time": "Wed, 18 Nov 2026 07:04:55 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "US oil stock rise pushes crude lower today."
+ },
+ {
+  "id": "db6fdb21c1d4",
+  "title": "Oil market anticipates crude oil surplus in 2027 due to increased supply - Inspenet",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9URkZHVGxKeVVmajVpRnMtQ3UxY09fdG12dHNPUzdOWFpaLWQ3bTVjbWhJTDZIaWNNMEtSTnNWWEVOekNMVmxYLXpTeTZzLXNpTlJGSWdISnJBcUtUVFMwZHdiU0VNZkNqUkZ4cjBwc3hPM2ZHTjBhZE9pcw?oc=5",
+  "ts": 1795046455,
+  "time": "Wed, 18 Nov 2026 19:03:10 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Supply surge predicts crude price decline."
+ },
+ {
+  "id": "ff73182d88cf",
+  "title": "Dairy companies' margins set to improve in H2FY27: Report - Awaz The Voice",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcnlIbUNEVVZ1MENZaTZTWUtZUlRQdVE3MG1YMVFHZ253UzFucklzcnlXdjhOZE9fZkpiUkZKdmxWNllkeHVVY1BwSWlQWmJfVFpvekFvY21nYmdqNElFcFRlYm1OVFVISFJfUjNEZFd3eVZtOUVUcjhZX2JITUFUM052NHAzZ0dNMF9GMkg0dmRra1F0Q0poc3pVdFBoNlY5cGpEU3ZmcmJfUQ?oc=5",
+  "ts": 1795046453,
+  "time": "Wed, 18 Nov 2026 23:32:08 GMT",
+  "src": "news.google.com",
+  "stock": "MILKYMIST",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Improving margins boost Milky Mist profitability."
+ },
+ {
+  "id": "0a25fda1cd07",
+  "title": "Sebi studying various SLBM models: Pandey - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdjdpQTFJQUtRbXdSU252MzM5LWJadXIxZlNBYlU4U0NDNk9vNjJ1ZEp1d25XTFZXTFg3QXNIZTFOR2JBTF9qRnZ2a3VOeGptWUtrTzNhS0N3b1RscHRIRWwxTUpyT2lPYmR0SF9VNHl0ZFJKbFQwY1pPLUVfWlJFNGtWeDlzNFRaMDgzZENkNjVRVVhNWWxlMEVnVWJLMWxrMDBfM09xRlVoNnNJU01wYVNOSlhTLWljd0xvWlJSMUpPMVpF0gHKAUFVX3lxTE9PMFlhd3dhaDJZcjE2SzM5MWFXTTFNX0wxcnIxU0NWWEJ5MHZRR0hEaERnZDRpZk41OGFHUEJEN0FhZEYzYzFHMURwVFdVeEJ1eHBMUEh2V1ZRamhELTNIdUMzeFBkT2R1SE5mZFBNd2dOWmlRTWFQcWFndFZheDMyNmlacUJOSm11NGMtT19hb1FHRGJ2eXFzanVJMzRGbGNHM003UzFZdGNQVkpKRms0YzF4SS04dWxCSWh5cGFOWW10c25yaGlVSWc?oc=5",
+  "ts": 1795046451,
+  "time": "Wed, 18 Nov 2026 23:46:00 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Regulatory review may affect market liquidity, impact uncertain."
+ },
+ {
   "id": "e41d2ba6a4de",
   "title": "Equinor Hack Adds to Wave of Cyberattacks on Energy Companies - Crude Oil Prices Today | OilPrice.com",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTFjVGp0QnRRZGpoUWtTd3M3UjQyWnQzWWRYMXlqdWNYTFMwY1lXWVJoV09oSXBPUXduRU5iejF3U01ZRXM2Q3ZGS0ZqczN6bjJvdnAwWWtkYk1DTzVVd1JYR0lUU092cmhwU0ZNRkJmVnFwWVM1NzZacGs1R2pFWC1ndmFGQUN1TFpnQlNaMk9LVkVkZHYtUkJYdlozNjdEcUtPSm9QYkFnTUVfWUYwaTUtTdIBswFBVV95cUxOaTFjVGp0QnRRZGpoUWtTd3M3UjQyWnQzWWRYMXlqdWNYTFMwY1lXWVJoV09oSXBPUXduRU5iejF3U01ZRXM2Q3ZGS0ZqczN6bjJvdnAwWWtkYk1DTzVVd1JYR0lUU092cmhwU0ZNRkJmVnFwWVM1NzZacGs1R2pFWC1ndmFGQUN1TFpnQlNaMk9LVkVkZHYtUkJYdlozNjdEcUtPSm9QYkFnTUVfWUYwaTUtTQ?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 7,
   "action": "BUY IDEA",
   "reason": "Tensions lift oil prices; points up"
- },
- {
-  "id": "2542e6ee5cd0",
-  "title": "US Open: Wall Street on Edge Ahead of Nvidia Earnings \ud83d\udea9 Could Rising Oil Prices Weigh on Stocks? - XTB.com",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWpJaTZPeGRab3lCdHdXX2RVUE0weFhsM0djbUFEYm9uOVpUUS16VThlbHVHNzdMSmZWODlFUUo1Q2hyRzFmUHU5cGtTa3hxWnd6T3pYeGF5LXFzMDlaWHV5ZmItS3YwcUFPZktZdUdPdDloNnl4TG1zam9lbU4xZld3VWc1dGQteUFyNHFlMVdCNnNTZnBRdnFGd1BGVDJjQ2t6cDNpNVlLSnA3YU94ZkZ3aDc2MlNVVHlFYlJ3bWRiY3B4VWpCMzNYc0dicDdxY0pmRElUTG5pZjZ1ZHJjS0h0aWQ?oc=5",
-  "ts": 1794934062,
-  "time": "Tue, 17 Nov 2026 15:27:25 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Potential oil price rise may affect equities; points up"
- },
- {
-  "id": "7d9ec66722a3",
-  "title": "OPEC+ Reassesses Members\u2019 Maximum Sustainable Production Capacity - LEADERSHIP Newspapers",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUxUSUxzX1JmQmlWZm9JOEVDanRvWnpsVDZ3RDNuTnBHRDFIbE8taWZiZmJxZS01MlNnUmZ4emEzVDREdXRHRHBfTHpTcFVmOXB0MHBYSHVJTE8wQ1V6T1VEMzh1VGVKdlZNWDQ2XzlsMWZ3MmFRYW9fa3lKdndTaVl5Vmx5X3JKbDJpWldDQQ?oc=5",
-  "ts": 1794934062,
-  "time": "Tue, 17 Nov 2026 15:06:14 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Reassessment could raise supply, pointing price down"
- },
- {
-  "id": "3fe38772aa34",
-  "title": "Opec-Plus: Output Jumps to 8-Month High, But Is It Sustainable? - Energy Intelligence",
-  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFNmlPSFhjNVpuQ0V1ZmNYa2JuN2xVMU5uTG1HdG1sMWsyaFU1eUJ3NmhrTkFHbzVoc2V4b1k4LVZ1VW1HM3dsdy0zalJpX0l3YkhaVnA5LVhjdHlSWWxJZ2R3SXQ0cUZUcW1zdjNNSUxXUQ?oc=5",
-  "ts": 1794934062,
-  "time": "Tue, 17 Nov 2026 16:38:19 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "OPEC+ output surge may push prices down"
- },
- {
-  "id": "a8cb90290e13",
-  "title": "Oil Prices Fall as Recovering Middle East Exports Ease Gulf Tensions - PUKmedia",
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83ZW5DOHZINzVYZHktTEpjc0lCNzI1TDhOOXBPV1h3U3JiZ0pVOVdDUWtXZ1JWWnZsUjNSNUFtXzByUGpkak5yellELXNDdw?oc=5",
-  "ts": 1794934062,
-  "time": "Tue, 17 Nov 2026 14:53:56 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Oil prices falling as exports rise; points down"
  }
 ]
