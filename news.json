@@ -1,5 +1,57 @@
 [
  {
+  "id": "0b6f5785256d",
+  "title": "Oil prices inch up as tanker disruptions offset surplus supply outlook - Livemint",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUl1aXBZSjhWZ3BPRlRBTGtEVzNHWGRDcThkWFR1QXBHRWlPaXhRSzZzVmpCYTFoTFZrNklkYWRsbzQ4c1ZuM0FidjNMUWwzclV1ZlZqbU1JTmM1TjFFRGplYWJubEVmbFQ3WkNCcTJPTy0wcEhuRlhMdTd4UFhSREpQcUVJQnRmUEQ3WEJvWmdRUzRCMDRla1liNjZrQVNCdER4clBFWEpVNVhBUjBDTGlTdHdjcGtlNGZhUWMwY9IBxAFBVV95cUxQZHZfVTVzanVUYnRjQjFjb1BlTGxwZnlxVWdKUlhNeFlVa0J3Rl9KcjA2blpxa1N5d2hGRWlnSGRxMHU1QVJuVHZOVnlWVG9OMTlFTVlNQUMyaWkzaHNUU2MxUnFPSWVIenFIdXUxVTVYM3p1YnpYNUdnLUlNcjU3MWY4eWlqYkd3TGJ4SkF0OHlSTzZZc0RiU2o5emVrWnY5UHdXOUtuWTZvaHotM0NoMXItUWZpSWtxaEVWMEdnV0FYRGEt?oc=5",
+  "ts": 1795120434,
+  "time": "Thu, 19 Nov 2026 18:41:08 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Crude points up with tanker disruptions offsetting surplus, slight rise"
+ },
+ {
+  "id": "a56d14bb7151",
+  "title": "Crude Oil Erases Early Gains on Less Hawkish Trump - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmNEMGFYTjJYUGVMUGQ0ZzU5SHRKemx2Rno4dEozajJHTzVuT3NqRkhhTktwRjhUMEczNzhCdU8ycTEwRTJ6UDh0RnVEYUxPOGl4ZEwwSVZXOEpEVm1zeVRURWFaMld2OEUtUmIyVDdtMjZxdXpzSTNEbUdLWng0ZXBzZFRyS25pMHlxNVFDYTM0T25YdzlESk5R?oc=5",
+  "ts": 1795120433,
+  "time": "Thu, 19 Nov 2026 20:16:41 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "Crude points down after less hawkish tone, gains erased"
+ },
+ {
+  "id": "3c52545ad7fb",
+  "title": "US Shale Companies Send Oil Windfall to Shareholders as Prices Jump - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkd6TzR1QUNPdHluaWFRVDl0aEQ4eUtNR1Zwa1pucFFuLUY0TWNISlhBVTh2Tk95RXpnMmEtRTBwZE5McUl3enltZnotM1Fra3lFSkt5UWVlZWc5Z2V0ZGMtNEtjb2VFZHFrb3hSN3FyZHV5WUtjMnVXeko2RWN1VUNMMkFNd1RzNGljcFg1elNqdThQdlNmV2Nnck5iLVk?oc=5",
+  "ts": 1795120433,
+  "time": "Thu, 19 Nov 2026 19:36:13 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Crude points up as prices jump, oil sector benefits"
+ },
+ {
+  "id": "2a58ba768888",
+  "title": "Brent crude drops after reports of Strait of Hormuz tanker issues heighten supply worries - Traders Union",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkFRdUR0OVk4emMwMFJqbU9UME1KZ1pkQjFWUHRLeVVaVzBZZjRnSElDclZES3paR3htWmZUdFdLQjNTVGFkTnBuaHM0SEE5a0NaNkF1UmVJU2NWNy12OTRENTNjSlhSYzd0MWlROTMtdHpjdy1RMzI4aGNqN1BUeEwzOVpOemVFa0pv?oc=5",
+  "ts": 1795120433,
+  "time": "Thu, 19 Nov 2026 20:08:34 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "WATCH",
+  "reason": "Crude points down despite supply worries, may reverse soon"
+ },
+ {
   "id": "40bf9e3b0058",
   "title": "Gold Rate Today November 19: Check latest Gold prices in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow, Chandigarh & Other Cities - BusinessLine",
   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWxRWXpsMkI0dWZTaldzelkweDRsdW9nQUFOeW0yWGZEel8zME1KRTk5b1ROUlU0UEJjdXBwOVp6Rk95c25NZkJFSVBValE5TTYtN0V0UGhOWXZfdzJOMXBqdzk5MkVESWdYUFZJeXBmeEVoU2xrV2oyS052Y0VMeWZaal9yZFJmcTRfVjBoaTJwTkM2T21jRU5OQmlPS19BYUstT0lKcEt2bGRzMU93bVdSTVY4QWViNnpqVlczUHZmOFFEZk9aWXZ3ZVBtSkdISW9uV1VkaEJkZ1dhaU1fNWFZSTktYkkxZHI1TG5xOU5zVTlqNThSZkNqMVloTTVUZUtnSVRPQzRnOWhUb3RjbTlXZTlBLWFjRTlaWHc2WjhWZkXSAaoCQVVfeXFMTm9HQUFST2xrNElVclUydkVqZXdrTVFyd0xNd2FoZDFFNDVXOFZ2a3pwSzlKR3dJOGU1VkxDTHNFYlBWRVNqUkg1bUc0SDBMYV8tQnBva1hTMDdwOTIzS2tpQ0xaQU9uWEtkcnduUjhDaW1ocGp1dk1ZWUpsVkJWMFlxLUpUQXd3eFVQdXRrd2VUNHk2aHA0UXdacGRzekpSenBoSHFhaHpKNGgzdEVDV19FRnVNMmR0enkzei02Yk5seUgzbk9HcVdUX1lSbklMVEx6amlEXzZabW8zbDNBTS1RLUtBbkRGdGRsWnNRbkhxTnM2cjltdFNaMDVGVkpXUzRTa3kyTzRIdmVTbmFVdTY5RkE3aGVabVFHV0Z3NUdSb18tYnV0Vno2QQ?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 8,
   "action": "AVOID",
   "reason": "Jewellery stocks fall up to 5% despite lower gold prices"
- },
- {
-  "id": "dcd6bc988fab",
-  "title": "Gold rate today: Check 24K, 22K, 20K, 18K gold prices in Chennai, Delhi, Mumbai, Hyderabad & other cities - The Economic Times",
-  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRUgteFNlSFF5Z1lHc1FOekpERVl6SlpkSUx0OUg4OVExTDREOTdSNVJpOFgxaFdfLWhuZFRVLXZGdTBWdmJHajhvNmVjZE5iS2R5d3NMVXB3RVNqQXZyMTU3Y2RTcDJJMzhCZkc4blJJdGppUjJDR1NiaURsVUNwcVpTUjE2TFFoMUQwRkRiVmNWX2Mtc1piaGZoRzFTcnhDeVhpNVMyQjJGUFc4Z1hDUDlLZ0NjUkxyU3JUM0Z4b2RlRmFob3A5Skt3dmJBdWR0WEpQakpqdWNhS2hWSmFmcXFLeEdhLUVHNzYzajZkR0lEQ2FhaGw1b05rd29nZ3pG?oc=5",
-  "ts": 1795013732,
-  "time": "Wed, 18 Nov 2026 06:34:18 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "neutral",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Gold rates listed across multiple karats, no clear direction"
- },
- {
-  "id": "995295fd9fd0",
-  "title": "Kalyan Jewellers India Ltd Hits Intraday Low Amid Price Pressure on 18 Nov 2026 - MarketsMojo",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXB3UmdNbktna2N4OHotLWdQc0E2dXBrX3ItR3VIRUVWZ1BWSDBUdElmd2xrbWZ5dk1LbjBEQ2RrZzNYb3RJOTBQT1JLNDZfeDBua2lZS1dYcHZ1cmhWbWhuakY2el9aMnV2eFhWdnFBcVdkWDh2NHY4cF84SmJYR3RYMVgwRnZKQjVfcXFwNXNxWTZUWm03Mld3MVJ2ZkRwM2hsdnNPdlF0a3RIUVc1blpWWDVjNnlvdl8wbzM1VEVfOTNfaTRrbzUteUpZc05nYTIw?oc=5",
-  "ts": 1795013732,
-  "time": "Wed, 18 Nov 2026 07:02:25 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Intraday low amid price pressure on 18\u202fNov"
- },
- {
-  "id": "00d1e3ccc1fe",
-  "title": "Gold Rate Today, November 18: \u20b93,050 Gap In 22K Gold Prices At Top Jewellers - https://ascendants.in/",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZllhVEFkWjdTalpJaUJGYW5wVnl4b1F5UU1sd1J3cWNocTNDeGJWTEQ3WFo1R2hmWklPSG55d1NicEVhVENvZjNYazZMSVVnS3c0ZlhUbnFJb1I3d0laMXZ2OWdqbWhVZk9kVE03c2JwakZsY1B1dGllTHY3ZzRfd0tWSGltalo3ei1CVmFmbURqbkJUZ2xjU0lMS3RqZ0NC?oc=5",
-  "ts": 1795013732,
-  "time": "Wed, 18 Nov 2026 05:45:45 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Gold price at \u20b93,050, market monitoring the level"
- },
- {
-  "id": "6c29396fc382",
-  "title": "Nifty Consumer Durables index slides 3%; Titan, Kalyan Jewellers crack 5% - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMmpocUZzRUFxdXZaVThORTVtSmtRbVZsMlU3NnFsODdKR25iQjltUHMtRERaTEdYX0MxT2N4SFRCeEsyY2VHZldRbk8zTXAwZ2t3QjVsVjVIcnFOTkUtOC1IM0xGcHlueXNfTlU0a0hIVERudk92dFdXemlhRGNpXzNydVFlR1lSblZ6QVVhbWZTdFVIVFAyV0xidUZBdUVDcGNMbC1NTFRXVV9zcnloYjlEZUUwbm5EZ096czRLRWF5LU1PSldVWTk1OXpXUVAwY1HSAdcBQVVfeXFMTzJneUU3VV91czFqN0Z2WWtWdVdpdms4Q2dXa05hTGRPV1hKSnJaOUxMNkRCVzJRTkIyRGo3bGF4NW85VGlaM3VtSGlSUDlXWnp5TE1WdVhVcThoUTNjZWtuX3IwLW1qR2J5SEYtQlRhTkFyQWoxb2lqZHhkNWZsdk9YQ1NZc1lTdjAzNmZwUUJYUlljRE5HRGIyNlk4ZlZydHNVTWdRYXhBMk5HTVZ2cFF5MU55OEVsZllSNzVldTYxRmFzYVNRbkR5WEM4WVZ6UjJ4OE4tSUk?oc=5",
-  "ts": 1795013732,
-  "time": "Wed, 18 Nov 2026 08:12:23 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Jewellery stocks down 5% as consumer durables index slides"
  }
 ]
