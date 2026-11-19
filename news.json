@@ -1,5 +1,31 @@
 [
  {
+  "id": "8de3a3236286",
+  "title": "Oil Slid As US Stockpiles Jumped And Surplus Fears Grew - Finimize",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFRldHBzMUdoc3JlcjgzVEdZb1A1RmZoeUZzM2Q5T293UkRmTk1fbThtRzdMekVVVnFSYU5lalhteTExRkxhZ0pyZFNaLVllS0NCSHUzUzA4cDlTTzFONG5FNnpIR0lUOW5YRUZIbURZblNIWTNwOWttMVZpT24zdTBGRVVLc0xHQnQ1bQ?oc=5",
+  "ts": 1795128340,
+  "time": "Thu, 19 Nov 2026 01:44:41 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "US stockpiles rise, crude points down"
+ },
+ {
+  "id": "f58e0d32013d",
+  "title": "Gold Extends Losses as Dollar Hits 19-Month High; Can Prices Fall Further After Sharp Selloff? - Kotak Neo",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tTGpjeU9Sei1oOVU1SG9UZm9ldDZYR1E5TmZ4eVJjdzFpTFdwSTAzQjZ6NWhvblBKSkM3UEtlMkE1S0xhV3NfTmY3bVNiZWIwYW1KWE44bDhVQzE5X3ZFT1F6MU1LVlAtYUEwb0FwN0lNRXBIMUZ1Y3dB?oc=5",
+  "ts": 1795128340,
+  "time": "Thu, 19 Nov 2026 21:04:17 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Strong dollar pushes gold lower, extending losses"
+ },
+ {
   "id": "ea30dcad94f0",
   "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU05SE9NUnE2RUpRRlNtTVRjTDc0Ykh0Rlk1TTVXZDZTTkRQTURicXJBVnZJNXhpZWVSXzczWUhOUXNnanlwTERRNTVHTjE4NW9DTml0dGt2NTRzOEpWczVYdENfaUVpbXdKUTZKbHgtdFBDSDNWNVBHYnczejM0djRvV3I?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Surplus expectations drive prices lower, points down"
- },
- {
-  "id": "e2de577125e7",
-  "title": "Oil: Recovering supply caps price rebound \u2013 ING - www.tmgm.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZU5tMFFfdVoxWnVfbTg0aG1ra05NekY3aVpROXdZT3N5WHhzYVZ3dmRwWnFOVkN0aUlBTFo4cmhKdkNySVRhMEdNMW5KTUQ2aXVXR19yN0NBanhfNUJjbnVRUHViUFZnSWhGcUZjN0dYZ09VNG55a3htVHQ0SU1paFQ2alN6MzJoM0hoX1JzYjdtMWllMnQwNlJHcXR2cU5IYzZhSV9MTUgxLVhMQnp3TDd2aw?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 15:14:49 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Supply recovery caps rebound, points down"
- },
- {
-  "id": "ffc8c375348e",
-  "title": "Iraq Resumes Oil Flows via Kirkuk-Ceyhan Pipeline After 12 Years - Israel Defense",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uOE93cUpKR2xmMVhhaXBYcXdKa083SWJacVYyZ3lEQ3J1WEFtZEJWMEZyd0FGU2tCdU5jeHRya192Sk4wODBEM3JsMHJrVmh4RXIwdUszdUM?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 16:01:01 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Resumed Iraq flows add supply, points down"
  }
 ]
