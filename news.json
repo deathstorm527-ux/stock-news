@@ -1,5 +1,44 @@
 [
  {
+  "id": "ea30dcad94f0",
+  "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU05SE9NUnE2RUpRRlNtTVRjTDc0Ykh0Rlk1TTVXZDZTTkRQTURicXJBVnZJNXhpZWVSXzczWUhOUXNnanlwTERRNTVHTjE4NW9DTml0dGt2NTRzOEpWczVYdENfaUVpbXdKUTZKbHgtdFBDSDNWNVBHYnczejM0djRvV3I?oc=5",
+  "ts": 1795126842,
+  "time": "Thu, 19 Nov 2026 20:42:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 6,
+  "action": "HOLD",
+  "reason": "Oil flat as Hormuz disruptions balance surplus fears, indicating no clear direction."
+ },
+ {
+  "id": "4e200540ff16",
+  "title": "WTI Price Forecast: $81.50 Support Holds Key to Oil\u2019s Next Move - FXEmpire",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUNYS2FsU3hreS1wUHNQTkFiTTgzRlNZUm41aHRCVGxtYlN1V200Y2ZqRzQwQ1YtYmhXTmF4OVlCakNGQnJTc09GdHlMckptRkpES0tZLUFodnVFeG5aaVVtZ3FOZUxhby1kQkJySHVjdENPR0pvaEt0Zm5XcHpTYUloSmE4aFBRcUN5cGVua0F2RkdVS054SHNzMGdXaHlIZndqMHY0c0FZZEVYczM3LQ?oc=5",
+  "ts": 1795126842,
+  "time": "Thu, 19 Nov 2026 22:17:45 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "WTI support at $81.5 suggests oil may hold above key level."
+ },
+ {
+  "id": "e8d2cea7f923",
+  "title": "Iran Mounts About 14 Hormuz Attacks in November as Brent Crude Falls One-Fifth - https://houseofsaud.com/",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Gb2NQQlF0cHFacTdNVFFqUUM3OXlFR3k5WGpaOURiYUhtN3JKMVVJMlpHSGt6ODg0ZXFUbHRMQkxWUFcxZmd5SHl3MXdVZGE5U21sMU1abFBxb0JDbldSY01yNUM3RmI5MnRHTEVqaTJSWWx2NldLaA?oc=5",
+  "ts": 1795126842,
+  "time": "Thu, 19 Nov 2026 22:02:52 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Hormuz attacks yet Brent fell, indicating downside pressure on oil."
+ },
+ {
   "id": "e91305dc9666",
   "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - Reuters",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 4,
   "action": "WATCH",
   "reason": "Resumed Iraq flows add supply, points down"
- },
- {
-  "id": "a5ec3277a0c8",
-  "title": "US Oil Inventories On the Rise - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWkRraUlSN25NODR4M2Y1VVJNQnJHM3U5U1ZFWi1PSWs0ZE5oRVNfS2ZaMV94M2xXSGotX0pUMGRsV3RSUWRMNlMxMG0zM3pfdF93b2tMdjAzOGptY3cteDdJTGJSS3J6LU9Rc3l4ZEZwTnhHclZqLXlsbWpiUdIBgwFBVV95cUxNakhPSk43QUpWNDdWZ24tcG1pVXowUko1RVhFTWhOdXlhQVhjVDVDcmVCcnRwMmZRZHNybDd2dzFLUVZZLV81bEtlUy1nNWstNzBGUEFJdEcyTWt5QkRRZjRHLXRQVUhGY2J5eGlrWkF6alJuNFRIakljODBfQ2pwSzhDcw?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 15:39:53 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Higher inventories suggest downward pressure, points down"
- },
- {
-  "id": "86b4ca06235d",
-  "title": "Oil Prices Fall Despite Iran Attacks as US Crude Inventories Jump 5.28M Barrels - Coinpaper",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmxFSFZKNmFNU2R5VWZkR0txVE5IOFRaZVBndFZTaVI5cXRIanRHQ24yS0t1ZFRJbWlmOXV3NmsxUTJxR1kxSjkteFBPbUJpdjFjcGs2cnVoc00talpRbnFjSldHazA1ZjdhNEpsQzNIa3k3T0w5VEtMU0ZTZmdvbW9ITExEb3Q1bl9ldVdKRW5iM1BYOG9pbzB2b09HLWpUSWNpZG43bC13VFZy?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 16:21:47 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "US inventories rise, prices fall, points down"
- },
- {
-  "id": "5809b84d87e2",
-  "title": "Oil News: Crude Oil Falls as Traders Weigh Inventory Data and Middle East Risks - FXEmpire",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMVgwV2ZZRlJpcjIxemRDY0tId3NSVVZPdmtDaktWeDlrSTd3SnlGYVg5b2pOT01tRVk0OW4xQkt5S1p5UW5YYi0zNWFPVmtWaHF5dUl3aHdMcHVXaXpNSG9mVFpGX093c0dGWnc3RzVZN0RsTUg0Vy1BRkxFdkZ1TElkMjZISE8tRkhOTVQ2R0Mtc0lBUmFlUEQ2bXI3b3dpU0x6WEdhU3U2LVZNYkpUYlRmX20yaE1YSzJka3QxOUN4UnpvZ1I5Uw?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 16:22:28 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Inventory data pushes crude lower, points down"
  }
 ]
