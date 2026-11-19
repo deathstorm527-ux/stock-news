@@ -1,5 +1,57 @@
 [
  {
+  "id": "e91305dc9666",
+  "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
+  "ts": 1795124808,
+  "time": "Thu, 19 Nov 2026 02:47:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "HOLD",
+  "reason": "Hormuz tensions balance surplus, keeping oil price stable."
+ },
+ {
+  "id": "0725b150b644",
+  "title": "Oil prices rise as tanker disruptions offset surplus supply outlook - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtUDlUUFRpNG10b0liSVcyVlBGVVhLUDVkMURVbE5hcWhDMmNObDE0UGJWYzNOWC1ZclZQVGxxMWFiYzhpYTJOclltdjd4TE1VZ2tvSFQwUVpUNlByUDlyMnFZT3VwM2dNVkN2cGhsYzPSAXZBVV95cUxPOXR0UzdlXzhDZFRsSmFYZW1IckdsSWN3d1JQOU5WVVRBc2pqeERSbV95N0owa0J2TDdNUE5MUGlBMVJHSzRKVEprR0swb203SGt4b0FQU0xYTWhfSWdId3lnZ3hWazJ6SWhxckViUk1xdkd0dlZB?oc=5",
+  "ts": 1795124808,
+  "time": "Thu, 19 Nov 2026 03:19:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Tanker disruptions lift oil prices despite surplus, indicating upward move."
+ },
+ {
+  "id": "0425206a7bee",
+  "title": "No break due to 'foreign guests', stock market investors earn \u20b97.59 lakh crore in 300 minutes - Speaks Media",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0wzS3NQbG1BdGFFdkZ2eWxIZEtpeHhoZ2tSODY0N2phWEpKaHlPMm0wRkstTnJnUGlpWlhPODVFXzAybnZnX1owQllidXJ4b19MMG5FU1NpSmQtdmdGZXBDWjFKUlFZdTNlMVJwY0Q4bGV4QVdkSDNaY2JNVEJGVkZRc0ZfZFV0R3UyXzFSRnBibU1Ma2VleVlkakxZQkcxWUxOSWxTX1lXNjgzTWZmd0pYc0p2X1FyNEZPT1RCbFVhdkowYW5Rcg?oc=5",
+  "ts": 1795124805,
+  "time": "Thu, 19 Nov 2026 09:44:03 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Massive short\u2011term gains suggest Indian market momentum continues."
+ },
+ {
+  "id": "69d726d76a4d",
+  "title": "US Sour Crude\u2019s War Premium Vanishes as Supply Surges",
+  "link": "https://www.livemint.com/market/us-sour-crude-s-war-premium-vanishes-as-supply-surges-11795121544365.html",
+  "ts": 1795124803,
+  "time": "Fri, 20 Nov 2026 02:22:23 +0530",
+  "src": "www.livemint.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "War premium gone, supply surge likely pushes crude prices lower."
+ },
+ {
   "id": "d5294370408c",
   "title": "Gold inches up from over one-year low, Fed outlook caps gains - The Edge Malaysia",
   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pbmFoa01KaHctNkFqRUhuQ0lIZG1LVEJuQzR0T0t0RVNodXg0a3B6RnhBbTFvajBXczBLUU14aFloUGhFRGxIZ0Ewc0VOZzhZ?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Inventory data pushes crude lower, points down"
- },
- {
-  "id": "3b03cbff85e2",
-  "title": "Oil Is Estimated to Ease in 2027 as Suppliers Adapt to Hormuz Disruption - Goldman Sachs",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemVlWXFYSER3TzkzTUttVzhFRlppS3VNeDkzNUh6ZzFZQ1NIVjNMREFjLXhnS1h5Vmw0R0R3UFFVa0NTNnl3ZjFyaHZtOVFuV1lOSmotdW5wX3JhUDItVW9QRFRkUmVvTGRXOWEyQjFQQmVrbUNQcFhXbUZ1YVhKTzhSNFB2Qk5GckZ6eUFBSGtVa3RWbVRDcE5LVDVqaW9ZOVQxUExCNVhzMHVWMWVWamwtekNRWHJKTkpN?oc=5",
-  "ts": 1795019422,
-  "time": "Wed, 18 Nov 2026 16:28:12 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Supply ease hints lower prices, points down"
- },
- {
-  "id": "23c591912999",
-  "title": "Jewellery Stocks Fall Up to 4% as Gold, Silver Prices Crash; Titan, Kalyan Jewellers Decline - APAC Media",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXV6TVk4S1RNWEtSNWNwbFc4V2h0S3paVHl6RnNCNUFVZWg2Qngyb2NqSm5XR1RSWHVKV0xGQWM3TlNxNmVQRlR6bF9UMU5qa1FOUXZtY3pWWHN0WFl0b3VqU2RPUVlteXBaaFpOV1ZKRUQ5RUpkQXZRSW9Zc1BXbHRtMmFQSFpfcW5DNE9rUS1XX1NjdlVuakc3QzVLZ1pLM1E4TTdZMFp2UktfNlpjQ2tiQjF6NmdZM3ljd052bDBhR1k?oc=5",
-  "ts": 1795017379,
-  "time": "Wed, 18 Nov 2026 08:57:32 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bearish",
-  "score": 8,
-  "action": "AVOID",
-  "reason": "Gold price crash drags jewellery stocks lower, avoid Kalyan"
- },
- {
-  "id": "09d4e8c0cfdb",
-  "title": "Bank stocks hit record highs, but is the rally just getting started? Analysts cite tailwinds for more upsi - The Economic Times",
-  "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNOEFOa3BzM0l6T0hqMmRvSllyOEhQNHRLV0cwbkJPWkVjX0dHb0FSWXZuWWJtdTRpbkI5LWVGV242bWdIY2JLM3lUWjUyQlVVb1V1d3RDSGItd2Vtbkd5OXlzTlBMZEJ2cE8yVU9iR25ET1lkaUFuZVNUYk54T1Y4SHUwbDZta1Qza2g5RWNpYW5veklfMm5FR0ZfRHBSNVQ4Wmg2MnFpX0JUT3FTelBFMDE2eTlnR1B1TS12dUd2UmtzSE9lWk80cWptaHNrRENvR1VyY05KSFFwWUhGaFJuSUxtZFFVcHJPN3dBWG5kSndpLUYwOTA0NVZuLTV4UWlLa3pES201THNRazVpTmhvaFJ0MWdBa0xMODhkNjV3U0bSAZoCQVVfeXFMTTJVUXh4ZklkRVgwS2o0cEZ1X0o3cjFseGl4V0VWdWdXb3ZFNXFnN0oyN1hHRFZTcUFNTHF5QnpWUXBBdVNCT09qRXRJdW5aLTJ2Q1NEb3pQbWZNRFBxQkN3ZUQtLXlvMEcyMER1TklRXzNieDBNcW9YNXFLYVV5T0NZMVVoVGJOWWhwU0pZNE1YOV91VWZEU3BBVzBEMkVENHZyZExydFVpRWJVTzNoTTF2NG5DRGFvcHBsekh5LUV1SmlVclg0eXdtVlNXY3RadDM4SVhUZDhRTmVxVkhvNmxFS2VzVzNqMU11cWFLcFdBWFo4UG1SREh5M0NFSGJxZGxaWmpqY2Z0dzZ0ZnpzODIxaVhwaHUzMG1R?oc=5",
-  "ts": 1795017378,
-  "time": "Wed, 18 Nov 2026 05:48:03 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Bank rally suggests broader market strength, bullish outlook"
- },
- {
-  "id": "bdf0e69be086",
-  "title": "Market hours extension not a priority; SEBI mulling to strengthen margin trading facility: Pandey - BusinessLine",
-  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaEZJdVJBcXVxN2d5Z2dzNFp3MHRqUDh6RnlKX3V2VnRWRGtNUG5KTTBJYVpLUEk3RmpwcmxTT1hZNG80dnZMbDFObTZVdWFOcUptZHlUYVZkVjQzaWgzWHh4dktiMi1jZk9nOUNUMEQtNU43M3l6LXZ5UnpCSzlTbzhlbUw0ZXFKRWs0LXgyNW9MU0hiLTZiZ0dPSjY0YnhaYWxPUUhtUlY4dGtrN0UzQTk2T1QtMUpSb0x0RXBSZWhjYnowb3Vxakh3ZWR1MGNyMU9Hd2ZqU1RRWUNKT3JVOWs3ZExXTVZzZzE1bUdVT0htUdIB-AFBVV95cUxNbnJqVHYzZTRUczd4VWJRY21JQnByZ3dCanpZOXFkMjlDcU1xaFo0T085bWlnRnE4eDVESFdNOVptdzFNX0Nad0pfM3ZZbGR2SVZaQjczaHA5Vm1sLUZ1dnpta2xHYXpJRGJJSmQxTnlJQkVhcTFiMGtLaEZ2blhyYnV1MFZnZTJZYnV1dEdtTlhHcTRDMWxZRkdyc3p0V0xEdjJBa0toSXVWc0pOSTRrQV9tZnlMMW1YNl9PMTFGOXRGR1FRMG9MaXdaQ2JqNTRnU2ZPQlhsczBueFBkN2RxY19tb2RhSDlMdjdPdFRlSWdLbWd6MXdwag?oc=5",
-  "ts": 1795017378,
-  "time": "Wed, 18 Nov 2026 15:11:11 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "neutral",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "No extension keeps trading window unchanged, limited market impact"
  }
 ]
