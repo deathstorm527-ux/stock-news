@@ -1,5 +1,57 @@
 [
  {
+  "id": "c23e56726fef",
+  "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1F2NVZ4NG9Xb3pPZEdDWnljbkkyTVI5NVhhT2JQS0M1RFFENzMxd3lRSFNVd2c4TGFkblNZNExTMC1NRWVjVEV6Z2dRcVA3cHR6VFh3ejNZNUtoOTF6OW51Q1UyV2F4QzFRTHA3N19GNHFwZ1lseDMwaTlTWkdHNVBlT2pvTVVYR2F6SE5ZTndpb1ZhYXc?oc=5",
+  "ts": 1795206571,
+  "time": "Fri, 20 Nov 2026 15:11:01 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Higher refinery processing may push crude prices lower."
+ },
+ {
+  "id": "6e8546b9d9b7",
+  "title": "Gold and Silver ETFs Fall Up to 9%; SBI Silver ETF Hits 52-Week Low: What Should Investors Do? - NiftyTrader",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEstRV9ocWZmbGh4RlhFYWtLM3JGR1RmMXJUVFNHRjVwVWhwRnNEM0ViYlpLN053WTlFdXIwVnBwVnhtLTdEaHVGTnpYcTFhQ3JqZGFXVVhtYVpHUE14Nms3MllXSzNNUXpRUEtwX2s5LUZYMHI4d3B4YW5JUVhfNDBn?oc=5",
+  "ts": 1795206571,
+  "time": "Fri, 20 Nov 2026 08:31:33 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Gold ETFs slump signals price pressure, caution advised."
+ },
+ {
+  "id": "41d274dfee40",
+  "title": "Rupee Gains Over Rs 1 This Week as FPIs Put Over $12 Billion Into Stocks in November - NiftyTrader",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVhvcnlIZHNrOXdRM095bHBuNVVXcnlOeV8zTFpiYVNvd25VRFltZDZTdnVVNnVSNWZ3QVlUZWl6TTFUWWNfd0wyZ2dxOWlrWkJfeFRpM2hKSDRVLTBNRXlSWkRuOUdFZzlUMXBLaWdRUlJnV2ZzMHNzcEg1WHo3eQ?oc=5",
+  "ts": 1795206571,
+  "time": "Fri, 20 Nov 2026 09:33:44 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "FPI inflows lift Indian equities, supporting market rally."
+ },
+ {
+  "id": "ed7951b545dc",
+  "title": "Gold, Jewellery Sales Spurt Up To 30% On Dhanteras - NDTV Profit",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1BxUXlLV0Z1ZVlHalVIZVphWFFzWUVZNTJqcGN3SmF3Um52VVFxZEVQWUhZaXlaNC01dzBnMHpBR3BWRjhlX1ozc1V3RVlROWdhblltZndpSHplUjRzZW5WRTBKM1JFTVU3NWhSN1NSaVk2bEFYRmlmWXNRcTREVGJaVlZXVHl5M2lwc2NlbWt0dzF2clFlWk5QLU95WmRJNTA4?oc=5",
+  "ts": 1795206570,
+  "time": "Fri, 20 Nov 2026 14:28:38 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Dhanteras jewellery demand surge boosts gold and jeweller earnings."
+ },
+ {
   "id": "1466b7df498e",
   "title": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge - gCaptain",
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajV6dVh1R2Nmdm1lMzRHc2Q2YVJqb0tRNF9KdWpsSlFCSnR0RzRSQTM2WWd4eS1zaWg1S2tIeUZaUFpiSTlCLVcxLUUtQ3Axb2RwaXpYQnQ5SkNrTmlKSERuWnpkQ3RmZjFNcmVyeU9NX2NSdzFPZ0lzRDZrQmExTVJMdGU5bjNXdFMtdg?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 6,
   "action": "AVOID",
   "reason": "Oil stabilises after losses, indicating bearish trend, consider avoiding CRUDE."
- },
- {
-  "id": "2b1898c847e9",
-  "title": "The Diesel Dilemma: Stronger Margins, Too Much Gasoline - RBN Energy",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEtvSmdNdVU0OE9JTHZsbEJrTkF3R1JXcnppRjZTcXhaSHo1bHFOVFB6TWp0OF9OcFk0c290WTV2NmJqQ2F6eVgzMlotbnVub0xTeVpHaDRDVV9lVzV0UUo5Mm5HSXZfMjAxQ1pDd2ZtdmJhU045SWVJR2ppSjMzOTYtM2lndUExa3pRWU5Bd0FqMTNDYXoxVnA4ejk5NF9G?oc=5",
-  "ts": 1795121400,
-  "time": "Wed, 18 Nov 2026 21:02:21 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Higher diesel margins but gasoline oversupply may pressure oil, stay neutral."
- },
- {
-  "id": "65526a3291c5",
-  "title": "Cushing\u2019s oil inventory dropped while the U.S. total unexpectedly grew - Oklahoma Energy Today",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rb2tBZWJlOW5zckxJUE96Z04wY0cwQWpyLWxCOFJsSGQ0T1NKS0ZEaWNKTHdJZm9udTVfRkRGRGlQZUZXUVV3MTlYcDJadjdkcVQtWC1wUUxYNXNCeFhaa3hZM0ZZZjFz?oc=5",
-  "ts": 1795121400,
-  "time": "Thu, 19 Nov 2026 19:06:12 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Mixed US oil inventories create uncertainty, monitor CRUDE closely."
- },
- {
-  "id": "98c7e4def63c",
-  "title": "Equity markets open flat amid gains in crude oil prices - DD News",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEFpMVp6bkNEaFpsZV9md0thQXdLc3Z4MDBDbU1QOFE2Rkt1cVFiSExJaE9CZW1GQ0NMaC1FOHl5QXB4ODg3ZWFoRFByRC1TUi0wTFNLWXpjX21EX2JqN0sxLVY1cGZrMm1qWTgwZGNFSkxldzl5aDM2Qy01SDBwcDVJeThGakVW?oc=5",
-  "ts": 1795121399,
-  "time": "Thu, 19 Nov 2026 12:50:22 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Rising crude prices lift intraday oil trades, bullish for CRUDE."
- },
- {
-  "id": "73622ec32390",
-  "title": "Celebrities favour jewellery by Indian brands for Diwali celebrations and festive appearances - The Retail Jeweller India",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNHNlQ1VaMU1EYXlXTDF5Uk5HRjJtYy1ReXBlR3hXa3lZUm9wb0JOZ2JudkNjNzdXTEUzVkIwdjdPRGYyTV9rc1lTWkJQUFlnZ0FacmlKUGJuSHJlMHZadkNNeHBPZGhVZzdhMGFHRktUamFMajJOQWJRQjhVMGFZUExqWWNfVWZHZHEzUUZ5RzdfanJzODNmaHotMVZhVmV6YWlRYTdqQjFfSVhveGEzcHM2NnVVUXZ3VHFRci11LWotVGpa?oc=5",
-  "ts": 1795121397,
-  "time": "Thu, 19 Nov 2026 12:40:43 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Diwali festive demand boosts Indian jewellery sales, supporting stock upside."
  }
 ]
