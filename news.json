@@ -1,5 +1,44 @@
 [
  {
+  "id": "e3c5cfb1737f",
+  "title": "Why have gold prices fallen by 25% in nine months, and could they dip further? - The Indian Express",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMUlLeUpqV0pkMTZCZ0Zoc1FCZWJLUE8wRG9PWkVCTDFHelpFZTRLU1FzQmF0Y3R2LWx2VXQ1dFpqNGs3WnNOaDFfYjAxWExQQ056d2hZUWQ1Yi1EWW91dDRnTTAzWUFZZTN0c3Z4NF9GTk1mYVMwT3Q1UWtYa2o2b3FBTjZPMThNX2NJRXJMMEwzcG9mSzUyM1FTNWw1X2p3V0NpaW9KNHVISnB5UE15WllVZWRXUW8xbkMzdkk2UjNDM1Y0WWx0VtIBzwFBVV95cUxQOE1kd3oxdy1wZHk1UHppbWlpaHJUNkJVV3ZrdTN5YS15Z3JuNmF5VFhPWWJjczZNV0VBaUtPaDU0clJvMExJSFVpZDgtXy1ra3RxQUpjQWZEX0twT2I5YWZwUEZGMF9jVjdXT2tha1VKT2xNZWJRRzUtTTZNRjhvWTBsS0ZkbEllSWpsazMzajVQTnowd3VjWEVZZXZJZjZoQUlTVUNLN2IyNDJJOF9OYV9fRzFZRndyRTdpbVFKX2d0TS1OQzlUYVB0VC1fSnc?oc=5",
+  "ts": 1795199209,
+  "time": "Fri, 20 Nov 2026 14:23:48 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Gold down 25% suggests further dip, risk for buyers"
+ },
+ {
+  "id": "8e14994499a2",
+  "title": "WTI holds above $82.50 as Middle East tensions counter expectations of surplus supply - www.tmgm.com",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDZMbEFxd1g1V0hjYnJQXy1PRDUyMUpRQmdfcmlTU2pMYXpFZUFmNDVTeHhGa0ROamUzaGMwRmNpd2hnVUQ4ZVJiUnZyRFg4bUtmR24xS1FPQmduOV9RN0otd2ZBdU1sMVRSaWJPM1EyWFhtWXJkOTgwNFM4LTBwYVRYTHlBYng5Nl9PMnB5alBJZGljbFIzTHhyaGQzQ2dEeFp5OVl3MWNDcDY1clliMTA2bFNkdU1LNlJNRTY3OEw5YW0xZXNUNllZNGJpSU5fRmV2RWRQdWhjZVNHNE80?oc=5",
+  "ts": 1795199208,
+  "time": "Fri, 20 Nov 2026 09:22:47 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Middle East tensions support prices, potential upside"
+ },
+ {
+  "id": "5b14e75290d5",
+  "title": "Oil prices set for 3rd straight week of decline on West Asia export flows - Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdFh0T01MeW5LX0pKM2tqQVZxTzh2RXBwd2s1djFtTHFTNW4wdWhsU0JYVk55bXhINjg4OGVHbXVJM3JGdFo3SU1GU01MV01TT1M1ZTJWWmQ3ek5Dci1GZm1UUkZ0Qmhfa1FNVXlpWE0wZzJ3YkxIQUduWl9icE5fSDgyYnB0cXVQT1JRTUpuczM1bkxhQjZ6V05tbVE4Y3EzZGdodndRS1pKRzh4ZUVDdkJkVlMwMWdxQWIzX2FCNVhLQzZiRmxxbGhuU3J4YWVfSURaWFYzY9IB3AFBVV95cUxPRjItMHdpLURWYlhYelEtT2o3V05GYnpEbjIwcG1OeG53cDFpS2hubGJSQ2h4bzNzWGdqa2ZoRFFOb19hdUwwXzU1WEtJa2pSYkhHdjVHcE5ZLUNZc1dSc3dYRGhkN05tWGwyVnNuMFBlSW04ZlppQ2k3R0xDclFmRmg2dDJrM1VSVHRabUxzU2I3NnlqRHBSZVZfQThjNE1ZZnhILUJpakcyczZ3SlAxelZ6REw4YmRpaEs2QzlmRk00MFNZZURPZkpYV2NSblcxVDItSnNUeHN3UE5i?oc=5",
+  "ts": 1795199208,
+  "time": "Fri, 20 Nov 2026 17:28:17 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "West Asia export flows signal further price drop"
+ },
+ {
   "id": "ff0ab73f446e",
   "title": "Middle East latest: Saudi-led coalition targets Houthi weapons smuggling at Hodeidah port - The National",
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2s2d2xVNlpZamM1RXpfRURTUFM4eFhHeFBkQVp6TTlLTXZWMjB5WFEwcF8wQ2dqR3U5SDd2VUNKdm1uV2RfV256RHUzUS1ZQWZJdnNlRmJtemxFeUZLR2tLWXhza2EwOVBWUEVPeUJ2VG9aV0R0RjVSWU1wVG8zU3p4RWJQMmhDcjdKOF9XZXBMQQ?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 4,
   "action": "WATCH",
   "reason": "Shipping costs stay high despite hostilities pause, sustaining price support."
- },
- {
-  "id": "ca5f07d7ed00",
-  "title": "Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falling? - International Business Times",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ydThRS1E1Wko3SkpSZHVndmhTeDFwR3BoYi1FdUVGRDY0NHdOVzhGWUxKTU5sR0lseFhlSmx5MzR0bnM2alczR2hCQThLbkczVTQ0NFNRd3lMZ3VFVUk3TGtMU0tlNi1EZmdoRXRIUlJURVY5bTZLSU9mZ0U?oc=5",
-  "ts": 1795113077,
-  "time": "Thu, 19 Nov 2026 18:09:37 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Supply loss yet falling prices show downward pressure on crude."
- },
- {
-  "id": "9efae172885d",
-  "title": "Oil prices rise as Middle East shipping attacks counter supply surplus outlook - Khaleej Times",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWlQQWFGRnY1Tml1eC1OTVZVZl9sX2x1OTJreHZRNTRZbXJpNWpFQzBJMWUyOXJSajU5TDlXWnh6SjNnMGRTeWRZZ1lXVkgybmFZWENwUE9pRVh4M1RpR1BvRHg4b3prTnBHNTVoeVlGcXNfSGJLTlJ6SWcxc0M3UXZwTlR3aEUtTGRHdEk4LTh4WVJSemRzaE9oN0ZqdHZ4SlU0ZXhRcHJjZjk3ZWc2ZUhOdFB3RU94NnhRdlVpVdIBvwFBVV95cUxQTWlQQWFGRnY1Tml1eC1OTVZVZl9sX2x1OTJreHZRNTRZbXJpNWpFQzBJMWUyOXJSajU5TDlXWnh6SjNnMGRTeWRZZ1lXVkgybmFZWENwUE9pRVh4M1RpR1BvRHg4b3prTnBHNTVoeVlGcXNfSGJLTlJ6SWcxc0M3UXZwTlR3aEUtTGRHdEk4LTh4WVJSemRzaE9oN0ZqdHZ4SlU0ZXhRcHJjZjk3ZWc2ZUhOdFB3RU94NnhRdlVpVQ?oc=5",
-  "ts": 1795113077,
-  "time": "Thu, 19 Nov 2026 16:49:10 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Shipping attacks lift oil prices, supporting bullish intraday moves."
- },
- {
-  "id": "16e2c03dc257",
-  "title": "West of Suez: Brent rebounds as US ponders Iran escalation - Quantum Commodity Intelligence",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5",
-  "ts": 1795113077,
-  "time": "Thu, 19 Nov 2026 18:10:37 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Brent rebounds on US Iran escalation concerns, indicating price upside."
  }
 ]
