@@ -1,5 +1,18 @@
 [
  {
+  "id": "5862fa237a9a",
+  "title": "Nifty trumps Nasdaq - BusinessLine",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2IxWXRhXzBBM2c1VlNUOVBoajFlTzFUUy1DWkxfOXRVeHdpVmx5bVM1MUk5UEtjNWUzbHpVbXFKN09HeWtBQWtoQUtaTTVWbGYwV1pCMW40NGlJUDdEM3o4N0lJenRCaHcxRUpKVzNWLW10SDhaZ1RqMTVEMnhiZ0o5NFU1OENPenFwYXpGQdIBlgFBVV95cUxOMWpVWGROWWl1Q0xZQm1SdWtqODRocHJZNkJ1SExVaFJMRnQxWG9nUEh5NFJ0N2h2eWRQZGwwZlRLS1hHSzEyZVVxN2kybllweXBPSGRySHlGYS14MEhsU2RESGxkVTg1MDlneENaczltbUctbUJvX1RiOHNPVWlWcjZ2Qk02TENrODFNbEdRZGVUQlNpU3c?oc=5",
+  "ts": 1795209852,
+  "time": "Fri, 20 Nov 2026 20:28:39 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Nifty outperforms Nasdaq, signalling strong Indian market momentum"
+ },
+ {
   "id": "764a8e8afb01",
   "title": "Rupee rockets 70P to 7-month high of 92.62 - MillenniumPost",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMU96a2ptcU9SZVFaQTBGeGNJYTlJSHVDS0xIRXl5ZmlmempkZWtHdDlkNnRsSm1xQ0NCMzFfc3lTRERLcG9tek96aDhDN0FnWTVwM3IzcUI2S2hNLU1kMlVfZjRienBNdDl0ZUpOMkV5OU9Dak40MzFfZUo0dWZfSTE5NjFlWkd2OXFodlk1UmhPXzlB0gGaAUFVX3lxTE1lOW9XeGtkVURsdmdGdEZHNXM1T01VNl8yVWJDUjJuZWlLckNEZnVIR2hEYzZmMkJBcWd5d21UOGdlWC1FZWg2MHFDQ19fQjFqRUJ4THVGaWdNNDhUcTNOaE1CV0VHLUFocVFoQk9pUHlXQWctcXdOaVdRTFVwS0RMQW1IeFphZ1g5dTFKaVVzNV81TTRnZnNjOFE?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 4,
   "action": "HOLD",
   "reason": "Volatility subsides, prices near flat."
- },
- {
-  "id": "fff329972d54",
-  "title": "Goldman Sachs Flags Demand Weakness as Key Risk to Oil Price Outlook - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXEzSFRqQ0hoTmdTMTk0WWF1V1ZIQ09la0kyV000VTdNUEVOVVY5S1lSU25SYVZvaXM2WjM1M3g0SlZjTVJ2Zm5LZXZ2NWhZc1A0Y0lPb1NybXF4OEl1RHNtOWJRaDduV0Y4Mk1YR19oU1Q3WFlZOXdsY2s4OERqeExNOUNZbHdxYm5kdnlKc0NNZmN4OGRCTVQ0QjY3OEU0?oc=5",
-  "ts": 1795123597,
-  "time": "Thu, 19 Nov 2026 19:38:33 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Weak demand risk could push oil lower."
  }
 ]
