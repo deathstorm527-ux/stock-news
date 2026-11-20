@@ -1,5 +1,31 @@
 [
  {
+  "id": "1bb33f80a907",
+  "title": "Oil Prices Fall Despite Hostilities as Flows Increase - Oil & Gas Journal",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Y0TTZzX2tCSnFzQ1l4Q2toN2FyNHdWaVJSTEpUdWV1R2ppMk5IMEFfczBBM284c0YxX1RQVEdFZDk1N05xbjYtWlBzSlNxWVhlV2c4T1ZRRG9CaW1vSy1oTEZ5MExnMXlDUWpxQzB4b2ZjNjBjT1JGN3E0VHFtRlV6NlM0RVNMSVQ2WHVDeUREaHMyOTByYWRFNmZtM003UmhYc0ZTeC12akJSZFFIYmhRc2w2NkZkdkh0U3NoUlNHRzQ?oc=5",
+  "ts": 1795216682,
+  "time": "Fri, 20 Nov 2026 23:07:16 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Crude oil falling despite hostilities, indicating downward pressure"
+ },
+ {
+  "id": "4d6f8371bc8f",
+  "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+  "link": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+  "ts": 1795216678,
+  "time": "Sat, 21 Nov 2026 04:09:19 +0530",
+  "src": "www.livemint.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Gold down due to hawkish Fed and AI selloff"
+ },
+ {
   "id": "f728534b9aed",
   "title": "Fed governor admits people see higher inflation as normal as vows to break that 'kind of psychology' - Fortune",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFkzcUtvX214TTVnVGFaRTZFNkk2MWEySGkxVm9sQUc0YzBwa09aaVVnWHhMTlhVQzRLV000TVM2Q3ZxSldoYU1XVm4yVDJNdTRBbm5TRGlOcFg5RUs0VzR5V2NpLTUzMm9TRVBVTDhjVDU0ZkMzSS1fd2ZmaEhLbk45Y3EyT1RVdkNTT0pPSTN1VkoyZmJkc0trRldhM25NNXc?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 7,
   "action": "BUY IDEA",
   "reason": "Tanker disruptions lift oil prices despite surplus, indicating upward move."
- },
- {
-  "id": "0425206a7bee",
-  "title": "No break due to 'foreign guests', stock market investors earn \u20b97.59 lakh crore in 300 minutes - Speaks Media",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0wzS3NQbG1BdGFFdkZ2eWxIZEtpeHhoZ2tSODY0N2phWEpKaHlPMm0wRkstTnJnUGlpWlhPODVFXzAybnZnX1owQllidXJ4b19MMG5FU1NpSmQtdmdGZXBDWjFKUlFZdTNlMVJwY0Q4bGV4QVdkSDNaY2JNVEJGVkZRc0ZfZFV0R3UyXzFSRnBibU1Ma2VleVlkakxZQkcxWUxOSWxTX1lXNjgzTWZmd0pYc0p2X1FyNEZPT1RCbFVhdkowYW5Rcg?oc=5",
-  "ts": 1795124805,
-  "time": "Thu, 19 Nov 2026 09:44:03 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Massive short\u2011term gains suggest Indian market momentum continues."
- },
- {
-  "id": "69d726d76a4d",
-  "title": "US Sour Crude\u2019s War Premium Vanishes as Supply Surges",
-  "link": "https://www.livemint.com/market/us-sour-crude-s-war-premium-vanishes-as-supply-surges-11795121544365.html",
-  "ts": 1795124803,
-  "time": "Fri, 20 Nov 2026 02:22:23 +0530",
-  "src": "www.livemint.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "War premium gone, supply surge likely pushes crude prices lower."
  }
 ]
