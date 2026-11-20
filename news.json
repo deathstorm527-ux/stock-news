@@ -1,5 +1,57 @@
 [
  {
+  "id": "be791bc02f6b",
+  "title": "Maruti Suzuki Shares Surge 6% As Nifty Auto Jumps 2.6% Amid Falling Crude Oil Prices - Kotak Neo",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQm51SzhubHl1RmNjUkltWExZVGZNcEVyUVMySEhuTVloVHdKV3A0OTVyNWgzLThZcHYyZ1pQRGwzTDA1QlNqZVJ0Nk9pNi0wdm5qY1lKLW1lS3pFQmtybk0wZVpuMjJ4bi1zSUYwV0c5bEZHOVJ2dktnYk5NZTc1M2xsbWtiVjAwc1RYVGpDLUpNSEdnVzJEZXZkRno4a3VOenV4dEd5ellaakR5eHotUlllTTdUSkdaaHUxVERna2tIWGxHVHc?oc=5",
+  "ts": 1795134524,
+  "time": "Thu, 19 Nov 2026 07:15:43 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Iraq output cuts likely lift crude prices, supporting bullish outlook."
+ },
+ {
+  "id": "2af0b18ee9e9",
+  "title": "German Green Steel and Power Limited (GERMAN.NS) - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FOUdaSFZlMjF6LUk5bUpfNTJMQlo2TjhBdlpEQThUcGxhRUNRcWlKNUJhNE9qT1M5cmRKaUhzVXdrNXlqRkFMR1BLRU5fTkoyWGxHdUdMVXJYdVY0QjJWVFVTa1pYOFU?oc=5",
+  "ts": 1795134522,
+  "time": "Thu, 19 Nov 2026 14:01:54 GMT",
+  "src": "news.google.com",
+  "stock": "MARUTI",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Shares up 6% as auto sector rallies, suggesting buying opportunity."
+ },
+ {
+  "id": "714d2477b48e",
+  "title": "Top 30 Stocks For New Investors In India November 2026 - Samco",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXc3YnppbkVRc1M2ZmotTUFZcFQtNzg5WGt5aW1NYW1MSURkaXVRRlZCbWZMUnJpX2FCLWlWOXBTV09CRngtVHRHcGR3LW5HNHg2SWV5d1pZenFlQmZkdmxhVTE3eWJIcllWaUNUVWVhaEtodllzMV9wczhTODRkRS1LaDdKaWo0aFJReklvX0RZaUE?oc=5",
+  "ts": 1795134521,
+  "time": "Thu, 19 Nov 2026 06:51:20 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "WATCH",
+  "reason": "Falling crude oil prices indicate downward price pressure."
+ },
+ {
+  "id": "dc6498b9077f",
+  "title": "Closing Bell, 19 November 2026: Sensex, Nifty End Higher as Bulls Return to Dalal Street - Kotak Neo",
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR2dXWExXWG5BeFV1a0picTNhRmdfLXZZdVhRM055czJUOUM0cW9mMnJ3TTJnblkwY2htZlM0MlFNYkFGSDRYV0JoTldGeERPN3UxbUtyaHVQRVlZN1JIc2F6NHd3a0prVjNRQkE2OFlzWVZtUURPVmVOYU02WHJ2MThzaHJrUGRicTNWWms5MW11MEw0WE82dVpqZEVlV2dhNEwwWG1sWGdObGNtUndjTVAtRkpleFJocWRqVG5WREwwMW85ejBj?oc=5",
+  "ts": 1795134521,
+  "time": "Thu, 19 Nov 2026 10:57:08 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Sensex/Nifty rise shows bullish market momentum."
+ },
+ {
   "id": "4e235cbf8ee8",
   "title": "US Senate Rejects Iran War Powers Limit As Trump Raises Conflict With Putin, Xi - Sahi",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRzBIV0NuNHBFRzNZaV9YZnBRRHJMWXZXMU9ST0doWnRxeXRFRC1UekpmSnZNY2hQWUhTcFY0YWZwUGlPeHZUZkZHMk5yUEdEUDBwbUQ1QmY2YkVDZ2t6bGlSRDhWMzBLZ3NUNlRrWDZKSm15NUZXNmNoSl9keU8zOExoUTZTSV91V1UwZUlHcmNlczY5SnJDUEt4T1JOdk5tT3hTVEtGTQ?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Higher US inventories ease supply concerns, oil price falls"
- },
- {
-  "id": "060b32cf0ae1",
-  "title": "Crude oil inventories rise, falling short of forecasts - Investing.com India",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaF9Gd0JzMjJVQTFJaGVBSGNfUzNqdVZrNXJfay14V0YzbGJMOE1VckhPTy04NUZ3ZDE3QUZHTV9mZWVmUG5qUGhLMXJqcnZHT1c2OXZDMWVSNEVNWjlnSHhOaTR6RnI4OE1rcWVzdmZUaGZVQkwxcTMwNDJGQ3BQN0t4cG8ycHZoTXFCcFIzNGlJWGtoc181TEJhS0pKaXF2cTdGSmRIQTJnUkxna3ZzQzVDUVA?oc=5",
-  "ts": 1795025058,
-  "time": "Wed, 18 Nov 2026 15:38:51 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Inventories up but below forecasts, supports price rise"
- },
- {
-  "id": "58fbae1887f3",
-  "title": "Trade Setup For Nov 19: Nifty Support Slips Amid Profit-Booking. Can Bulls Defend 25,000-Mark? - NDTV Profit",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUVsR1MzV1h6blVWYjJxOGthdXVzQW9KblM4aFZtR2dUdDNrMXppVEVRSV9MQ1hXR3lZV2FuNVpmV1lpdURjTGc4a0ZfeV9qalZGWGRYZy00VVVIZWdocFVGQ2JkXzIwX3hOWFVfMWxDd2tmYm9YaE5qUXZ0ZkpUaGhlMkI4YkljRkgzWTg0aDZaSl9iTG1mS2xQeVZFQUNEYmVKZWFqNXh6Sm1qcTlITzAxNDZqWEt4Nloyd1IwUFFBQjFudVZUV0ZBTkdFTkVW0gHYAUFVX3lxTE9wYmZPQjJDV3lKQkx3VkxwUm51cFZ2TVUwc3VQVWJPMTZBTnlDdGl3Q3FpZGg1ZU9FcFpYc0VpMlp0MVZWTkJBOHcyRWNOWnF3VTNhMUJ5WWlyWVg3V0VCYnpRTFdsZzBkOGVyWDNzOE4wZWtEZUl3Z0doQVpySk5ROHpja2dIOGhqT013WU1WNV8yS294NWd3b1lPcVQwM2NuQWR2SlRlbDFrTFp5ZTBCbWNCMHRvYkVnUTlXNVNOLVFBLTNmQ1dRTHZfeHI5U0N1R1EtN2tXbw?oc=5",
-  "ts": 1795025055,
-  "time": "Wed, 18 Nov 2026 17:41:10 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "neutral",
-  "score": 6,
-  "action": "WATCH",
-  "reason": "Nifty support weakening, profit booking may push lower"
- },
- {
-  "id": "58f99dd714df",
-  "title": "Why did market fall today? Sensex slumps 500 points, Nifty closes below 25,250. 4 factors behind Rs 5 lakh - The Economic Times",
-  "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYnJoR3EzWGMwcjY5WlVuMFdtTXAycjYzQ2VEMUhYTldOSmRZUFp5UEk0aXNXS2hxdGllX1FjV3JOMHZjanNJZnRDTWtFcGMtQmpVT2dZSzBBdDhXOVBlalNXYmNFaTJoak9VQm5SemhfcGRuaE9zMjdsd3lsZGhFZGVGbGxraW1RdHI0R19iWWJwYzV0UUdqM1oxNWxaZWluTDM5YWMyd2RpRjBMWGNISnBkOXdWTnRjR3pEdEZOZHV1X04zX3IzaThteWRlTnhoV0R5ZTM0c0hFeGdFdUhMQnZid3ZRa0lWMkItc21NREFDdUJCZHVhVGVHVzhaY1VvY2tPM3JRYVUxOE41R09zcFRBbXpaNmfSAZwCQVVfeXFMTnAxYmQ2SGc0MzN4T0ZBSGFKa0Q5bWhPN252RUNKalREOTFsRU9wTTNQV2R6MkV6QkxrNW1tQmV0TEUyS2JqTmJ3T1FSbnNxYU5TVWViNjBndndlY0w3VVVrWVNBb1RGTndaNE16LTJGWVFUN3pFRnBMbTY2Y0ZMbU4zeTBxckJZRi11d1FTbnZWZEp2X1ZSOXpTbGU0MDNPQXh3TE9sUm41YmJDdXM5VVY0aXZORGduWTU2NTgzeXEyU1NSRl91Q0hieTRqNnVWeHRXUXl1MmZnbDNYbjFiYnRXZk1NMXJKZWlkODdiQmtobW1nYWc2ZDcxa2JCWWJIUVBVNXA0VnNaVTlTS0MtVnJLM0lBVWpGZVZMbjQ?oc=5",
-  "ts": 1795025055,
-  "time": "Wed, 18 Nov 2026 07:42:17 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Sensex down 500, indicates continued sell pressure"
- },
- {
-  "id": "5fc655ccf5b9",
-  "title": "Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained - NDTV Profit",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2lFb3RjQmxnY25MY0VFZnp1OFoyRzNkLWQ0VmtjeDZKOGhyRkFFOVNfaGk5RFBETm53a1lMbWlXZmV0Z0pSYmxFZVBIT0NrbW53WG84YzhhcEwzUXNkZXpMaVFKb1FLZ1hhSFZOb3BjazlYckh4TmM4R2puQ09wREtINlpQMFF5UTFLU2NkanVsQ2RNdnphaERfVWNmSGJMN2hLTWt6aU80d3EtR2JLRVVqbjI5NTRpNGhEZmk0a0ZkMjJjM3Vj0gHPAUFVX3lxTE5LMl8tbmpMVHdYMVFLdVhnS2lyUXBFc2xrZlpqSTRwbUthMndidy1FR213YzBZWlRHcktvV05yTWtORUdvV01VenRwcHNzdW9OWFdpeF9UZFpGeVJmQkI5dnF0aWIzMTJrcTFLMDRBdDA0Q2QwWjE4bnpVNGhiUEI5bVRtV1J3eUVKTVJMZjQyeDJmNDlEb2dqR2YtLW8zUUNuWGNubGZhakFJTm4zYlN3ZXNmVWlCY1RhUjAwVjYzTUx3WlVvX0NpT1QtYmgyRQ?oc=5",
-  "ts": 1795025055,
-  "time": "Wed, 18 Nov 2026 08:09:15 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bearish",
-  "score": 8,
-  "action": "AVOID",
-  "reason": "Sensex down 700 points, broad market weakness"
  }
 ]
