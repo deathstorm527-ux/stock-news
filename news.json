@@ -1,5 +1,44 @@
 [
  {
+  "id": "74abdcc231ad",
+  "title": "Oil prices set for third straight weekly decline on strong Middle East export flows - CNA",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmNLaTkxQmh5NWhPZy1yQ2JaTzNDQmtxc3lfRzloekItV1JGNW93MW15XzBxM1Y3UG5uNG8tUkZBNl8xTDVuWEFkQlJTcVN0N0M3NzNGZTlWenF0MjJRVEdhamEwTDIyVnhkemZwdDdGTGRtdE56TlJiel9ZYU5kUFpaQ0o2ZFlqeF9zaU1LOEcwRHpuRElDb0ZSanp1QTk3cmZxMlJ2ekxHRXNCUGgtdW8tRmpzYm5adDl2ZndJR3M1S3c?oc=5",
+  "ts": 1795188476,
+  "time": "Fri, 20 Nov 2026 14:24:04 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Strong export flows drive oil prices down"
+ },
+ {
+  "id": "bb40baad727e",
+  "title": "Markets gain 2.6% on FPI inflows, rupee rally and cooling crude oil prices - Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSktmSjNaMEFCRGluQXh5d0Vwelc4WlRWTGxUX0gxeTdYZ2RMak9jWWJUMTlZQ3JIbndfZDVaa0FHNGhwZG9SaElBZURXcDlLaHBxTkhHMEhtSHlZRVNuX0xKQWwwSmFid2tVczhFdl9pMGNISkR2UnMtTl9GUWhROUQ4S3YtYTZUek5jalo5QU5Da09PODZIY2ExYlZOQjdnU2I4elVtZnRIZ2RvNHZpOVE4UlYzaklkZHN4RVp2Nk5PS0VQZEtObjhFcXlHbkpjNF9RNGNR0gHbAUFVX3lxTE1VOENVNy1sVGptdDNOaldpanYxNkpndmQ2Q3RNVnVmcy1NVkNGdDFpRHlTN1o1MnM3RVI1VUg3Q3hlWnIzLTVhdFhMY29UZ2xSZFZ4bnlWZGItNERZdEhyUnpLd05tSnBvLXB3bmRmY3EwZmY0YTV3OWRxUjctb2s1dFlQZW1SeWNhcFJzYUZtbDlSNVVxV1hyOEh1Vm1QNGEzVnJxYkJyblpFZXhVRGxhZ0xScFBDMWVjR19fUjFaVEFYMWtUZFR6ME1sX0VxNXRQdWZWRmcxYjN0bw?oc=5",
+  "ts": 1795188476,
+  "time": "Fri, 20 Nov 2026 13:54:50 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "FPI inflows and rupee rally boost Indian equities"
+ },
+ {
+  "id": "b4f8a144e20e",
+  "title": "India's LPG Consumption Hits 8-Month High as Supply Rebounds - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFBNeTZWQ2s5RlNBZWxOd0dNdzNyYWduemQ2MzFZYURWWTFIMzBfc0FPUnNEbExlcGh6Z0VnS2x4dXYtdnduVzBmYzRkMjhRSkVfWkJPUnFySm1LUFdvVnhYdklhT25XX1p0WC1ZLUIyS1hqUUhTTGhyUVpkbTMtY0ZiNXlfQkVWY3BiS3BBT250NC11ZG1HdkVlQnB0MVVGd2JBV3ZZNEsxNlBIQnJIZlI0UGh2QdIBuwFBVV95cUxOTXpyTUpBT0RxX0Vhek1VZ1Bsd19weWpvSldvWjZlai1ISElZX09LYzgxR2dhUThaTVI1ZDdwSHBpdHNqX2RpcW9TLTRxY3ZmZXlQNmdVMDRldUJ6UHR4SjZUZktZeUVwTTJldlhnWlNmcnpNYktKWEZET25BSlNaRDJSLWFFc3dTVkgxNDkwSHduR3JhSWJLdi03ZmV5S2tFcXdCRThla2hNWnFPRGJBc1ZBSS1haTNvODdR?oc=5",
+  "ts": 1795188476,
+  "time": "Fri, 20 Nov 2026 13:30:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Rising LPG demand hints at stronger crude demand"
+ },
+ {
   "id": "200a98755e46",
   "title": "Brent Crude Could Fall Below $80 on 2027 Supply Glut as IEA Outlook Weighs - BigGo Finance",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UVmE5RkpUVG1jUEEwS2l4WE9kZnFYNlZfcUloMGVSaHBfNmg0N3JONDBqUWJERkhNM1ZaaDRNVWhCbi1aMk04UDAwZGtNdjlFd3JWSFRHXzNWdHdtbVJnVHpfRC0xV3piOVlOQng2RkhFR3FWNGc?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Israel-Iran conflict pushes crude prices higher."
- },
- {
-  "id": "030a6861b446",
-  "title": "Under Rs 1,200 Stocks: Kalyan vs CG Power vs Infosys - Univest",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUERydWk5ejE5em5ZUTMxMmtrM21vc09ZVWlUV0pkSnppUEdvdnhyTzhhMWo1VkNCT2VtTmtzNTdoeldJRDB0TnVpQ1EzNXN6WkdSX0lsaUZhV2NyeXd2cGw0SFFhdDNqbFFTRi15ZEhCTm1JNmRSN0YwZTE3QzA0NEk0MkxVMmFlelh0ZHJNWUtNUUVMNVhLdnBWNS1DLVRGWlYwY1V4VTJpWnlOMEpwU1NFYTZnVTgzcmxB?oc=5",
-  "ts": 1795102070,
-  "time": "Thu, 19 Nov 2026 09:55:00 GMT",
-  "src": "news.google.com",
-  "stock": "KALYANKJIL",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Kalyan Jewellers priced under Rs1200, attractive valuation."
- },
- {
-  "id": "c7904fa9fb39",
-  "title": "Goldman Sachs turns bullish on India stock market, upgrades rating to Overweight; sets Nifty target of 28,500",
-  "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-turns-bullish-on-india-stock-market-upgrades-rating-to-overweight-sets-nifty-target-of-28500-11795099232497.html",
-  "ts": 1795102068,
-  "time": "Thu, 19 Nov 2026 20:19:55 +0530",
-  "src": "www.livemint.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 9,
-  "action": "BUY IDEA",
-  "reason": "Goldman Sachs bullish on India, targets Nifty 28,500."
- },
- {
-  "id": "c15275770588",
-  "title": "Fund managers turn overweight on India, first such classification since Jan",
-  "link": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
-  "ts": 1795102067,
-  "time": "Thu, 19 Nov 2026 20:32:14 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Fund managers overweight India, signaling strong equity outlook."
  }
 ]
