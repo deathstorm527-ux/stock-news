@@ -1,5 +1,31 @@
 [
  {
+  "id": "f71ececc4f44",
+  "title": "Gold Rate Today In Amritsar, Check Live 22 And 24 Carat Gold Price - NDTV Profit",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mdnBSZHRack9IOV9ybFFCdlVwdUphdm9zSW8yLVFPdms5SHY5U1FLaDhwOHpnSWRydHlIV0lhS0Y4cFZHS1k4VUR1OEJ3S2s0a05sX1lwU1V1eFBRcWlXeWNlYkN6RWpiY0U3SVp4cGlzd3Y5?oc=5",
+  "ts": 1795213134,
+  "time": "Fri, 20 Nov 2026 03:57:07 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "neutral",
+  "score": 4,
+  "action": "WATCH",
+  "reason": "Gold price update in Amritsar reflects market sentiment"
+ },
+ {
+  "id": "242a36f2409b",
+  "title": "Natco Pharma Gets USFDA EIR for Vizag Unit; Shares Dip - HDFC Sky",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUtJYkI5eFFPdDhGMWVSbjNmU202Rnh0Y0RzeHFVRnNOdUZSX1BaZzAwVHRzVWlFSmZGWWFMc3JFQXdmc1JGVWw5VWI0WG5ZS1JUdVBMM0FISklqMGs2SXQwXzRySV9zRDFNVlZlMnVhdEp1cV9lbjUyTGkxMXRhbEkzSWlPNFhyMTR3bWY2bFRXM0p3MlhrYVhwZnREWVNqeW5WWVdteTNydlJoTklqaFYwV1ZSZktEMXB0R05lbjhHcU5WV2twTWZn?oc=5",
+  "ts": 1795213134,
+  "time": "Fri, 20 Nov 2026 05:11:20 GMT",
+  "src": "news.google.com",
+  "stock": "NATCOPHARM",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "USFDA EIR leads to share dip, negative outlook"
+ },
+ {
   "id": "5398427629e2",
   "title": "BSE SENSEX Jumps to 83,919.71 Defying the Global Tech Sell-Off Amid the Historic Meeting of Trump, Xi and Putin - BBN Times",
   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlB2N210Yy00QjVwOXE5dXRKMXFJaUtpc0VFa3JKTlVLS2VObVhUczhPbUhSNlFMekVSYk1jdWFuQmtMamRyTjNibHJ3aklleGozMkIyNloxdHVZd3FidTl2Y0FCX2tfRU51RzJhZzZVdk5kMkt1Y1g0dDFubnZVWkVDcDlfZ1JpRF9ycmVBVEJYaUphWkNvckxhMDRrRkZ4X1g2QTFoSGRIWFRYdjJvaEgwaWdyWmp2MkJBd2F1NGpoWi01ZG5RbTdSVGdhbGt3N3BSN2U5SUh5Q19KVnc?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 6,
   "action": "WATCH",
   "reason": "Prolonged conflict may sustain high energy prices."
- },
- {
-  "id": "3104ad2de9ba",
-  "title": "Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFBFeE9aMXltVV9yS0xqMEFpaVJGaG10NkVOa09mNTEwM1JyT1p6eEdKYkxvYnJQTWtaaUItS1hZbC1xandMZHpaV3N3Yzh4MmwzUVZPZnZyOGtjcVNlcFAxSFZSanVRcXhwOXpxR1R5M0U3NjRkV2NKODRmaUM2R05jY2RfTk15bkpKMFdTMVlQSFo3b3l5MVFIVUtPTFdZSFJtcQ?oc=5",
-  "ts": 1795123597,
-  "time": "Thu, 19 Nov 2026 19:38:47 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "War-driven demand lifts oil prices."
- },
- {
-  "id": "165c014447ea",
-  "title": "Oil Set for Weekly Gains After US Threatens Indefinite Blockade of Iran - EnergyNow",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElxazJtU2NTbHdfRjNVMmcxWElmYmJnQTlpcmVaRXlCTGlhOEN2blJGZ0lwenRRQXlwN1JTNDJib2tHYmxLd2ZvSGVXV0puM3NITE41NFpXbXQzaHlTcHJyS3ZaVU40bGZ5U3ZYWHBJbTV3alByNjlaQ2Fkems2M1VoVlFyOEtEZ2otNlJhang4UGNIdnBwc21KM29hV2daazEw?oc=5",
-  "ts": 1795123597,
-  "time": "Thu, 19 Nov 2026 19:29:38 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Potential blockade limits Iranian oil, boosting prices."
  }
 ]
