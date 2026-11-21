@@ -1,5 +1,57 @@
 [
  {
+  "id": "c0c577e534f5",
+  "title": "Sensex jumps 898 points, Nifty hits 25,800 despite global rout - The Shillong Times",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjhERkFteGpfT09Uck9NU2dDRzdsZGp3UVl2VTlKUGF4WVkwdnFHVGp3VHBJQjk2ckE0MDBTY1IyeWFwTVk4R0tjRWd6NW4ycHEwemZzdUlpcWd1dzA0RWxUTS1pTkc2eENtX2FNUlFxWnF3aXNOSDZaaUwxamZBNGdWMG1mRXdQMWk3N2ROUkVXMDNGRlE1eXZWTlNHT0lwNTBJ?oc=5",
+  "ts": 1795228938,
+  "time": "Sat, 21 Nov 2026 01:08:46 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 9,
+  "action": "BUY IDEA",
+  "reason": "Sensex jumps 898 points, Nifty 25,800, bullish despite global rout."
+ },
+ {
+  "id": "73ffd5929144",
+  "title": "Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support - FXEmpire",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEZjQ2ZoWURweVpkOHVUUk92cmlKM2lyeXV2ZFdma2tjemIwYU54Q1hxQ2p2ODlxOTdjMGQtUGJrNWdJYzc5OTZrWk1XZnJIblB0U2d2TjdmaS1uSGREVVNHY2JpQTQzS2RPNEVQdU9WZ0VHc1VrLWVZa0hlazlBUlZDSUhPX0RLQjRjYVdaLW9WajQ5MkwtLXRrcUhJQTBBNlFrSTlSUXlPU0dLbGRZYWVtMTBuRzQ?oc=5",
+  "ts": 1795228938,
+  "time": "Sat, 21 Nov 2026 02:00:27 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Gold near major support as selloff deepens, likely further decline."
+ },
+ {
+  "id": "15fe4fc4aed8",
+  "title": "Gasoline and diesel prices today, November 21, 2026: World oil prices fluctuate slightly. - Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVBmUGgtci03TjN4SDE5QkZYeWFNbkh2UFlzbkU3aVF5WFBLVWFhWkFXVUZXaFVDOFZzcS1FaGhRdERTU0lpN2JfYVJyXzBzZzY3Y3hwZkNIR0lqOEJQZDRzanJLQ3h0UUpnVnJGZy1xSjhYOFF3a09YWm5FUUNLWkpsVFAxakNhanBuXw?oc=5",
+  "ts": 1795228938,
+  "time": "Sat, 21 Nov 2026 02:13:55 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 4,
+  "action": "WATCH",
+  "reason": "Gasoline/diesel prices show slight oil price fluctuations, limited market impact."
+ },
+ {
+  "id": "b78926c706de",
+  "title": "Oil gains on Iran war worries and short-covering ahead of Thanksgiving holiday , World News - AsiaOne.com",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLVpkcVUxUk1ZVWJOT3R2NDRKMzAyRlhiLWU5TnJLejYweGo3dkdFY01YcnhCbXVGbjVyWkw1UzVJbzNncHZiMzN3UGVrdENqbDQ5NHZvZVRYTjBqMjNoajZJSk16SkhNeHliSkkxYnNfMDdYUVVQdEVlVmdOdEFQSTMzN3BiSXBHM05oVS1VZm9kS0J4R0gydGRzQkxwdjZrZFZueg?oc=5",
+  "ts": 1795228938,
+  "time": "Sat, 21 Nov 2026 01:44:33 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Oil rises on Iran war worries and short covering, indicating upward move."
+ },
+ {
   "id": "622967c3b4a7",
   "title": "Week Ahead: US GDP, PCE Inflation & Fed Rate Outlook - www.equiti.com",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOGFOUE51WXJNSFhPYWJSRktSVS1YeVkwNFBabzlqUUhweEVsZ1BLZmVfOHlZMU1GSzRjY3V6aW5tN0p5M0ZBcnM4eVNtLTVyNTg3QVVWZnpKMnAwQ3N2d2lsbnBuM3ZxdkoyVGgydjFwWG1qS1p4X05kLVFtQlhnSjh1S1QwS0FnVmVubjFOSGVxa0tWQzluMmxsUlM5ejA?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "US supply surge pushes oil down \u2013 points down"
- },
- {
-  "id": "5c92b706c9db",
-  "title": "To hedge, or not to hedge, that is the question - Analytic Flying",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdDcxaUxON1BNMDg1Q0NCVUtybFFvbzVibjRPS0hxY2dqLTNsdllUMUM3SnppTHk4c0piZno1TmJQaVk1NW9UUTVndEkwWDhDeTB3Y19GbkR2eWJFT28tNWZxME0zTmdSaDlsMEpxZUVKazlXZDBYbXJnOGtnQ3JXbGYyb1E1MFhNSUwtZnBGYzdkM1Etc04zVTNXTEdRdE53VUJzMHppbnYwQlRqVHZHS08tMTIwNmozbTZtdkx0WlhIVG84aW5RekcyN2kyZw?oc=5",
-  "ts": 1795135796,
-  "time": "Fri, 20 Nov 2026 00:33:23 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Discusses hedging; no clear price direction \u2013 neutral"
- },
- {
-  "id": "e4742f199e01",
-  "title": "Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3o2NU5lU3hsSjJodkhCbW00V1hfNl8yczMwQ1JXMUZOWThDMDhJYlo1ckpfWk1ma3JoVGlzTlkxVVplbm1wcnVJek5rbEZiUEtCdkxfdE1yYnNKTDNEbWFKWjROc0dxckRlM09xck82TVdlNWZFVkFDakoxc1paZWdHVTBSS18xNGg0M3NyLV9DY2tlTVRj?oc=5",
-  "ts": 1795135796,
-  "time": "Thu, 19 Nov 2026 22:51:05 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Oil prices soaring due to war \u2013 points up"
- },
- {
-  "id": "ba87deb662a8",
-  "title": "Iran intensifies Hormuz tanker attacks just as oil prices slide - The Japan Times",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmo0U0N3ZnRIYnRYWmtwc0xSWXIyOEZ1UGVjbjVsRmlTemRxQXJ3TGhfU3NpZWdlenktWjF1N0xzZmhzby1KYXFZWEFuWG40RDJzLUp1MmxiaEo4VjZjMkFDVFd1UFRQWng1SjNUdXBiVGFYMVY5WUIxVkxzdDFRWXVHZkcxVS15ekE?oc=5",
-  "ts": 1795135796,
-  "time": "Fri, 20 Nov 2026 00:29:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "WATCH",
-  "reason": "Iran attacks raise risk, but prices sliding \u2013 points down"
- },
- {
-  "id": "be791bc02f6b",
-  "title": "Maruti Suzuki Shares Surge 6% As Nifty Auto Jumps 2.6% Amid Falling Crude Oil Prices - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQm51SzhubHl1RmNjUkltWExZVGZNcEVyUVMySEhuTVloVHdKV3A0OTVyNWgzLThZcHYyZ1pQRGwzTDA1QlNqZVJ0Nk9pNi0wdm5qY1lKLW1lS3pFQmtybk0wZVpuMjJ4bi1zSUYwV0c5bEZHOVJ2dktnYk5NZTc1M2xsbWtiVjAwc1RYVGpDLUpNSEdnVzJEZXZkRno4a3VOenV4dEd5ellaakR5eHotUlllTTdUSkdaaHUxVERna2tIWGxHVHc?oc=5",
-  "ts": 1795134524,
-  "time": "Thu, 19 Nov 2026 07:15:43 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Iraq output cuts likely lift crude prices, supporting bullish outlook."
  }
 ]
