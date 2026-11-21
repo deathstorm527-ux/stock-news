@@ -1,5 +1,18 @@
 [
  {
+  "id": "0aff23f904b8",
+  "title": "Oil prices soar on global producer deal to cut crude output - Yeni Safak English",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanZGR2ZENUZOd21yMWtIdFp4M0Z5V1VVS0VlSDdELXZzZkxsaG84NTJUSF81NGE1R1FxV3o0a1JJSDRCdzMzbkJyTGxJNFJPZU9ZS2Qxc2pWeUNPNWRxVHdRNElvU2JHMkpNdWRnX01wYXV6bmFOWG92NjhteUFleEJPVkdaMFY1UmlKYU90cU91aFBWVXh3Wl8yMTA0UV8tZnc?oc=5",
+  "ts": 1795301810,
+  "time": "Sat, 21 Nov 2026 19:43:37 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Global output cut lifts crude prices, indicating upward movement"
+ },
+ {
   "id": "dbe9ce483855",
   "title": "Easing oil prices fail to lift PSX - The Express Tribune",
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FZ2ZuTklpTmlKT01NOVh2bDdQYVd3ai1JaXd1VGZwMGJKa2t0ZWROWlNrcHd6QmNwZENUQnBsd25DT1dfODIzMWY0ZnZ4a2NPRWxrNU1WNFhwTWVEM1lPanRHQTZnRmNPRi1zUzVFRDA5SGJfSVdaX3dUQdIBgwFBVV95cUxONml2UDc2anU4U1Vwam5tbGhNZVZ2WXg5V0RiellETG00NDBRcnFjUUpieG4zd21vc283ZmV6TFQ1VUpZVFdGM0IyTEJuU3hkdHlSSGZNZmhMWkxrR3pQZS03dEdSTEJJeFF6TmdYQmtXTHJPLVpwMlBqZV9PUDZqTndwRQ?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 6,
   "action": "WATCH",
   "reason": "Easing FPI disclosure may attract more foreign inflows, boosting market"
- },
- {
-  "id": "bbd14dbe36cf",
-  "title": "Oil prices set for third straight weekly decline on strong Middle East export flows - Khaleej Times",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnFDd2hLci12TVE2ZXk2UnJ5WFlnTHU4WjlwV0ZWTXhTbjdXOWwzd2hsVVpZMWU5MktrWnhvOGpwZWI4ZWVndkM1dVlHbTZaVk9jYVRLdGEyYVdyQXk4REJEd1ZQUkV1ME9VaUo3Mk83QVNPX1k1RGFIdEN1ZzZBVzBmS3ViUFNBVUlaTjV1Y3MzVEhTZ2g5c0ZHLXRsdFRTLTdWWnA1S1c5Yk9HUFBWaThJZXRyeVJ30gHAAUFVX3lxTE9FYWhQc21HNG9MTnhYdzBNTGFGVEI3eDJIeUdlOHF2UnJnNVFJQ0ZINWdqa3cxSXJNMW5pMnBUN3R5S2hBNDhPaUtYZzJxUG0xMHk2Z1VXdGgzYVFIRmVVMFVhTU16SXg5Y1lFSElwSnlaWHZWYnNRZ2ZpekxyMjNzMEY2U2d5bkNLOE1KajYyWE00VzN1S25IbUxBSG1Id1VyNzBWN2NXb1ZXeTlfRVR3cVVyM2pSNGlJanR0dXlWNQ?oc=5",
-  "ts": 1795184916,
-  "time": "Fri, 20 Nov 2026 13:37:02 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Strong Middle East exports cause third weekly oil decline, price down."
  }
 ]
