@@ -1,5 +1,44 @@
 [
  {
+  "id": "5255aa8a66db",
+  "title": "The Fed Is Causing This Meltdown - Robin J Brooks | Substack",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tdW5oRjRwRXFBZ0hFQ2dpU0dGSndGeEJTQllHc0g3Tm1PWHJCR0FsX2NYQ1F0T0tlMzl4UWV0VTE3UXY0VjA2Tld0aTExdWJDRmFHZ0xlTGV4eFVReEFtZDI4aUtHQ29jTFdTczlB?oc=5",
+  "ts": 1795259635,
+  "time": "Sat, 21 Nov 2026 10:01:46 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "Fed-induced melt\u2011down may depress Indian market, caution advised."
+ },
+ {
+  "id": "497fa52ba15b",
+  "title": "Middle East Risks Persist as Taiwan's CPC Corporation Freezes Fuel Prices for 10th Straight Week, Absorbing NT$5.9 and NT$5.7 per Liter of Gasoline and Diesel - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xUEpOUlk4b29sZ0VGV1JXVlJobFRnNG10dUlKdWdnby11dnZJRnFXSlpmLUo3SGhiQlNBemlBUkcyLXhOOUtIVzZBblUxZkZvWnhCMkR6cGQ1czlBVW1fVTN5SWRGbXNUY3lxaUVTUWctd0dTZnc?oc=5",
+  "ts": 1795259635,
+  "time": "Sat, 21 Nov 2026 10:35:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Middle East risks persist, supporting higher crude prices, points up."
+ },
+ {
+  "id": "f3fb7cf3ddf8",
+  "title": "Global Oil Market Heads Towards Surplus, Crude Prices May Fall To $70 By 2027: Report - BW Businessworld",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWwwQ0hNM2xqNzRqWF9aTzZEQWhHRVE1ZFVRWG1mellJRTlLMU9ZUlRCekhUS1JtNHV1aXpnOUtRU3ZkYWhqRS12V0FEeHAxZTVUTXN1bXI0c0tfd0EzNUpqc3EtZ3ltMEtpS244VWk2OXk4SllLM0w1NTV4T1k2RXhsZ3Bjb1JFVFc0T3pjWEQ0Yld3VVNzQkRIUklyNURCLTY1QnZuWmZfUjFWUmRxNUQ0cFRITnFOcVZz?oc=5",
+  "ts": 1795259635,
+  "time": "Sat, 21 Nov 2026 10:30:05 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Report predicts surplus, crude prices falling to $70, points down."
+ },
+ {
   "id": "0be5159ec7e9",
   "title": "Gold Rates Today In Hyderabad On Nov. 21, 2026 - INDToday",
   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TN3lmZnQzeXVoNnB1TFQ5bnFEV01ZRHB0QkdHdENFUHowTmRtb05KNGZ5QkhUMHExRnJhRHk0Y0MyekF0eTUtZ3BLd0R1NnowLTl5MkVlUkRqa0ZUNWVscTR4T1F0SjZ4SGs5UVhEYjc5eVIx?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "AVOID",
   "reason": "Gold price plunges sharply, dip risk"
- },
- {
-  "id": "5a026f0c4b0e",
-  "title": "Rupee strengthens 17 paise to 93.15 against US dollar in early trade",
-  "link": "https://economictimes.indiatimes.com/markets/forex/rupee-strengthens-17-paise-to-93-15-against-us-dollar-in-early-trade/articleshow/136013858.cms",
-  "ts": 1795163906,
-  "time": "Fri, 20 Nov 2026 10:24:03 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "HOLD",
-  "reason": "Stronger rupee aids importers and markets"
- },
- {
-  "id": "a229f0458df6",
-  "title": "Rupee rises past 93 vs USD as portfolio inflows, bear retreat fuel rally",
-  "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
-  "ts": 1795163906,
-  "time": "Fri, 20 Nov 2026 10:38:53 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "HOLD",
-  "reason": "Rupee strength fuels investor confidence"
- },
- {
-  "id": "6f8b0d992399",
-  "title": "Treasury rally spills over to Indian bonds, debt supply slows move",
-  "link": "https://economictimes.indiatimes.com/markets/bonds/treasury-rally-spills-over-to-indian-bonds-debt-supply-slows-move/articleshow/136014379.cms",
-  "ts": 1795163906,
-  "time": "Fri, 20 Nov 2026 10:49:20 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "HOLD",
-  "reason": "Bond rally supports Indian market sentiment"
  }
 ]
