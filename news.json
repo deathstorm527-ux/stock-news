@@ -1,5 +1,57 @@
 [
  {
+  "id": "50f8ac1f68bd",
+  "title": "RBI Guv Sanjay Malhotra urges banks to step up small-business lending for greater economic gains - ThePrint",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcnJYcUxuZnN4YWpxX0k3TmVab1VvZ3JUcDNfS2k2Z2kzV3dzb3o3Mk9NSVVuM0VBV0tWTXp3aDgwWnlxZ1kxV2RtVjhpY2xjZGVCUUlta2trRjJrTzZtNFVyN21rbUdHUXdTeW1qaVZfQ2FLOUhwZDk0dHNldW9qUHFaLXZveGllaEthMHhCWm5UTmVIN21FcFVTZndTR1FibVhhWEdTdlNBRE9XRGpSOUg0bEtWZ0VHdFlBMWFDcFh4cmlEUFJRSG5ZQXRjUdIB0wFBVV95cUxQWnZDWGhtaUJpb3pjRTdfeWU0MElqWk9KZEFIbUNreWVaZmVlOFhHbjJTT0REZkNXa1o0UzZiZk9CaXM0cGVUdUVIZVhLeDhINDFnRVZaWGtuX01OTkxEMFBWYmxwZWRvRXd4ZkVqTUZ5VjNTamdlMUtOamk0c3FLYl9fR2ozVmRrMlEyV3g2SVZIcWlDVDNNNWlMYmZuMmNmcFdfNjhVTUpYZjczTlluRWs5eTQyMXI2SlJYUW84S1pHMi0zS3VkZVZDSVZQMF9VLVlj?oc=5",
+  "ts": 1795275686,
+  "time": "Sat, 21 Nov 2026 14:46:48 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Gold price falling due to AI selloff and rate\u2011hike bets, points down."
+ },
+ {
+  "id": "b789003ca1a7",
+  "title": "Indias Foreign Exchange Reserves Fall by More than $14 Billion, RBI Data Reveals - TheWire.in",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmlhWW5GSEJRbTNPTUg3ZXdQVWpLNUpKQ3BjclhYS1RKeGoxdTJ2aWdGc2ZESmNkQ3VzREpiVm1iaXA1bHRRZVRROUJiV0tZamlyZ3pkb3FPeGlXbGJTYjlITUpicjduYmxMdy1TMWk4MHgtLWpkeEFQeFVJb0pfWGwyYVhxdHlIdmFkT1pBY3RiZTU2Nkl0bmdXUFFvWXFYMExmcHpILVpSLTc4Zmh0TFF4NzdQd9IBuwFBVV95cUxNYWhMc3JWQXFxcDdwTWY1SVd0QnI2VHVKaS1WdldELUZiQUZXZW05Uk9mNVJiNmxCNG11dnlUbXhqeUtnaHZlZnlYUGtzc2pFQ25Wd1dmMGZOb09FMHEza2FjeExSZWtRWFEwWGg1RlcxY2ZZeE05dTJSajBOT05ZWlpSVDdTSksxeXpiR09uVVhWTFhNTlJqdEx0ZTVnR2o0Rk1lV0lCVkJSUjZ1TzEwZkNJQUhJTXZzVEt3?oc=5",
+  "ts": 1795275686,
+  "time": "Sat, 21 Nov 2026 14:48:51 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "US unit limit extension may increase supply, pointing crude down."
+ },
+ {
+  "id": "437e60004c34",
+  "title": "Bitcoin price crash: \u200bFalls to lowest level in two years - What\u2019s behind plunge of world\u2019s largest cryptocurrency",
+  "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+  "ts": 1795275685,
+  "time": "Sat, 21 Nov 2026 20:16:56 +0530",
+  "src": "www.livemint.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Increased lending may boost growth, bullish for equities."
+ },
+ {
+  "id": "5064763b49bc",
+  "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait?",
+  "link": "https://www.livemint.com/market/stock-market-news/max-healthcare-fortis-apollo-aster-hospital-stocks-steal-show-on-d-street-with-up-to-14-rally-buy-now-or-wait-11795262811423.html",
+  "ts": 1795275685,
+  "time": "Sat, 21 Nov 2026 20:26:47 +0530",
+  "src": "www.livemint.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Reserve drop signals weaker rupee, bearish market outlook."
+ },
+ {
   "id": "8e2947731b58",
   "title": "Rupee may strengthen to 91-92 against dollar, but stronger currency could hit IT firms' earnings: Analysts - Zee Business",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVZjdWhoS01lWjVhOTZaWFNmeVNXSjUzR0dGUDNialY4UUZ0dFdPYlVvei03aC1xMU9VVGltQk1qUmxRbFRjYzAwWE1YNGxRQzNlcUtLNE1OaDg2TlVSTDFtbzJYMEREWThOTzhGZFFxaEZaZW55Z1dobVlMS3ZTQkg1bU83Yk1yUEhLTzRJaUpmalJIQ1hoRlVzcVZ0d3NmWFA3YUJ0S3BGajk2MWxUTXZfOEpVeV9ZME9LU25VMzhaMDNOX2hnaXRjX1NEYWJGRjV3SHdCRFNJNk0?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Market reversal driven by IT and bank buying, plus FII support"
- },
- {
-  "id": "92e97c55add4",
-  "title": "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRVVi1OY3lSVjNiLVA0aTJvZ1VEM3dQeVVTODFGU2VwbDhaeHV4U2JFYjVjYWRtUndhRXBoeEliMjFTUFAxQUN2Z2RMUGxESXU3Y3U1MVZFUXRqRndKMHpXbURKZ2RwUUZRcDJvaDY3RXg1cFItNS1WRk5fU2tqX3dNdUkzQkpuRmlnNm5XMVEyU0JxODJtRHhNTUJyTE8tcTE2Tw?oc=5",
-  "ts": 1795171436,
-  "time": "Fri, 20 Nov 2026 07:03:13 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "WATCH",
-  "reason": "Midday gains supported by banking and IT stocks"
- },
- {
-  "id": "017050ad8fbe",
-  "title": "Sensex jumps 898 points, Nifty closes above 25,800 as banks rally on return of foreign inflows - DD News",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT3RIZTJhSF9kRGxiVm14MlBYd1lKd25fYXdnZGdDVzdYRkl4VUpqUXZYOE5RUXk5QVB4OHpucGNOaEFMbnB0UWtBWU96dUJwSGFhQUFFVVd4R2RoMlYwR1R0M0JXazBhVDhWdDcyd3BIdEF6LU9XS2lzRWxPS3NtUmItOFp2OFlEZkE3RldQQldVZzJLUDlVbWJNYzhFRVRUcWRLdHkxT0ZDT0FpMlRnZWg4dW0xYm41c2c?oc=5",
-  "ts": 1795171436,
-  "time": "Fri, 20 Nov 2026 10:40:22 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Sensex up 898 pts on foreign inflows, reinforcing bullish trend"
- },
- {
-  "id": "9b19a4f87527",
-  "title": "AI trade rethink: Will Indian largecaps get first dibs on FPI flows?",
-  "link": "https://www.livemint.com/market/stock-market-news/ai-trade-rethink-will-indian-largecaps-get-first-dibs-on-fpi-flows-11795149045459.html",
-  "ts": 1795171435,
-  "time": "Fri, 20 Nov 2026 15:18:42 +0530",
-  "src": "www.livemint.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Large\u2011cap focus for FPI may boost index performance"
- },
- {
-  "id": "85a47983bbdd",
-  "title": "Stock Market Highlights: Sensex rockets 898 pts, Nifty ends at 25,800; bank stocks lead gainers",
-  "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-paytm-coal-india-share-price-20-november-2026/liveblog/136009816.cms",
-  "ts": 1795171435,
-  "time": "Fri, 20 Nov 2026 07:12:55 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Sensex jumps 898 pts, banks lead, indicating strong market rally"
  }
 ]
