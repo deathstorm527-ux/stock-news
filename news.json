@@ -1,5 +1,18 @@
 [
  {
+  "id": "f344cd73b573",
+  "title": "Asian gasoline margin plunges to over 3-year lows - Business Recorder",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MXVPclhucnFab3pyNkxTYXgxdFFqcV91c0tLdmhlTWJGXzVGczVFYzhYTjVLSWstNnNLUllzZ2dBZGJXcGlrUVR6eDkyU1dyUUNKR1lB0gFWQVVfeXFMTnUxdU9yWG5ycVpvenI2TFNheDF0UWpxX3VzS0t2aGVNYkZfNUZzNUVjOFhONUtJay02c0tSWXNnZ0FkYldwaWtRVHp4OTJTV3JRQ0pHWUE?oc=5",
+  "ts": 1795301897,
+  "time": "Sat, 21 Nov 2026 21:23:59 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Low gasoline margins suggest weaker crude demand, likely pushing Brent prices down"
+ },
+ {
   "id": "0aff23f904b8",
   "title": "Oil prices soar on global producer deal to cut crude output - Yeni Safak English",
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanZGR2ZENUZOd21yMWtIdFp4M0Z5V1VVS0VlSDdELXZzZkxsaG84NTJUSF81NGE1R1FxV3o0a1JJSDRCdzMzbkJyTGxJNFJPZU9ZS2Qxc2pWeUNPNWRxVHdRNElvU2JHMkpNdWRnX01wYXV6bmFOWG92NjhteUFleEJPVkdaMFY1UmlKYU90cU91aFBWVXh3Wl8yMTA0UV8tZnc?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 5,
   "action": "WATCH",
   "reason": "AI model for regulation could improve market efficiency and investor confidence"
- },
- {
-  "id": "1c259408eb25",
-  "title": "Sebi proposes easing disclosure rules for foreign funds",
-  "link": "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html",
-  "ts": 1795187456,
-  "time": "Fri, 20 Nov 2026 20:15:39 +0530",
-  "src": "www.livemint.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "WATCH",
-  "reason": "Easing FPI disclosure may attract more foreign inflows, boosting market"
  }
 ]
