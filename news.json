@@ -1,5 +1,44 @@
 [
  {
+  "id": "47ccaa63e87b",
+  "title": "Kuwaiti Oil Prices Decline USD 1.14 a Barrel - Fana News -",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR3Jnc3ltTGcwZk5weFAwZGpGNmw1S01oYjV5dnV0YWNNRU9VM25wTG5SVG1QMFBIMTJQeW5MNjJSTldlcjE2UW1IdUhoX1VrOVZLUHdDZjZNY3N4MnBFd08zR0RjSjg5VUFlcU5FVnprN2tIVXd2WjlDaUtldmIwMmwxX1ZQampULVE?oc=5",
+  "ts": 1795256631,
+  "time": "Sat, 21 Nov 2026 09:00:10 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Kuwaiti price drop signals regional weakness, may drag crude lower"
+ },
+ {
+  "id": "38b8d5a3b836",
+  "title": "Hormuz Oil Flows Fall to 10 Million Barrels a Day as November Attacks Mount - https://houseofsaud.com/",
+  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIYUNnUWZkcjAwNTNUUnpGdnYxWFBuM3lNaGtWdkhiOEFTbHdKYnpOdW1IcERfdlBVQkRJRllPV0dmQ2NhNW5EM3NMeXp2djlyX2tneFBVdm1KRUgzNklYTGsyclNGN3A5bDZMUENOMA?oc=5",
+  "ts": 1795256631,
+  "time": "Sat, 21 Nov 2026 09:54:19 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Reduced Hormuz flows tighten supply, likely lifting crude prices"
+ },
+ {
+  "id": "32e51479fd8d",
+  "title": "US oil rig count up by 6 for week ending Nov. 20 - Anadolu Ajans\u0131",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3ItdE1TZmNuSnlWcHJfZ2xwdF8zbnlOamppeXp1MU8tZ3pBRDhiai1YUkFvSGhWYjhZbEs0UWxXcjFvUkZ4VFBGUE9WQ2R2dlhOcS11bTgyQjJHTGt5bnBRLS0tSlE0YnFEdU9hamVfX3RrT2lOVnVPZHNzNzZLcmhpd0xja0NtLUhhUk5STms3NWfSAZsBQVVfeXFMTlF5WVdNRF9GT0dVbHZqbUVESENHM01USk53Z3JqTmNqN1pjWGtYdlJkNW5NN01EdTVhRGtMY29YdDVvbEJNUjlmaWQzcXlTUnVkbzdtOEpXd1JqdmhzZThmLWg4djA3bmZmSXB1c201cmR3SnZLTHBaYk1EWEZYUE9yUjVIUmJQZkVhVVdrNHBzcm16WDdGdmI2eE0?oc=5",
+  "ts": 1795256631,
+  "time": "Sat, 21 Nov 2026 09:31:21 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Higher US rigs signal more supply, likely pushing crude down"
+ },
+ {
   "id": "cf33dfabf552",
   "title": "Gold Prices Crash 32% From January Peak to \u20b91.22 Lakh, Recovery May Take Years - https://ascendants.in/",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkpuSnFZTEFKczJvN1pudVQ4UGR4X05jNDdDNlBHWGFlbGw1R2pDeGhtMlhkZkhtQnN1NzVGU2xjOXg3djdQVWc1SFUtM29xdHdfQWVDcUV5Y0MzdjBNektnZDZvTXJXWnRrQTByaXp4SVNjSzNndVY4dlBBMklzUWhXaEI0bFcyMGlMYnFBNExqLXRraFdzMC1B?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Profit taking and weak cues push crude futures lower."
- },
- {
-  "id": "ebd1b2b4bdd3",
-  "title": "Middle East supply concerns lift Brent crude prices - Anadolu Ajans\u0131",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVQyQ0FvOUJCSUtpNW9MYXlFb29NNWRKOXIyNW0wM0t4bGR4RHFMNm1uVUx1VmpDVWlRLVNrcEdHeHI4Y1l5aGkwRWltRGZNYWJDMWUwejNVNENnVDdMdjNPN28tY3dMTGZFRFdYYmgwWERNTV9PUlhCbS0tZHJjMGRMT0xqZXB2cm1BblNvM01vSm5fRjREadIBoAFBVV95cUxNQVdzLUZ5c1dab2xrRjlseHYyamNJYW9fMXdKY2hCT0Job3pWVHlvazdpaUUzbTduTTZmNjlubkkzTEM0c2VxTENzeGsyc0ZmaVk3SDhkV0pHcGlycWg4LVZiQVVYaFF5TzJQNnk3WmVHb1lDNGw0a3V1SGxUTDRIN2YzMGl2OUJTRlplYXdVY29UaU9fX1dpYi1kSmoydmVE?oc=5",
-  "ts": 1795161737,
-  "time": "Fri, 20 Nov 2026 07:45:05 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Middle East supply concerns lift Brent, indicating price rise."
- },
- {
-  "id": "d532cce1ee5e",
-  "title": "Gold prices crash in Keralam, sovereign rate falls to \u20b992,080 - Onmanorama",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEVoYnoxaWxMd2cyUlpCWUJKWWdSN2VyclM4dEw2OEN6aHNoTGJaQUgxN2VXVGRTcE00U3FBRDlCbGx5WlhRa3RpbGxZaG9CREF6T095bXpqbDVNZ2w1Y2poNXNzY2lTYmRiOFlJNVExR0k5RzlpeFM0eENpMFZYUDAtWW5Ud1ZkMFFWUDZxeXJuNFpCQUlOUg?oc=5",
-  "ts": 1795157142,
-  "time": "Fri, 20 Nov 2026 05:27:33 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Sharp gold price drop signals downside risk."
- },
- {
-  "id": "4d2bdb92c574",
-  "title": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns By Reuters - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWl9EWjV4QkloWE1LOC1pNmo0LWJxeUFjWGQtY1p0Z1RJWmdycWkzMFpDN3NnVTFUUUFONVd3dFNSdjRwUExCSm1MX0FCRjBpOXFYcjFmV3JBT1NYXzRZakYyb0QtOTJJdEFZbmgyclU1STRwZTE2dXkzVURkUFlyb3c1NXVEVkJfUUhMYnVVT1dlQTBNVGlhNHZUSThyYUJlRjY0cjVNU2VYeXEtbGRjUHY0MzlDT0FyRG1feGdYck54aHhEYjIw?oc=5",
-  "ts": 1795157142,
-  "time": "Fri, 20 Nov 2026 05:58:57 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "WATCH",
-  "reason": "Reuters reports supply concerns, supporting higher crude."
  }
 ]
