@@ -1,5 +1,18 @@
 [
  {
+  "id": "afa3c15bc47c",
+  "title": "Could High Gas Prices Push America Into Recession? - STL.News",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92Z2hqWGtzb0xOenRtM1lQTHd5ZWRUd3lJb2pHSGQxZXU0UjNDZVlFQ0hoY1hkT2dMV3Y4MFdET3JTb0kzaDNOR3QzcHNORlJpMXVTb1hra3F0NlJjTEVTMmZ0SVZtb2dSUzNPV1hWMXRpQ3BpOUFmU213bw?oc=5",
+  "ts": 1795299122,
+  "time": "Sat, 21 Nov 2026 13:27:30 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "US gas price surge may lower oil demand, pushing crude down"
+ },
+ {
   "id": "00443410d68f",
   "title": "A Thanksgiving treat in the offing: Lower gas prices - The Daily Chronicle",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdG1HQXVyTFphYm4zQk9TdWFfMjFjRk55SXc0ZDZGMEUtdXNqNW1RRUdPajBGTVZSdGJySkhfOGZ4V0oyNXpBLUc0M2NtSFZTRGw3Q2pSZTZwTkxLS25yVWE2OE9zalNJUVFKdTlyTTFzTkw3NDFiTkdiVFd3aUhDZXh5WDFXV21QVEhWTExyY0hqOVBEZmc?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 6,
   "action": "AVOID",
   "reason": "Tanker attacks and sliding prices pressure crude downwards."
- },
- {
-  "id": "2d82caeaefd1",
-  "title": "Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVY3RWdLY082Q013ZXJCODVJdGV2NnpfZWlNT2hlZWsxR3Z5WktpNUkyN0lBd0pmNFd2dUxmTDAzQWNkMGY1RnBkT1JRcUkwQUQ0VHN2VjVIM21mTDBXVk9ha19obWRBSHdsX05NbnNWcEVxVXI0Y2ZfVHFLcm9sdDRtUFAyZkJGMXpLX0FRUUZrMUdrVmJONmdTMTF6UXNHcUQ0dDRxVVRmZlQyZkhmcmln?oc=5",
-  "ts": 1795183322,
-  "time": "Fri, 20 Nov 2026 11:46:20 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Slow supply recovery supports higher crude prices."
  }
 ]
