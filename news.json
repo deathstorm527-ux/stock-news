@@ -1,5 +1,44 @@
 [
  {
+  "id": "43d44e4091fe",
+  "title": "Gold prices fall in India today, FXStreet data show - www.tmgm.com",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzRWT1RpX2ptNHlDZzZaMEE3QTlLa0NwSTdueFZmSnRhXzc4MDVYMWtuSVJyT1pacGpDYnRvX0p5M1ZBVzJQU3lmN0wwSGE0VmJBN0NZYnl1VWZIZUhHSmM1U2VyQUF3ZUdrNUYwVUdEdFJCQ2RIenl1NjZ4ZFdRdjBfSDFNM2ZTa3ZOM2FOMmxKMEFoeGZNdXdBNlY3RlJkYW02eE5jRmRaMnhFMVRwRlBqeFpvQS1kOGQyUW9rcVY2VC1tXzRoNA?oc=5",
+  "ts": 1795220270,
+  "time": "Fri, 20 Nov 2026 09:19:35 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "Falling gold prices signal downtrend, reducing appeal."
+ },
+ {
+  "id": "bd10ad75f021",
+  "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlJxVm9uUmdPdkxHeGNqMWw1TFN6YkhKQXVqUWZEb0haSWs0YUtrT0R5aWk5VVFweXRMMTNyOF9zZUYxTUdfXzZJUUY2cGlmMmhFa1BGcVRENFNNOUNvcVNYYXNKb2E3aDEwM0RsVHhPVkEtNmdvMElsSjdjN0RRUnhDeVJTSjBWWG9mOVNxTHlmdEVvYktHQl9HU2J1dUMxaU1BTmRPV3doSzRpUkdWXzVB0gG3AUFVX3lxTFB2aGc5YmNCa21uR0taU01wdFZCeE1ob3VpU1pvNUFoaldLZFA0SDVmYmxVR054TTF3MmhhNnA0eUlDbFo2dmpYMndQWW9TYkx2SGVkNExXSGxUS2dVdVRPLWE0bW1aOVFDVmhkLUM0VXg4bXIteG1ZMnNZR3BBOGJyRk1FOTJDbzV1NVpqZkVNYzZqRHlaVFg5T1pnQTU0YkRDMFc5al9YbS1NMkhQMjZNUW5CZ1BJTQ?oc=5",
+  "ts": 1795220270,
+  "time": "Sat, 21 Nov 2026 00:00:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "Glut risk outweighs turmoil, suggesting crude prices may decline."
+ },
+ {
+  "id": "e0836a6ee9ea",
+  "title": "Indian Rupee climbs to new seven-month high against US Dollar - www.tmgm.com",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnJNX0VfM3lMNXJsc3JvNU1WdGd2SmhJZkthbGpfZWV0Z09kV0F1dXo1NDUzVUpzVW0zd1hsSTUyYUpqZFRXU1NKeG1xWDItMW5paXVtYVV5al9pSWJfSDFIb2k3VlBiVnNLUXVsWHhiU3E5b0N0dnRCWk1YMTdwSXAzN0tPMUFhMUw4X1VWaUhnN01IQWVmcUZkdGN0T1lkUkJJVGpJMUxQWnpsR2NkQVFtQkJlNGV3aEFCTWtxSG9YU2JYREE?oc=5",
+  "ts": 1795220269,
+  "time": "Fri, 20 Nov 2026 10:09:46 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Rupee strength boosts Indian equities, likely market rally."
+ },
+ {
   "id": "b243bf8e5973",
   "title": "U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0hZZVF2LXNBd2pLeHNGRlZnUFJWOHRMX2Q4aWtvbVltWXo2NmFZb2QtQXRMS2U2STFBM2RBMmRTWFB2clUwY1Z2UXVtdkhZQ1pQLUZyU0dKaTdfZzNtQXpQTTljRjFXWXFvS1prbkNvVWFiTTBlZTA3V1gtR25oTU5WNWRjekpDQzNSQ1BNOWViZkV4LUE?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Tensions could push crude higher"
- },
- {
-  "id": "29f15ffebaa9",
-  "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - The Business Times",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1gzbzRfTGxVaEVpZURwTzFFa25SdmpHbE5mdXdWSlV4TFZFSUVNX3FNRTlPYTNZNnZ2RHhhYm80ZUQ1VGRxWHZ1UW14ZDNrOGJHaUlEbWpwbmdJcDlBV3lOOERQU1JfNGJJYnlObEJiMTJsbm4tYW9uQVd6ZGZXWlF3c2hsTFh3ZGt4R1RfQUkxMWoyM0VLR1h4UWcyRGU1akxYV25NeExtS0FTRjdN?oc=5",
-  "ts": 1795129815,
-  "time": "Thu, 19 Nov 2026 22:42:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "HOLD",
-  "reason": "Hormuz issues balance surplus, keeping oil steady"
- },
- {
-  "id": "e5ab3f764b24",
-  "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0ZBRHNxWWRsSjZYM2x4ODBRQVpGbDZQdDdOWmtwMk1yaEhqd3JxNVVXQ2NpMTVVSkNwUkk4TkNHX0o0c0NSV2NJMXdNLWhtTlZlVnpkLWh6Z3ZnNDBubUlKWDY4NksybUtVeXVpOHU1N3JVeW9QZTRRMXNyVFhBWkwza2ZESTlwLW51ZGJuWlBQdnB0NTAwczd5T0s2UGtBSnU2LW9PQdIBrAFBVV95cUxPTzBQb0JxbEFWR1BtZkV3UTZhSWFLN3BSbUs4ZmtrNUVUTHAzUTQxY3VmQUZlODJwSnlWYXplbGU0N3g2MVQwSklXRF9OcGFGdEhEMGNTRl9hczVEYUZmMkVVQ0pVak9LMHJSRVN1b0J5azRuZ1JSLXdFSkhoblI3SnVXeHYxSERtdjNyMlgtWFpzbFMyMWF3M2UzWTdpSkZQaTA5OVdVUlVIU29M?oc=5",
-  "ts": 1795129815,
-  "time": "Thu, 19 Nov 2026 23:00:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Export decline may lift crude prices"
- },
- {
-  "id": "8de3a3236286",
-  "title": "Oil Slid As US Stockpiles Jumped And Surplus Fears Grew - Finimize",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFRldHBzMUdoc3JlcjgzVEdZb1A1RmZoeUZzM2Q5T293UkRmTk1fbThtRzdMekVVVnFSYU5lalhteTExRkxhZ0pyZFNaLVllS0NCSHUzUzA4cDlTTzFONG5FNnpIR0lUOW5YRUZIbURZblNIWTNwOWttMVZpT24zdTBGRVVLc0xHQnQ1bQ?oc=5",
-  "ts": 1795128340,
-  "time": "Thu, 19 Nov 2026 01:44:41 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "US stockpiles rise, crude points down"
  }
 ]
