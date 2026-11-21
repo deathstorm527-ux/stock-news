@@ -1,5 +1,57 @@
 [
  {
+  "id": "ffea4e39fc08",
+  "title": "Big petrol price cuts on the cards for December, and diesel could see a reprieve too - IOL",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjhkOWEtaGdkU2JFd1lvd0tTeTEtQjRaS1FwUkxKUm5yY2ExSmp4dUs5SklFQWNtU2FlV2czS2VwS0RfRUVCbU03blBiMEdISmpZRkFwX2Z0U1NCdHI4dVNKSkh6U2FMSDZTbklVZnY5QW9pWVVHVV9XcTE3Y045QktZSkFiVEJCUjdBRWVJdkZxcXRRVzNGMTZwOFd4VTFiQ1ZCbzYxOE5fZl9aaVJ2Q0NqdVExbWtpWGJBNVdQdEZnRlRXbUdvcklR?oc=5",
+  "ts": 1795253384,
+  "time": "Sat, 21 Nov 2026 09:15:58 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "Fuel price cuts may lower oil demand, pressure prices"
+ },
+ {
+  "id": "5ae656f3c2dd",
+  "title": "Oil prices fall 14% in a month despite Middle East tensions - Banglanews24",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWlhrNWlHUGs0RVk1OXRyc1VTelpmaDhlZ3VkRXVnLVZjTkVjQlZQQVdTeXlvZV9fX05haUpmVVBfTGtBb3hyTy1zSmd6cmY0RW04MXM5M1NXTmVicGFha1FGdVQ3LWp5a280?oc=5",
+  "ts": 1795253383,
+  "time": "Sat, 21 Nov 2026 08:58:40 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Oil fell 14% month\u2011long despite Middle East tensions"
+ },
+ {
+  "id": "d2f9e63a199d",
+  "title": "Crude Oil Gains as Traders Weigh Possible Iran War Escalation | - Business Post Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXhJbFlna19WZTVHVUVIdHFCd2hTWnkxTmJMZWoxRWZwWmV0THMwT3ROZ0VITEFkTzJZRFRWUG5FX1FLR3NYaHd4ZVdFVUE0QWJMc0NVN2ZSb2gzdnpNMnhUS3pJanZiNWl4aEZNbGd2TzN2T0VYYmZUdnpIcGNtWEl5ZHRGcTdyOEFFajh2LVZiVEJOMkVRakhB?oc=5",
+  "ts": 1795253383,
+  "time": "Sat, 21 Nov 2026 08:44:38 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Oil rises on possible Iran war escalation risk"
+ },
+ {
+  "id": "b258cc3ed2f9",
+  "title": "Oil Prices Drop 5% For The Week As Supply Concerns Ease - MarketForces Africa",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUt2R1VXdURlTzBXQjdnUTBpYjNxZWprLWhKWDJwdmlYdlp0dFBWTHNKVng4WS12REo2QkRzWG0zS1RBUVJPTHVpcVJXeVRrS0lsSTlFU2NRTFlVa042MU1XVUhFcVZyQ1AxMjBLbXplN01YbzlDUDVQQ1N2TC1NUkx0X05IMk51?oc=5",
+  "ts": 1795253383,
+  "time": "Sat, 21 Nov 2026 09:17:38 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Oil down 5% weekly as supply concerns ease"
+ },
+ {
   "id": "93d117921f23",
   "title": "Gold Rate Today in Rajkot, 21 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HOGYwT28xWEpOZTZmejNVcFh1azVqNWhpcmFwWDh3ZTB0TWREaXdIeXNZNGVka2dnUGNlSUJwMDJDSGdGNk9mRHo2QVJsUXhHalFkMDF1cWpZMDZRWTNmS1pwNjk5X2Y4a3A5R0Z2Zw?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 5,
   "action": "WATCH",
   "reason": "Brent slide suggests downward pressure on crude."
- },
- {
-  "id": "d0d17025ca27",
-  "title": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns - Investify",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjVwOW1TdjBvQWViZVJSY0NacFNqR3dKYnktVUVqM1RVSXlLclpUNFRteFJEZjNRRGNBdVdQSjA5eUpNLUdPa0w4bHEzdl96dGNKWE56VlgzTTh1TWltSkdEeXJkeWN1bmtVNzV3TXlXRmZEMVMxcDRIYVNwVXN4cGFwRnFGNXI3WDVoTzFKX1c1RXh0VXdQRVNOWE51bEpjRzBQWkRGZjhUdURZ?oc=5",
-  "ts": 1795157141,
-  "time": "Fri, 20 Nov 2026 05:53:02 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "WATCH",
-  "reason": "Houthi attacks raise supply concerns, pushing crude prices higher."
- },
- {
-  "id": "b7580dc74d3c",
-  "title": "Rupee rises past 93/USD, hits 7-month high on FPI inflows, softer oil - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXZ6Vnltem5xeEV0bWJtVF8xbFNnNUEtaHZ1bF9tUG9HYjhVd0IxRlNZUXo5ZkstdG1rdW56MmVHaDFQeGZlOVFhMGoyNjRtYnIxWWJsVkF0M180LTMxM2t0bzVSVk01bjJMM2tlcnRGTmxMY0tvRlhHRFNsaE95WTNXR0lfaFVjMEI1R29hZGVlVE10aGZBc2tWWkVjTDhhMV9wMEtTWGJ6WlZ5RUgyQVZwaWExRUhTaGRnQjNBMUs4eXV4VEkxYnNmQUJvbknSAdQBQVVfeXFMTkEyOUVBMjRiZ1RYYnhjU1JwX25BbDVXVE5VSU1ONkY0R1ZPRnN1aldWNS1NTlFMenRNNlI2YXcxR3dTR0NlbVdqQy1OcnV6RWVsbE82aGxxUV81S0Jjb0JVRkdpRUhlb1dEa2c5ZnJEdnFILVUzNFdfcVFqRUExUFA3aVRBLTB6TmRWM0ZZN2xkTUd0QUw2R0dKUFZoWE9EaWJxMU9NOFJOc3JMUHpTa3hvN0kxSmI0d0NJVXlXRUhIU29hMWUtVkJsZW5hSGlDRUpFM2M?oc=5",
-  "ts": 1795157141,
-  "time": "Fri, 20 Nov 2026 06:21:19 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "WATCH",
-  "reason": "Stronger rupee and FPI inflows boost Indian equities."
- },
- {
-  "id": "f05861783380",
-  "title": "Pakistan urges transport fare cuts as fuel prices retreat from US-Iran war highs - Arab News PK",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3pISVBXSjJHeDZUVGJtUXhpMmIxTEZDS0EyWVdLalk2Nzc1bWN3dFpVUGNrZzZFRnVnXy1qbHJGQnF1OUZrUF9UaDA0UlBnRFd0dmw2MmZzcGdCMmRiWFRfZlZEcGFkdTM4TFZsbUFMUmpUVWVSalhGM1J1WlIyMW44NmJ4WmZxeU5GX2dQdEFodHZWUi1pMnc0NkI0ZzFfY2ZnTExHWTJ4Rmd4WlNWSDdxRno0eEh5bjlpUmRR?oc=5",
-  "ts": 1795153478,
-  "time": "Fri, 20 Nov 2026 03:54:51 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Fuel price retreat signals falling Brent amid easing war tensions."
- },
- {
-  "id": "a6c940a4657d",
-  "title": "Xi, Trump, Putin agree to increase supply of global fuels - The Edge Singapore",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0I4ODZiWVh0WVBDOEVlVFJ5d2plZW1RTnpfUVk3UW5fMDBGcl84SlU3YWt3c25jbjhIdDRCc1NldUxsYm9sYXIwZXJyVUxTNng1clVoTjN2eWFPY1g1SzZHLXR4MWp4T2VGdENWZ1lOazQ4QUVHc0lRYUtydElLX2t6SkJScUxUWC1PeGNCSjgxWWZjVlUybUVrRQ?oc=5",
-  "ts": 1795153478,
-  "time": "Fri, 20 Nov 2026 04:10:56 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Major powers agree to boost fuel supply, likely lowering Brent."
  }
 ]
