@@ -1,5 +1,31 @@
 [
  {
+  "id": "bc92bf079a08",
+  "title": "Who will the diesel crisis hit first? - DW.com",
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxY0NaOW9Zem9DV09XSk9WZmpjeS1nRnR1RDYxZk5KUkxCRXJzQmk1bnlYaEZURUFyUXcwRF9IcV9JOTdXZmJ2ejFBRkVvX00tYUJyZV96X0t2NXI4aGFPYWJQS0ZRX3Q1cUFLdm9sRExNWWR5em5fcl9kRUppZw?oc=5",
+  "ts": 1795304249,
+  "time": "Sat, 21 Nov 2026 16:31:04 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Diesel shortage lifts crude demand, price likely up"
+ },
+ {
+  "id": "04e14a4a06fc",
+  "title": "Gold rate today in India at 14-month low; will it hit  \u20b91 lakh? Experts list out 3 reasons for gold price drop in 2026",
+  "link": "https://www.livemint.com/market/commodities/gold-rate-today-in-india-at-14-month-low-will-it-hit-rs-1-lakh-experts-list-out-3-reasons-for-gold-price-drop-in-2026-11795283484060.html",
+  "ts": 1795304245,
+  "time": "Sun, 22 Nov 2026 05:04:51 +0530",
+  "src": "www.livemint.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Gold at 14\u2011month low, price dropping further"
+ },
+ {
   "id": "f344cd73b573",
   "title": "Asian gasoline margin plunges to over 3-year lows - Business Recorder",
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MXVPclhucnFab3pyNkxTYXgxdFFqcV91c0tLdmhlTWJGXzVGczVFYzhYTjVLSWstNnNLUllzZ2dBZGJXcGlrUVR6eDkyU1dyUUNKR1lB0gFWQVVfeXFMTnUxdU9yWG5ycVpvenI2TFNheDF0UWpxX3VzS0t2aGVNYkZfNUZzNUVjOFhONUtJay02c0tSWXNnZ0FkYldwaWtRVHp4OTJTV3JRQ0pHWUE?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 6,
   "action": "WATCH",
   "reason": "Further FPI rule relaxations likely to increase capital inflows, supporting equities"
- },
- {
-  "id": "176630cc0637",
-  "title": "India proposes limiting tenure of chief executives, independent directors at exchanges - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUkZ5UmxQbnZLVk0xQW9OamJ0azVwTHhZOVZQb0lLX19YcGdIdHA4cDBLRVRtdjM1VEM4Vkgxbi1KSjMxNm5BNTB5bE5fZ3lES1V6cE9PT3h5ZlYzOFc2blBrQzE0d193ekYwTGNkR0x4VmdKM1NzblVqM1lESDM4NXNCM2FuZUJoV0ZCVlY3bVlaeGg5YmpCdVEyUlV6bnlYSWgyVTVMOUMxMk9TUjlYZjZHWUNQbUpRaWY3Wlk5NzRKUXJValNyU0tPSkk?oc=5",
-  "ts": 1795187457,
-  "time": "Fri, 20 Nov 2026 14:48:13 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "neutral",
-  "score": 4,
-  "action": "WATCH",
-  "reason": "Tenure limits for execs may tighten governance without major market impact"
- },
- {
-  "id": "64ca1205fcf1",
-  "title": "SEBI Explores India-Made AI Model for Stock Market Regulation, Says Chairman Tuhin Kanta Pandey - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzBTYS12Y0RwdFNIQ2dVM3dvXzNId25DOUJLMmJTa0NzZndHSXZycTlvei05Z1YtRk1jdUdacTh4TUFST0NtdDA2XzhhRzc1SWdoMmRZdThaSGYtTVBfY2ZpSVdrajlESkt1NVZsMVowSFZfVlVXcUgxVFRpd1gwUmxmcEF6cm0yOTRtcUtHWGUyX1ZJTVdQUUMwbFdGc2paWGNIbUpnS0FZbGZ1OExBOWVJNHBBekJfZjNZ?oc=5",
-  "ts": 1795187457,
-  "time": "Fri, 20 Nov 2026 10:35:48 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "AI model for regulation could improve market efficiency and investor confidence"
  }
 ]
