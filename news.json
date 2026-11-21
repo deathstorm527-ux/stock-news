@@ -1,5 +1,44 @@
 [
  {
+  "id": "7274fdf6ce18",
+  "title": "Crude Oil May Fall to $70 by 2027 Amid China Demand Drop - News Karnataka",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTJzNVkyWEhTbGdQbEFHbmtJTWZjX0hyWXpuT0owTEJWaDZCbnpEZkpOVnRKMkxNalFXcTZyWnR4dlRBeUUwdmZGdjJHQ0UtZGJIWFYyVnFYc0t6TG5mRks2WS1FcFdCWHN5NVZEc3YydW1ROUpud093UVJSRGVhdmp2NWY3NG1VQkdocWNvaFlMUFdvRG5pUENlWnVEbjExekE?oc=5",
+  "ts": 1795283224,
+  "time": "Sat, 21 Nov 2026 16:23:08 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Forecasted crude decline, points down for CRUDE"
+ },
+ {
+  "id": "1f4b96d56714",
+  "title": "Goldman favours gold over silver as central bank demand supports prices By Investing.com - Investing.com India",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN05rUGVJbnhJYVlKYWxMeVZUcEpxd2xPWUxCMWtjY0pucW1XcjhwOXhyZGF0VTNFR0RZdU5FZ0YxZFlTc3VyTUcxdUJ1bV95U2NaSkJXb3c1dEk4N216dnktVTROWWdBREI1TGlaeVltUmM2azV3aTZJTWEzQWVHTDlVbUJQei1XdFJnZGphSW52dndtY3AyVWRpTzVTQXc5OXc4MS1sLXpIOUdBSm1BUzlMZ3pha3g5UEcwR1Foc1JKUmFT?oc=5",
+  "ts": 1795283224,
+  "time": "Sat, 21 Nov 2026 17:07:52 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Central bank demand lifts gold, bullish for GOLD"
+ },
+ {
+  "id": "0856a3df15ca",
+  "title": "Weekly review of prices for Azeri Light, Dated Brent, and Urals - Trend News Agency",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HRVdSTENaNmE1OTJYdkJGMmxrbGxEUmhuSEd1cDNkU21nNkd5Y2hUUm5GbUhvUTRvYTVSeWw3VXlUWk5MX3lxNG0xRmhpMmFGTGJZZGh6MA?oc=5",
+  "ts": 1795283223,
+  "time": "Sat, 21 Nov 2026 17:00:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Weekly Brent price review, no clear direction"
+ },
+ {
   "id": "1f81c470f761",
   "title": "'Modi ji, you spoke, we listened': As gold prices crash, PM says his advice helped Indians save money - The Week",
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmNhN1Y4eWRwc1VDbUtJTDhSWG5NUnNlMFptamxQSktpYVhMcVM2QmsxdEEzZ3JoLXBMd25iMkhQMmVEUkJneHBtc2p2RENRS18zUGRoSWZLT0UxOFNKUlQybjJQdzFvZGU0a3FDSk1MbU13b251TkxYb3BzZkYwWExKVy1hNV8y0gGOAUFVX3lxTE02VU5tNUdpcnNUVmRpYUp6NXdQODJfR2NJcl90TUwxaTNDaS03WlE4SXdCVHNaWUlmNERoQVg0eGdLWTVRUWNFRlVyN3hocFNkbjNNSXVzX3pzcUt2bW1IWXg1UUlndWpvTGxYUjBrVnFJZ1NRaGx4c0tiSFh6bUZERVlUcEZkZkg1SnQwTnc?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Sensex near 84k, Nifty 25,800, rally extends, market optimism."
- },
- {
-  "id": "e7430ff9bddf",
-  "title": "Stock markets defy global rout; Sensex soars 898 points, Nifty crosses 25,800 - Telegraph India",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTNLRUpQN2ZMTmg5a0M3NVlLRU9jZU04M2FsWGxDdUxTYTVDay15MGV5VzZXNHVNQkNUMldEZWRpSFFmZ3JqMF8tdm5aU3VLWUxDSDIzTWlsdUVIYlRfc2hncXM5U25rZlJOVHdpbEYzRHpUSlNBUTdlaTdFWE1uTDNUVjhfMlN2d1pqVWZkT3l6T1hLME40UFdhVm9hRHMwS1ItejFJQTV5WmpEYzJpTHBnM1ZEOWc4dXVSVGFISzN6dFNGd3fSAcsBQVVfeXFMUGZCVWxhUWhjMFpPa1dqanlmNmNIVnBVSDhJVmNoQndpWURlQ0w4c3BKc2x3VE1uRWlfWlJCYUppZjFYSnNiZWFIa2dZbFNMVGp1VlpMSDVTc2hoTzhMZVBybS1uZzIwUUgxSzZBOTRjcHpzR29xdlhBQS1jSHNFM0QxMDhuZVR6LVFUeHZ2Y0hnZXJhb0Z4TWFSMHNPbTJmc3ZDRHpZVnJXS2x0NHFpaGNOUzRrNG5XWWNOblJzYklOd3phY0p4aVNvTFE?oc=5",
-  "ts": 1795174962,
-  "time": "Fri, 20 Nov 2026 10:13:05 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Markets defy global rout, Sensex climbs, supporting bullish outlook."
- },
- {
-  "id": "7f2b53286680",
-  "title": "Sensex Jumps 898 Points, Nifty Reclaims 25,800; Banking Stocks Lead Rally - India Infoline",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaG5JZ2lId2FfTWZkMENtNXdid1BLVnhTcE9CRGR1QjFMT2UwSk5WVC04UGpOa0ZPQWFDTHVNZmh5NnJMV016VEdjZHhkemx2aHAwRldGdzdsN0VKV0VVU3dSTHBWTjkyMEVnZUJSS1VyU25OVW1tT0hqNjVJSkpFZzljbGU0TV9SZFpSUkNocHBJcmhnbm1ZV1QtYi1nTTh3MlZ5aEhPWm5ZV3o1b256bEJkcw?oc=5",
-  "ts": 1795174962,
-  "time": "Fri, 20 Nov 2026 11:11:28 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Sensex surge and Nifty 25,800 reflect strong buying pressure."
- },
- {
-  "id": "9417ea3dd446",
-  "title": "Stock markets defy global rout; Sensex jumps 898 points, Nifty climbs to 25,800 - The Hindu",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT1NMbmNzWUV2SFlYUE0yWmJhZW1UV2Fxa1pQOGJpdUp0TlgzTzNSZ2Q1clFaQ1RDX0NZYVQtUFdpVGUtTkZWdzJZaGkxR3JidUNrcGU5aGZmcjM5YlJ3UnpnX1dmamdDbTdrODhkc3BiUkpXZlZPX2NFQWd2THdxUkQ2VndNNzE0cE9iV1BRejdfa0tmM2p5dlk4MkRHVXRJSy05bHo2YVFHbnJJVFgySFNSTzdEVHVnbE5hVzEydkQ1WFo0Mk9rQjNxc3RTekw4aXNiT9IB2wFBVV95cUxNZkE5RnVyYXpsSkNRa1NwazRiS3dZa1ptZnY1YWVOZEZQbThDUDBxaEpwMHN3OUdZWk9lRnEtckNEZV9neDFGRzRVRHhmUWFlQ2lRcm5xSERzRHdfZ0ZiUVVIN09fRkFrWnJsQ0VuOTg4SE5TNFBaeGJGQThkVlBxaE1LcGpuZGlVSVhheUFPODk4ZGFkS2lDQXpzN3ZUNUdlbFphcDFKdlJYbVVpb09kVWZheWJibGI3cTI4SlVpWHZMY0F6Wl9YNlpFeVFmcG8xUnNOSTBoekd1QTg?oc=5",
-  "ts": 1795174962,
-  "time": "Fri, 20 Nov 2026 11:02:07 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Sensex jumps 898 points, indicating robust market rally."
  }
 ]
