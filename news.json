@@ -1,5 +1,31 @@
 [
  {
+  "id": "db7452bc3924",
+  "title": "WeWork India share price jumps 40% in 6 months; ICICI Direct sees 37% more gains ahead - Buy? Check Target",
+  "link": "https://www.livemint.com/market/stock-market-news/wework-india-share-price-jumps-40-in-6-months-icici-direct-sees-37-more-gains-ahead-buy-check-target-11795334473941.html",
+  "ts": 1795335649,
+  "time": "Sun, 22 Nov 2026 13:36:42 +0530",
+  "src": "www.livemint.com",
+  "stock": "WEWORK",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Share up 40%; analysts forecast further gains"
+ },
+ {
+  "id": "92382e2eb3c4",
+  "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+  "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+  "ts": 1795335649,
+  "time": "Sun, 22 Nov 2026 12:15:10 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "IPO pipeline expanding, could lift market sentiment"
+ },
+ {
   "id": "c799fa9d966c",
   "title": "Gold Rate Today in Chennai (22 Nov 2026) - Kotak Neo",
   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLWtxY08zRGM1VGY2NXhVNEVtcHlpT1B6RlZpUmpYTllUQWpRSnVST1NFeXpKcGNrMG93VTRRdFhRbkRKdlNFbS1yNjhMaXltVVZxQmNYd01oWkMtMnpOQTE1QzR5RDI2OGUyV2trV1k?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 6,
   "action": "AVOID",
   "reason": "US rig count rise hints at higher supply, price likely down"
- },
- {
-  "id": "d8ebd7d775ed",
-  "title": "December WTI Crude Oil Contract Closes Up $0.77, or 0.9%; Settles at $83.98 per Barrel. January Brent Oil Was Last Seen Up $0.20, or 0.2%, to $92.18 - marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTC1FNGFXYlFLS0FFc1pTcDJsSEQwOU5xVzJfMGVlbk8yWHVmNUFmWGNjcWxDdVlTLTNQeE4yazVlbjRjd2QwdUZHYW9wbWdwdHpQTHN0dFdRbVRKUmNFMG5WVGRBNktpenFUUWU3MVE5clA0MzN6X1MydzlPWXR6dHBZdE1UXzRRWndTcUZrazg2dmVZMU9oWTJXSzZWWFZaQnZFT04xUVRVNUJxSjB1T1NEbXh5THQ3bmRKNGU1MDFFWXVsUWJaeWt5X3pYNmk5LXdfWDRaNWZaOGlhWC1qNQ?oc=5",
-  "ts": 1795206300,
-  "time": "Fri, 20 Nov 2026 19:36:10 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Brent up $0.20, indicating upward momentum"
- },
- {
-  "id": "24663174b12c",
-  "title": "US Crude and Gasoline Inventories Fell Last Week, Distillates Rose, EIA Says - EnergyNow.com",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFpNS1NCU1oxQl9sRjY5dld2MEpfMnZBNUF2M2VqeVByMC1wQ1ZfNEJ1Y2o3U2U1YlVwaTJhTG5oemhBSXlTNWZGY2R2WTB2cFJHaGRxdjkwUmliYW9ibm12V3h6dUY5eWxOVzRFeUxFMkJTejJHalpaUld5ZW9wdEM0UEJ4ZjVLNkM2b2hkVW56WWREMFRDSEZoTEMxaHRtNmZJT2tIVVM?oc=5",
-  "ts": 1795203285,
-  "time": "Fri, 20 Nov 2026 11:17:49 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "WATCH",
-  "reason": "Falling inventories may lift crude prices."
  }
 ]
