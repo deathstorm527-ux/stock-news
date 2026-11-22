@@ -1,5 +1,44 @@
 [
  {
+  "id": "413e8cf3058f",
+  "title": "NSE and BSE to stay shut on November 24 for Guru Nanak Jayanti - Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEg0YXFETFNzaEpaNEg0dVNXQV8yUU9DRkdhU0lkN2IxOVhvaktNZElvVm1wcF9FcWpqcVVOeUxUOWM5c0J2RGYyaDNkeEduNXhxUGpIbEdBb2x0dG91MVZma0NzZHdQYWNObjdkYnZUU0FabkItY2NpbkZtRy1QVXhNNnY3eVJYOTc5Ry1tak5naFQ1bG9v?oc=5",
+  "ts": 1795377551,
+  "time": "Sun, 22 Nov 2026 11:03:26 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Market closed on holiday, trading paused for the day"
+ },
+ {
+  "id": "e6d479d3e87e",
+  "title": "Gold slides to lowest level since September 2025, silver crashes nearly 4%: What's driving the selloff? - Livemint",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTY1dmw0RGVhUl9uUHFiaVRKcS1PR2pnc3Q3R0hQMEJEQ3lZdlVFbU5wRk5QY2tsSkY1VlpEY2lZRndCa3UtRExfUUZWWlVLaHMyTWFZTHpJYm9HMlNNR2FwdHpKOUdpVDVJVjR0d2p1T1hnVTdiclVzb2Nudld4d2dpc2tnTzktcGw5MzFDYVFMNkF5N1JLYVUydXY1XzZVM0FMNlRfcDhyMjJOQ3YwUXF6eEVDN2N6VjN3WFZZc0YyNDU0R1N0MXRaS3htVGpnZ2RKR0lJTU1VdkZ6SmpZcHJxeXZkVXo20gHoAUFVX3lxTE1pNjV2bDREZWFSX25QcWJpVEpxLU9HamdzdDdHSFAwQkRDeVl2VUVtTnBGTlBja2xKRjVWWkRjaVlGd0JrdS1ETF9RRlZaVUtoczJNYVlMeklib0cyU01HYXB0eko5R2lUNUlWNHR3anVPWGdVN2JyVXNvY252V3h3Z2lza2dPOS1wbDkzMUNhUUw2QXk3UkthVTJ1djVfNlUzQUw2VF9wOHIyMk5DdjBRcXp4RUM3Y3pWM3dYVllzRjI0NTRHU3QxdFpLeG1UamdnZEpHSUlNTVV2RnpKallwcnF5dmRVejY?oc=5",
+  "ts": 1795377551,
+  "time": "Sun, 22 Nov 2026 15:46:10 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Gold falling to multi\u2011year lows, indicating downward pressure"
+ },
+ {
+  "id": "c5482701c485",
+  "title": "Crude Oil Price Outlook: Brent Eyes OPEC+ After Three Weekly Losses - Discovery Alert",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHBCaTYtOHBDcUtKUkZfQVQ4WlRTbEdWY1c3OFAyNk93YmxnX1VkZzliT0hGZlMzR2dHeU9ReDFmcE00eDU4dnhBa3BNcDNmcVpkN0ZlUGdhVmdfeXBtYnhDWTNSVjg5ZnRRdlg3RF9QcVlQTEpFeldLNXN2UUI2eFo1RHVDMWpFTEZOY29R?oc=5",
+  "ts": 1795377551,
+  "time": "Sun, 22 Nov 2026 13:26:16 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Brent may rise as OPEC+ support after recent losses"
+ },
+ {
   "id": "14c12f495b7a",
   "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns Analysts - The Week",
   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdGVya3VpRHJ2N2tONXVSSnAydU5LTXJ6OUVTNWJjN090M1k4SUdyV1ZSQlA1alhUU3l1RVlCeXg5ZVFQVkNPbHRfbDROZlNtWlZLOVZHcndiSHpuaFpPa2RlTWF6azVlX05ibmlTSzczdUxzWTBxdXV0azFBYkNxd2F1dVNOZ1pPTGtHdnJRNjN4cTJ6VFJaa1hyR1lBVm02YTNzdVRnTnUtZUdNUWY0ZU9POTNQcFhwblNRemF1OTdrZ2JmVkVScUpuaUNjNi1rNTNOUzJ6OWRXWlI40gHiAUFVX3lxTE93OFViUTU3VFJRdmNUNWV6TVRsa01aZlV4Y2tkWlVTU0F5dm52aUJEaUFqZUdia1NxaTNUcGstaFZQMzJFcER3NFRmcEczSG44MXhHLUdZUGtuZXlLMEQzZGdkSWltVGx6d3FYYlFjMEZjaU1pODd0M0U1eDRxU002WjBLSGNPMzRZMjNsN2RhVFc2Yk0xcHhBbXQtSTduU2lNemNZamNRLXBhdXVZNTI1ekJ0QnRHcjhfLVYwaTdQNHdMUnJydlB6V2gxamEwR2FVWHl5WHRuMFl1WUJJOFI0blE?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "AVOID",
   "reason": "Gold down 30%; jewellery stocks fall up to 11% in sessions"
- },
- {
-  "id": "ab2333fb316c",
-  "title": "HDFC Bank regains \u20b913 trillion market-cap; stock hits 8-month high - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZUNHVUdUT2FOaTlyektTRHNwTUI2RjhZRV9YVDZ2bmpGYUo5TFhucV81SUFZZmZIQ1dTTEVhR2hfQzRZdklfdXBWa215X2FaVzhyZDhPMDZRSi1WNEtZVUNnQVRKOEk3UFNhakFkWkdJRExmWkcyNlNNVE5KWGQyQXlMMXhCU1BHdlAtX3BEUlphVTkzbVdvSWd4Vkg1X1BVWlBvRkhYUUVUald5S2hYTlBzS0d4VHlYQ216VWtUdzYwTXlTUXdGUjQySdIB0AFBVV95cUxOX1duRFJzZDBjZlhDQkFuWU5QWjFCUndGM296TzVDS21fOHA2RmN4dkN0Q0xtaUxYNFZmQU9XbHhYdlVnZ2YxYUpmR3ZHbkg4Nlg0allUS2JjYm1OR3BDLUZEQmRMdUZ5SkYxWDBFam9qd1prUFFYQnljYTE0RmtJY3YxUnVvVFpyeHJ0OGF0NzBCbWZlTkhBNEEydnZjQ3ZZZmdfN2REYzNzSFlnWFR1RktzYUxJOFFpV2NYYVVBWXB2S1pFUGN3QnRkbkgtUHBB?oc=5",
-  "ts": 1795232944,
-  "time": "Fri, 20 Nov 2026 08:11:27 GMT",
-  "src": "news.google.com",
-  "stock": "HDFCBANK",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Regains \u20b913T market cap, hits 8\u2011month high, indicating strong momentum"
- },
- {
-  "id": "53baf0722ace",
-  "title": "Reliance Industries Promoters Buy 4.26 Lakh Shares as Stock Rebounds Nearly 14% in a Month - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnhERFRHTmt4bVAwRDlDUTYtMWVIeFRkekNMWmpGbjRWWWE1Nng1RVhPM1p2czRoam04WnZNenJqc1F0UFJSdU9NdXFVdXV3Mk1JNG05aDFVbGNkR215OEZ1czlGV09xVmpZTkg1eUM4WmE0SWtfSEdqbDVyczRUYXl5WE9ydU04Wk9pOFpR?oc=5",
-  "ts": 1795232944,
-  "time": "Fri, 20 Nov 2026 11:56:34 GMT",
-  "src": "news.google.com",
-  "stock": "RELIANCE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Promoters buying 4.26L shares signals confidence, stock up 14%"
- },
- {
-  "id": "686aa0bdb646",
-  "title": "RBI clarifies new FEMA rules: Who needs to file export declaration form with bank? Check FAQs on exemptions, thresholds - Livemint",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMU4xdGxvdC04T1l6SVpSYlpfVWh4eTR4OTZqQWdlSTF1c2xqd3ZHa1N1LUJlVmdtVzJDR29sNTRWT0dKV1VzRng5aWdBSkt2R2RXNFFWVFNpZmNSWk43NXZ0UE1DR3RtQXpWZVlPRjBtTUM3X3FIc1gwcTVmRW9aM1lvdWpIRDBZazFqaFlOdUpkQkc5bWJFdEh5Q1lDRWRnS1hJQ3dlRTlycHBxTHgzUE9jYjdGeWFFUjFGVnZNVkZzN2tDZEtwQWpwVEdSVXNnVEE5UVJud0QzZXJHWnQ3eVVRdWVNZzdzOXo0TzZFWDFJSl9UWWhOQjA5N0k4TUlaVUtPUFdIYkhIb01rT0VMZHFB0gGXAkFVX3lxTE13UmVnN0dPU2tXak1mTWUzNl9RU3IzTGtEMzU2NXl1NU11dHJSczlsbXRFTjRJcXZpamtaQkhYaDZBWVgxSG5DeGtTZGZKSUFwOHFPY0xJeHBKc0ZGUTNBOThWdk9CZHB3d0xVSGlreW5wUU93TzZoTTU3Y1BaeW81aFRsUXF0S2M0TW1ucXBjeXBXcnpoMUdlbG4waTFuOWkwSTFaaDNESWdCeWRKYUZHcnpYamxhWnEwc25Cal9kb21hNERfd244c2RXVTdKckFuMUhONXVoT0RWdkxZN3hPQXBYUXk3aTdNV0l6WmtuRVNMbFJTWXNDMmpWNDlQcDhiVHM3Rlp5VUV4aXhXUzFrWFF5c0ZSbw?oc=5",
-  "ts": 1795232944,
-  "time": "Sat, 21 Nov 2026 01:56:22 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "HOLD",
-  "reason": "Export rule clarification reduces compliance uncertainty for Indian exporters"
  }
 ]
