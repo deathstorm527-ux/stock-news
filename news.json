@@ -1,5 +1,18 @@
 [
  {
+  "id": "80d04ff95a8b",
+  "title": "Fuel prices unchanged for 10th week - Taipei Times",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oTEFBREpwQ3N1dWgtMnJQdVRTdmtjMHRYd2JnOWo1MWE3Y1QxcUFsS0s5RmQ2Z3RzZWZXVS1XM0xQd18wRUxhM0lrVVRVdktCTkx1cThKSHQtZVlRSjBudF9CMm1wSjk4V1hYV2x2NjduWFZxVEE?oc=5",
+  "ts": 1795368018,
+  "time": "Sun, 22 Nov 2026 16:00:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "HOLD",
+  "reason": "Stable fuel prices, points down for crude momentum"
+ },
+ {
   "id": "cff4ff212767",
   "title": "FCCPC Intensifies Monitoring Of Petrol Pump Prices As Brent Drops Below $90 - https://thefact.ng/",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVm9CUXJnMGQtR3JOSTNmd2NVdW16Z1hROEFaWmg5MnFvcGRtdTZGZ2JET3B4VmdTVlFFaUZxXzhnQWt1UzBLUVQxUWQ3eFltNmdfaUJmWmdDd1VyTWxXY3pPWEtLWTc0S1RhRTNpaVhkU3MtcGR3V2pmVFVNZTRHa2lHOUtOdTN0NXlRT1hTd1lsZFJ3UXJQVUx3?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 7,
   "action": "BUY IDEA",
   "reason": "Easier FPI rules may boost inflows, supporting Indian equities"
- },
- {
-  "id": "c0c577e534f5",
-  "title": "Sensex jumps 898 points, Nifty hits 25,800 despite global rout - The Shillong Times",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZjhERkFteGpfT09Uck9NU2dDRzdsZGp3UVl2VTlKUGF4WVkwdnFHVGp3VHBJQjk2ckE0MDBTY1IyeWFwTVk4R0tjRWd6NW4ycHEwemZzdUlpcWd1dzA0RWxUTS1pTkc2eENtX2FNUlFxWnF3aXNOSDZaaUwxamZBNGdWMG1mRXdQMWk3N2ROUkVXMDNGRlE1eXZWTlNHT0lwNTBJ?oc=5",
-  "ts": 1795228938,
-  "time": "Sat, 21 Nov 2026 01:08:46 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 9,
-  "action": "BUY IDEA",
-  "reason": "Sensex jumps 898 points, Nifty 25,800, bullish despite global rout."
  }
 ]
