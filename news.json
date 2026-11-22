@@ -1,5 +1,31 @@
 [
  {
+  "id": "212fb1b5da4e",
+  "title": "BSE SENSEX Rises to 82,532.19 Amid Nvidia's Third Quarter Results and US-Iran Negotiations - BBN Times",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnU1N1BzYVNKYm8yM3dpMkJIVTJEV2JZcGU2ODM2Y3VMRkJhU1JEa3dXLVBoUGNBZ2YxaUlGaUNjVWhQUDFqX2NMQ1dMS05ZTE9qcXVZSXVTdVhvd052dk0yVG9FUEhIVE5LYndsd3Mxd0FHaWRlLUVzNEJleGVsNTM4R2VNTmpnOV92c25ZU1lrN0t5TFFIWE1uSzBDVS1LbHc4RFN4M2pkUUhwejBfQXAwMVhVd1NxaHJyRFVoMGFSRWs?oc=5",
+  "ts": 1795311268,
+  "time": "Sat, 21 Nov 2026 23:35:42 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Sensex rises on Nvidia results and US\u2011Iran talks, bullish Indian market outlook"
+ },
+ {
+  "id": "1903b80babc1",
+  "title": "Oil Prices fall 5% despite attacks on tankers, rising tensions - Realnews Magazine",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkdfbTBzVm9IUmpaRzZLcTVhaGlUZ01mSjR3SUZ0WVJvOVBnQk1INmRmT29PNUp5b21CVFhXYzh5YzRPTUhid25lT1ZIVDRUWXUwc0xhRVpuS0NibTRnbHk3anItMHk4S3ZsWmtQbk5KY1hpeENBZjFHWWpFcXJDbzlXdVpXOV84SzR5a1hUbXpReUgx?oc=5",
+  "ts": 1795311267,
+  "time": "Sun, 22 Nov 2026 01:26:23 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Oil prices down 5% despite tensions, indicating bearish crude trend"
+ },
+ {
   "id": "90477a29c2c1",
   "title": "Analysts Hike Oil Forecasts Again as Energy Flows Face Slow Recovery - EnergyNow",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzg3aWlBQnBmc1Ayd3JhamhRbHNFOGJiTGxhanBHUjdvUl8yTTNKNHZ3WGx4a0lqSHpTQTJUeHowdG5rOW1aVjJVNzA5UFIxYl9UQUx0X2FSUVV2X3pYRndCdERWRGo4T09KQ0FXMFNnRTVabkU3dnZQeFkzQm1PbVh6SlhtTUhHS1BxdlFGYzZxMmpidkFVWEJqT2Jxelk?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 7,
   "action": "BUY IDEA",
   "reason": "Rising LPG demand hints at stronger crude demand"
- },
- {
-  "id": "200a98755e46",
-  "title": "Brent Crude Could Fall Below $80 on 2027 Supply Glut as IEA Outlook Weighs - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UVmE5RkpUVG1jUEEwS2l4WE9kZnFYNlZfcUloMGVSaHBfNmg0N3JONDBqUWJERkhNM1ZaaDRNVWhCbi1aMk04UDAwZGtNdjlFd3JWSFRHXzNWdHdtbVJnVHpfRC0xV3piOVlOQng2RkhFR3FWNGc?oc=5",
-  "ts": 1795187461,
-  "time": "Fri, 20 Nov 2026 14:05:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 8,
-  "action": "WATCH",
-  "reason": "Outlook predicts Brent below $80, pointing to downtrend"
- },
- {
-  "id": "a045b60226f6",
-  "title": "Silver ETFs Plunge 6%; Gold Funds Extend Sharp Decline - HDFC Sky",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGZYTXdEUHZrZWJFMXlGb0JraXFGY05vSDdkeHhlcnpvSERjWEVMOE1Md1JBaDdXWm5iVHRtbkhCOW5sWkljc1lUakVSbS1GZFd0d0tkWTVnUHBtUmY0UnZBbU9Ha2NyWjVISktRT3NvUEZQeXB0cTJOaVVVSjlBWllZTmp3c2lCQ3h0UTV1LUNOeGhJT0I5dVgxM3paTVVZczUxVW5Gbi13STRSWVBQTnNOSQ?oc=5",
-  "ts": 1795187459,
-  "time": "Fri, 20 Nov 2026 07:39:23 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "WATCH",
-  "reason": "Gold funds decline sharply, suggesting continued price weakness"
  }
 ]
