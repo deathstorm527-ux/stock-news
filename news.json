@@ -1,5 +1,44 @@
 [
  {
+  "id": "babe06faddf2",
+  "title": "Rupee could rise to 91.50/$ on equity inflows, says HDFC Bank's treasury head",
+  "link": "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms",
+  "ts": 1795409753,
+  "time": "Mon, 23 Nov 2026 08:50:47 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "Equity inflows could lift rupee and Indian equities"
+ },
+ {
+  "id": "d2c08163f7ad",
+  "title": "APL Apollo Tubes among 3 stocks that rose above VWAP",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-among-3-stocks-that-rose-above-vwap/slideshow/136088216.cms",
+  "ts": 1795409753,
+  "time": "Mon, 23 Nov 2026 08:56:15 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "APL Apollo",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Shares rose above VWAP indicating short\u2011term strength"
+ },
+ {
+  "id": "cda323a5c6f2",
+  "title": "Gold Silver Rates Live Updates: Gold rebounds from 14-month low as US inflation data, Fed rate outlook take centre stage",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136088467.cms",
+  "ts": 1795409753,
+  "time": "Mon, 23 Nov 2026 09:08:19 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Gold rebounds from 14\u2011month low on inflation and Fed outlook"
+ },
+ {
   "id": "581797356f98",
   "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses - marketscreener.com",
   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUh2RUxLX1hia29Qdks2NzVybWlSYTJBRmtNQzFUNDF5Q29FaEowMDNCSmp3dzdqWFkxV3EzNXZLWTl0WlhXWno1TExZc0FiM3hvaWlqc3dOVTdmQ3VCU2gzVVdYbHVvM20wUWYwbkhjNVg3SnFOamFuajlDZnB0TDNZMUNCUUx2cXZZR0pEOFk2SkZQOGpCXzgwNlFCU1gzWm9kOXIxYU1iaFV2QnJwNl8zZ1VpY1dfVUNJd1k2MlpaZDg?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 5,
   "action": "WATCH",
   "reason": "Surplus outlook may depress crude prices long term."
- },
- {
-  "id": "dccbc121f7c0",
-  "title": "Exclusive | U.S. Diesel Prices to Continue to Fall in Relief for Consumers, U.S. Energy Secretary Says - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSm9TdEFSdXNqVlB3bDlkMlpVVnpFQ0NaemFrRmNuZHR4X21HTVhIdHhNS3NQekFDN3pMVFFoQTJTTEVIVU5wR25xNHFDRVRsTXVxaVE2b2Y1VFhhd1JuY0hHcDlQZ1lpNDhJWnU3V3hyV1ZaYjZoM0ZabGZhSlhndlp3VEdwWm1mWEhqRUFWdnRyUTJoWDBBNEdqZ3NSMWluOG5QbzFnTjlyemF5cmlPZjRCOVU1MDVfMVJxRllfSnZJUnV5cnA5cXJQSlcydklidVE?oc=5",
-  "ts": 1795250348,
-  "time": "Sat, 21 Nov 2026 08:24:05 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Falling US diesel prices signal weaker demand, pushing crude lower."
- },
- {
-  "id": "5205a086056a",
-  "title": "ING puts Azerbaijan's 2027 fiscal breakeven oil price at around $70 per barrel \u2013 Exclusive - Report.az",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlJKOHhXSGhwel9tRVNiUVMzYUlJeUo1TFF2cTd5Wm9EU0Y1dDdxREpwNjZwUTQzdGVJdDNrNnZwdDRLb1BIRHB3Zkc4NVdSNndac1E4c0VkczZMM1pFbGNORjVVUy1idEJvV3M3ZHlEWm5aMGE4THN5eU04YWZBOTNPNkRyQWlWcXlqcl9rNFVVd29GRU5oelkzaG5ObWtZUFd6SUdDTXBJaDU4R2J2dzIxdzBYQVk?oc=5",
-  "ts": 1795250348,
-  "time": "Sat, 21 Nov 2026 08:03:53 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 3,
-  "action": "WATCH",
-  "reason": "Long\u2011term breakeven suggests future price floor, limited immediate impact."
- },
- {
-  "id": "09bdf9e8030b",
-  "title": "Kuwaiti Oil Prices Decline USD 1.14 a Barrel - Qatar news agency",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVh4ckZ6dFJOa2h3Q1Z4dVJ3TlBqdk5jcHN5U0NzU0FJbVdCcDlvVnFTaFdnVHl2eDF5LVRpa3V6T09wblRIX0s4cjMwRjVQcWJNVXliMlpWQ0tMcWlQUThmbDc0YnhHeW5tMmIycnFreFdKVFBSazliMnZnWVB2RnE0d3V5REtkOC04T2ZwM3B2azBtemc?oc=5",
-  "ts": 1795250348,
-  "time": "Sat, 21 Nov 2026 08:09:19 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Oil price down $1.14, indicating downward pressure on crude."
  }
 ]
