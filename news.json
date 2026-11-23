@@ -1,5 +1,18 @@
 [
  {
+  "id": "f608ea36e56c",
+  "title": "Sebi warns investors against relying on grey market premiums for IPOs",
+  "link": "https://www.livemint.com/market/ipo/sebi-warns-investors-against-relying-on-grey-market-premiums-for-ipos-11795443391351.html",
+  "ts": 1795448248,
+  "time": "Mon, 23 Nov 2026 20:36:31 +0530",
+  "src": "www.livemint.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "AVOID",
+  "reason": "SEBI warning may dampen IPO enthusiasm, reducing market optimism"
+ },
+ {
   "id": "2dc36528da49",
   "title": "Oil prices fall on increased flows from Middle East, Libyan oil pipeline restart - AOL.com",
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjTHRfbTQ0ZnN5MllMTWIyNWUzVDZJVEVrcnExSjc3d1N1TV9TZmcxb25qeTJMYnh2QWQtLVFYUmRaVFNZZ3NhUUYyYWNDRUVMUkVzSkxjcWNuNl92NFB1WFdtanpYNk10LTVuQnNpQkhQeno4RUplYUpzdw?oc=5",
@@ -5185,18 +5198,5 @@
   "score": 3,
   "action": "WATCH",
   "reason": "Local gold price posted, no clear market direction"
- },
- {
-  "id": "22ef7b354ba6",
-  "title": "Max Healthcare, Fortis, Apollo, Aster: Hospital stocks steal show on D-Street with up to 14% rally - Buy now or wait? - IndiaIPO",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUUVXbTFCVGc2VUFtenNOU2lZbnpZWHhuYTR4NTZCbkliR1FkS0JLSWZUbHFCZmhOaVRFZFNmM04yaTc5RlpBY0N1V2tPbzlHVFMxV3Q4X19WcFVhZHlJZy1xa0xscURnMENFNlZMOXRHcnp2eTdTUjdvcDN0Z092cFZ0NU1qVXBZZ1ZMNjBNTWcxRHl1MjV1N0NzekpDSzQzeHQ3c2pORUtpcTEyVnZBSnRIel9fZUtEQVA3Nks4QkVReEdIcGRvV3ZteWowSVFUdGJkSHRNSGVzQ1R1LUE?oc=5",
-  "ts": 1795288029,
-  "time": "Sat, 21 Nov 2026 18:35:16 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Hospital stocks rally up to 14%, sector looks strong"
  }
 ]
