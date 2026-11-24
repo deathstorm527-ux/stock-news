@@ -1,5 +1,31 @@
 [
  {
+  "id": "ee4584fc8b80",
+  "title": "Brent Crude Oil Price Today: $90.03 (24 Nov 2026) | GOS - globaloilshock.com",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNXBMTlAyY01OeTJ2X0JBb091eWZyclc3dVdSYTFtWUtTc2g3SERfMlZTMS1Wbk4yakFNeHdUc3dxQVBkVi00a3NlVmFWRG45eUVrT1BCcFQ?oc=5",
+  "ts": 1795560858,
+  "time": "Tue, 24 Nov 2026 16:50:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Brent at $90.03 shows no clear trend, market remains stable."
+ },
+ {
+  "id": "f63cfb11353e",
+  "title": "India\u2019s Largest Private Lender Is Lagging \u2013 HDFC (HDB) Made into Our 2027 Bargain List - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkhyTVNROGRXQ2s2R0pkdEJaOEMydjExR2RBcGk0V1djQzRLdnFHdGJUdXVKalFFbjIwZkNrZW15TzJJVkdLMkQzQ1hZcVV4VHd2dHh1d2R4TzBDbnVKdUJNTXlkTTB3RF9rNHJlY1FOVEoxZlRGaERCSnhyUzdHOFlkcXd4bmhEZmpMNHoyUldxRTlUeDZ4Um1xZDJEand1QXhv?oc=5",
+  "ts": 1795560855,
+  "time": "Tue, 24 Nov 2026 21:38:22 GMT",
+  "src": "news.google.com",
+  "stock": "HDFC",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Lagging performance qualifies it as a 2027 bargain, suggesting upside potential."
+ },
+ {
   "id": "2b6e27df9db2",
   "title": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report - Kitco",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lqcG5YQlM4N3pRZHUyQkIyM2ZCZ1FLTE9ZTzNLQWNCRkxzdnFZS2VFcHVUY2Nfcjc2TzFPaV83WXNKUzd0SE5YZVZUYXYyMF9nbzBzamo2MjB0M2hUQkRQRzBUTk5wVzBPbU01ZFU0TFhyZktReS1KZ0E1MjNySU1JcHhsaTB3QlFUeGVyRzcyT01xMmxXejJzYW5BcmtJcG13SGFMZ3VKZjM1SmZYV1JFSGttM3l3NWpucw?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 9,
   "action": "AVOID",
   "reason": "Brent down 5.5% signals further decline"
- },
- {
-  "id": "a328f8e0b74f",
-  "title": "SS RETAIL LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVUI0SERkQldtd3RNVVpoNVFpTFQtRjRzMTNrRFJSYXBoZ2otVm1tdHVxc3RFbzUyQ0I4RXY4MTQ5NzNYYUZlTVZUYWVSQnJrdWVPVnMxaFhaRkZ3TWhzS2JYNDNmc1JocGxvTmxxREJWaUZSYnQycmVpc3FWb2VIN056ZU9SSWNoVWJibVQ2c0Y?oc=5",
-  "ts": 1795455672,
-  "time": "Mon, 23 Nov 2026 15:20:38 GMT",
-  "src": "news.google.com",
-  "stock": "SS RETAIL",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "New forecast released for SS Retail shares"
- },
- {
-  "id": "563b0195da9e",
-  "title": "10 Stocks to Buy Today: SBI, DLF, Bank of Baroda Levels - Univest",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tYVluZzc1UlJHRWtjWEZxemMzend2cGdwaHZ3NElpRDNHbU9kWFZ2Ym9mOERaLXkzMUxTX29jZFNVNVo0TV9QWG1YWnBPNXVsNlNFTEVEZlhxUnBxd1ZZOHJR?oc=5",
-  "ts": 1795455670,
-  "time": "Mon, 23 Nov 2026 14:22:32 GMT",
-  "src": "news.google.com",
-  "stock": "SBI",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Analysts list SBI among top buys this week"
  }
 ]
