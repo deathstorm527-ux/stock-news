@@ -1,5 +1,57 @@
 [
  {
+  "id": "e3308faa08b5",
+  "title": "Gold struggles to extend rebound as Fed rate hike bets pressure silver - Kitco AM Report - Kitco",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXZLTW5tSldXS2RtLTBnUXc0MFZ6QkRwYjNINlNUdThxVXNnMElPTE5ZUjE3T1hQdktPdUx2VTZPTjZFa0Y4NVlvamQxRGFJUWg0UEhVZnF5OTdtYkpYWURzSFpGNktoR2REcjJ5bkkteHEycG52Q0I2b3QtaDVOeFNKU0dFTmFGYnVLTmM3R21KVzlFeFJlejVXV3RfbTZSdHFiZFNGWFhUb01JZW1sU2xJdFpsa3Q4R1Br?oc=5",
+  "ts": 1795531629,
+  "time": "Tue, 24 Nov 2026 13:45:25 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Gold rebound stalls amid Fed hike expectations, pressure downwards"
+ },
+ {
+  "id": "edeead0e3a1d",
+  "title": "Middle East crude oil exports trend lower amid fake Iran stalemate: Russell - BOE Report",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVFvM1RaalVyREZLdUlXQWJtWVExclBWeEozX2padWlRXzVvbjBLUjNGWkZ1Y0Y5WDhwMW5CUUFwVHhBQjVqOVN3ZXktTDhYTTh5RjB5UDV5MkpkTmE1NGZXWW9VZUJSWERFMXhQRkY5enRtNDN0RjNIRUtacUVVMGZIOVB5cG9XalNzN1N3cjM2NDRLQ0JBSi1YNTVzWjh6QWhjcXg1Y20wM2kz0gGyAUFVX3lxTE1OOXQtY1RjZzQtS2NrdWdoNjFOZU5DS0M0cy11Xzh5MXZjUi0xLTExbVZWcUZSUEN5YlVyTEVYRUJ4Y3dLT0FVZFhGaTdDaWhQSmJZZWFrUUFINjNqTzd6TDV2a2VHamRJMEpfcFpIekFqa3FEMG54d1N4ZE8ybDE4LU1zZmZXX3VxaFhfTnZvT2NDSzBxX1FrenlzWXp5VVlaS2VwdTFHWDJGdHlRZnFFS3c?oc=5",
+  "ts": 1795531629,
+  "time": "Tue, 24 Nov 2026 12:51:44 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Export decline may tighten supply, supporting crude prices"
+ },
+ {
+  "id": "67917c7b1503",
+  "title": "Why Are Oil Prices Falling to 3-Month Lows? - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUQ1bFJ4QXNRdjBiOG5wUl93WlBXWnFlVmYzTWQyX1ltRjJ2Njl0bk9fQ083V3VpOFdGR3ZuZUtrUHlxR0dORFUyZkZtdnJyOTZLaEFkSlBKdktPSU5mTjlIWndaYUNfa0o0U0VvbHNYZUFPcFNmQmx2NHdLTk80NTI5enUxZ2c3?oc=5",
+  "ts": 1795531628,
+  "time": "Tue, 24 Nov 2026 13:33:16 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Oil prices dropping to 3\u2011month lows, indicating downward trend"
+ },
+ {
+  "id": "ef7e81c3eb77",
+  "title": "Oil futures: Brent stays around $90/b as risk balance shifts to surplus - Quantum Commodity Intelligence",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQczZlUEJlRl9OOTFSMmNVYm4tdmpybGlWYkNmZklDN3VEVWQ0NDM1OE5wX0NvZmFiSE1pQ3RkcElJQzNGdGhITEloeDd6aW5Jc29QWEZZZWpTQ2hJWHBQZFF4QmNVSko5NDVPRy1mNEJGbmpTbkp3eVRDRHd5dTZoZlhpRThLcy1KSHp3TEd3Z0IwTzNzM2JORnc4SXJVaGtZSjVQRUVPdUVWdlR0cWttZ0lB?oc=5",
+  "ts": 1795531628,
+  "time": "Tue, 24 Nov 2026 14:12:53 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "WATCH",
+  "reason": "Brent stable near $90, surplus risk may push prices lower"
+ },
+ {
   "id": "87f0f78b5a12",
   "title": "Oil Price Today (November 24): Brent crude dips below $90 after hitting 3-month low. What\u2019s happening? - The Economic Times",
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZ00zYXFSeGI5Y3c2enNZUmRoNGVOd0hKNFBCS2pUMEhHSzBjVW92UnNsajkyclNPN0tZWGNtaWZKSmkxRGE2M3VMb3pOaXNlS2doSmxmZDkzNmo4RVVBNVhKZU81eVJyUEJrSE5aeTRoSWpvVTFmQWVNRmtqTnVFTUMyYU5qdE1NRC1EU0R0U2NDWHk4MU5hSWFxcFp5dEp0VGNOUURHaU1WUlhuQ3hjYTZaeVp3ejMtVjhnMTZsNENtLTZ1ZFVBazIyVlFvdzdDY1p6d05ZVDdzQTdfTXl2Y0tNQi1KUDZhNGw2VTlNeG1maGpnbjF2bnd3eXlfUzNYMVBOM9IBigJBVV95cUxNLVFxdFBjaTV1QmVFNm9Va0d0cURCLXByb3l3cE9QVWJRa2JNbXltT21vRlJmcGdBcXdzTVltY0RVcDUxaXBKMUtSaFFBX0Z5VzVETEpJTnpFTzBXMWRTb2FfR0hiQi1nZjJSXzdqVk5oYnhDUGJTTUdGdjBvZjNUSUlya0pqcTVFbGwwMFBNcUpHSmVIYWoyMF9JWEMyenBaVUktSTFVSnZZTmdtaXZZVUtSZlY4TTRHRHZYSDFUdTZSWS1Dc2RNZXBnbEkxTE1YYVdrQUpjc0w3VXV5STl3Qi1lUHpVN0xFQnVZQ3pMUGREeWNWLWV1c1VweDgyaS11UlNIME16eWdFZw?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 5,
   "action": "WATCH",
   "reason": "Rupee falls; Goldman sees stability amid AI storm, market uncertain."
- },
- {
-  "id": "c5c18fc5939a",
-  "title": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
-  "link": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms",
-  "ts": 1795433650,
-  "time": "Mon, 23 Nov 2026 15:58:38 +0530",
-  "src": "economictimes.indiatimes.com",
-  "stock": "MARKET",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Rally pauses as rupee retreats, but bias remains positive."
- },
- {
-  "id": "86c3e4874369",
-  "title": "India's gold imports fall 40% to $24.7 billion in April-October 2026: CTI - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTXEydWpaejlSSU50bVJiT0NkWkJPdUM2SlozbEhocm9iSXRRODZ4MXRySzlobGt6VkUxOFZ2YWhwMDRwYWM4V2Ezc05PWGRyLTljZGhDZFpmeFhIVUZSQVVsM3VldkNNekJ3YVkya3FLVEJsWlY3UEppSksxbnljeHVCOTFmUmdSbWNDdUFUVGNpZ1hRZzI5eWRkZDBzZUVCZjkyX19KZ19ERDhGX0tnRzRZWGRJZm9hWW1WLVV4ejZWNmE0Sl9vYVlFWkhCRzVZdXRnSmVhaG90aGNBQTlTalh30gHiAUFVX3lxTE5NcTJ1alp6OVJJTnRtUmJPQ2RaQk91QzZKWjNsSGhyb2JJdFE4NngxdHJLOWhsa3pWRTE4VnZhaHAwNHBhYzhXYTNzTk9YZHItOWNkaENkWmZ4WEhVRlJBVWwzdWV2Q016QndhWTJrcUtUQmxaVjdQSmlKSzFueWN4dUI5MWZSZ1JtY0N1QVRUY2lnWFFnMjl5ZGRkMHNlRUJmOTJfX0pnX0REOEZfS2dHNFlYZElmb2FZbVYtVXh6NlY2YTRKX29hWUVaSEJHNVl1dGdKZWFob3RoY0FBOVNqWHc?oc=5",
-  "ts": 1795432806,
-  "time": "Mon, 23 Nov 2026 10:24:31 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Import drop cuts demand, likely lowering gold prices."
- },
- {
-  "id": "4a993ed30cd9",
-  "title": "Oil slips with Mideast flows in focus By Reuters - Investing.com Australia",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXpwb0NtNzV4aDhwaURFc21XY3pva2sySVRBRUo0YUI0UkV3S0RsOHQ0cDJBQ3l3Z19BdHo0dlVmNjBhY0hPcWZTQVFBVFZYX0lKX2w3ajFyWDdZY2doZjFqeFdqUHdfOVFRdGh1WnRiOWNpa1pscVdET0gzdm1Kald2Ml8tVHd1b2VMOVFsMFRHM0RtUUUyNVNrYVBKSm1aOFhzRFdqa2xBcXFva3otN3RaaFJEdk1oS0RwRDdtU2MzQWhyd3c?oc=5",
-  "ts": 1795432806,
-  "time": "Mon, 23 Nov 2026 09:39:39 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Mideast flow concerns lead to Brent slip."
- },
- {
-  "id": "83dd324a3566",
-  "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began - Egypt Independent",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQallDOXNRVXVqbnE2MGsybWVsZ0c2ZGdTMDlJeGVnYTI5MkQySmcwNVBxM29QLTg5WWNvalhNaDVBdl8zSEJMb3pHZEhqQTM0YWN0eG1LamREQzNzOFdCZzNRTm5IR1REYkt4emVxMjRudGR3WUs0ajE2QzF4WGJHemlCeDlreWQtdHVOekpSb0k1QU1iMXVfMHlaUkxud1JsdkJQVG84TUt1c1FMRjczUlFTWG1hUjJLLVByN1JkbnJIUQ?oc=5",
-  "ts": 1795432806,
-  "time": "Mon, 23 Nov 2026 10:59:08 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Heightened attacks risk supply, likely boosting Brent."
  }
 ]
