@@ -1,5 +1,31 @@
 [
  {
+  "id": "8fc6e992c785",
+  "title": "Thanksgiving Travelers Face Gas at $3.61 a Gallon, 56 Cents Above Last Year - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yQmlRZFNLTm05UHJpcHk4RjdTN0tkQ2V4YzJNWnhUMmRmSFBkNTkwSVNuV0taRG1RcUY2S0lCNzRjMHp6VXFjSFlTcWZfVVdDMFBnRTdmZUlJemlpdktUSWhKeHJHUWRQRzJ2aDVnNmROdllhNUE?oc=5",
+  "ts": 1795562947,
+  "time": "Tue, 24 Nov 2026 22:37:04 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "US gasoline prices up 56c, indicating stronger demand for crude"
+ },
+ {
+  "id": "bb5705eb4a54",
+  "title": "Private survey shows US crude stocks barely rising, well short of the 0.9 million barrel forecast - investingLive",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1RiQ0JRMmFZSE84M1pTRGl0SGlJdzN0TmNHX0ZYRWtSTWhQT0lqWmRaTFU3Z2ZyU05wWmhLZEtSN3ZGa0l0S012Nm1KeWQ1NXJRN0JKcUdGZHVNMG5udGVBb29oR2JkcUkzU2diX0lhaHRuV0RMZ3ZHMW1JdFBLaDlKXzBHYkE0c2xXM2hTcTVYaTFPMTlkcmlWdU5Nd1FuVHcxM3VFNTZieU44UVRERE8tWHR5cDJjaFJEOS1LTkpNU2o3WFlYQTZTZWh6LTFG?oc=5",
+  "ts": 1795562947,
+  "time": "Tue, 24 Nov 2026 21:55:37 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "US crude inventories barely rising, tightening supply and supporting price gains"
+ },
+ {
   "id": "ee4584fc8b80",
   "title": "Brent Crude Oil Price Today: $90.03 (24 Nov 2026) | GOS - globaloilshock.com",
   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNXBMTlAyY01OeTJ2X0JBb091eWZyclc3dVdSYTFtWUtTc2g3SERfMlZTMS1Wbk4yakFNeHdUc3dxQVBkVi00a3NlVmFWRG45eUVrT1BCcFQ?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Broad market slump pressures all stocks"
- },
- {
-  "id": "46b335695364",
-  "title": "Oil Price Forecast: Can OPEC+ Prevent Brent From Falling Below $90? - CryptoRank",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2s5TUNSQkJVSDQ5SUUyNXNPVlBBQW8yZXhqZ2gyTkhWSF9tYlNkMkNZVjlWay1JLWxyZFVtcVJRWlM5V3Y4emMwZnp5dFBmcGVQZVhnU1NEN3Q0OXdoaU9YOHctSE9LWnZUd1locE9ka0FJMnNmV3YwcjQ3SmNwdFA5ZzR3MWc3UVE3WVZHSHNIUzlYZ3VOOGNFQUU2YmxMeExR?oc=5",
-  "ts": 1795455674,
-  "time": "Mon, 23 Nov 2026 16:53:05 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "neutral",
-  "score": 6,
-  "action": "WATCH",
-  "reason": "Uncertainty if OPEC+ can keep Brent above $90"
- },
- {
-  "id": "944a1247db6b",
-  "title": "Brent crude oil price tumbles about 5.5% as technical breakdowns reinforce bearish sentiment - Traders Union",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2txcHdleFQ1Z0xTSVRYNjdwc3ZKamp1M2g2dWVURkFFdVRyT0pjblJqVFcwdzdzcjB0VXJYQXFLbFU4bjJaTTI1NndWdmFxYlFOeGRJcnFwNlBabVhaY1JUZVgxNzZLaGVCSXhqemdCR0lEcGp3X1lzQzRrQ0NnNU5WT0ZYZ0NKS3NnR1R0YVpmTFZjVUkw?oc=5",
-  "ts": 1795455673,
-  "time": "Mon, 23 Nov 2026 17:17:31 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 9,
-  "action": "AVOID",
-  "reason": "Brent down 5.5% signals further decline"
  }
 ]
