@@ -1,5 +1,44 @@
 [
  {
+  "id": "87f0f78b5a12",
+  "title": "Oil Price Today (November 24): Brent crude dips below $90 after hitting 3-month low. What\u2019s happening? - The Economic Times",
+  "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZ00zYXFSeGI5Y3c2enNZUmRoNGVOd0hKNFBCS2pUMEhHSzBjVW92UnNsajkyclNPN0tZWGNtaWZKSmkxRGE2M3VMb3pOaXNlS2doSmxmZDkzNmo4RVVBNVhKZU81eVJyUEJrSE5aeTRoSWpvVTFmQWVNRmtqTnVFTUMyYU5qdE1NRC1EU0R0U2NDWHk4MU5hSWFxcFp5dEp0VGNOUURHaU1WUlhuQ3hjYTZaeVp3ejMtVjhnMTZsNENtLTZ1ZFVBazIyVlFvdzdDY1p6d05ZVDdzQTdfTXl2Y0tNQi1KUDZhNGw2VTlNeG1maGpnbjF2bnd3eXlfUzNYMVBOM9IBigJBVV95cUxNLVFxdFBjaTV1QmVFNm9Va0d0cURCLXByb3l3cE9QVWJRa2JNbXltT21vRlJmcGdBcXdzTVltY0RVcDUxaXBKMUtSaFFBX0Z5VzVETEpJTnpFTzBXMWRTb2FfR0hiQi1nZjJSXzdqVk5oYnhDUGJTTUdGdjBvZjNUSUlya0pqcTVFbGwwMFBNcUpHSmVIYWoyMF9JWEMyenBaVUktSTFVSnZZTmdtaXZZVUtSZlY4TTRHRHZYSDFUdTZSWS1Dc2RNZXBnbEkxTE1YYVdrQUpjc0w3VXV5STl3Qi1lUHpVN0xFQnVZQ3pMUGREeWNWLWV1c1VweDgyaS11UlNIME16eWdFZw?oc=5",
+  "ts": 1795529929,
+  "time": "Tue, 24 Nov 2026 03:12:11 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Brent falling below $90 indicates downward pressure, likely hurting oil traders."
+ },
+ {
+  "id": "44112915a641",
+  "title": "India is out of the \u2018Fragile Five\u2019. Oil shock & high US yields can\u2019t hit it like in 2013 - ThePrint",
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMGtpLUlvLUkyWTJzdzFHNFhHVnFRVlFIY3FaTzNIMUp6cUVodzdLSFlXUWhqTFFPLUwyVFBFZTRMekd2cHZSOXloODdud2pUODFlaTRURzYwMXBGUS14d2pycUo5M1FTVWV4ZGtXYmxlZjJpVWc4dDZDNG5Fb185Vkd6dkJJUU1sNGZrSG0xV0R0T0dQRlpweTNPdmRYRWwtU2YyOVpjVmRhX001ckpyNkswc19WSXBXWkxZ0gHAAUFVX3lxTE96M1NQUjA3bmlIMDB3OGRmeHNzTi1jTTZXSW9PZ0ZJX1F5RXNBeDhQaFZuQlM3Z2JEUnpuaWlUdWE5cnFMLUZtaDhjVnpfbGdod19HYlRFR29FNjlzU0p2WGRQeXdPVzJFOXhscUhrOGRHbDRodXNnVmc2TmdPNWkzVnVNV2QzYy1rT0hYV2ctWmlTeC1nakQ4bElnaTBqVnJrX2lrcGdFUlJwRnZJMEhLc1B3YThYOWQ4V254OXlpVw?oc=5",
+  "ts": 1795529929,
+  "time": "Tue, 24 Nov 2026 05:37:54 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "India\u2019s resilience to oil shock and US yields supports stable equity markets."
+ },
+ {
+  "id": "b574c6e77014",
+  "title": "PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
+  "ts": 1795529924,
+  "time": "Tue, 24 Nov 2026 19:17:50 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Surge in PE/VC funding boosts confidence in Indian growth prospects."
+ },
+ {
   "id": "a3bfdb9c3537",
   "title": "Oil touches three-month lows before recovering on Hormuz threat - Kitco",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkZaYW9OM1NFX3VxcUVhWnEtWjNveWVRNnlzb0MtczRvRUNoajNXTUY3Ynd6T2U3ckNRcTBGSWM2aE9LWllSVkMwZXN0VFFRWmoyMi1raVhFSWI5ZDNsR01GM2F6dnE3d1AtVDU3YUpfdTg2d0lPOGE1N1NZV1JGYVpDZWk5ZWpHYmNOSUxTNXZObFEwTjNOb0w3QUk4clJDYm9sY2VUVQ?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Heightened attacks risk supply, likely boosting Brent."
- },
- {
-  "id": "8983163f0a47",
-  "title": "Nvidia's Slide, Bitcoin's Sell-Off, Oil's Fed Impact: 3 Charts To Watch This Week - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejR4V1FtaElYRzM3VUNCMkNMU0R1aHN6SHhMVGFPQVFsdkEzT2IyZzdtLUZuWlZmOExTNTN2a0p5b0FhYmhId3lERjhVdWhianpHcjBEUFNkZEkyTlpLUnhjQUVlemd0Q3dQdFZQSTVNLUptVkhLMlJNc09YX05qUnlvUGNhSzFBWTZMUHo5M090bWI5cTZIc0h6RTBNTFltNDNSSnBHbDVMdmFLcW0xM3ZzQ1JNVWpHU3NZbU94T1Byek1feURBVm45akVBc2s4bmRZYW5n?oc=5",
-  "ts": 1795432806,
-  "time": "Mon, 23 Nov 2026 10:53:49 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Fed influence may weigh on oil, causing decline."
- },
- {
-  "id": "e0638eaa3208",
-  "title": "Oil Market Predictions of Surplus Amidst Ongoing Volatility - India News Network",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamhYT25LMlkxVEhfdlBlRE1HQ29KT1FQWDh2LUFQakp4elV5Q2NtNXRXTUtZQ0dqWEtYSmJTYnk3SHRTV3V1cy00Q3hQbXpNYU00R09ZbG1oNnJHU0VZTGtjVkhfRGNyaUF3OXFsQ0RDQmducjlIbnJaRmg2ci1LcG1rVnJ0VmN1VTlRSzdNa0xybkpVZDFTSXJ2enhINXdtQW0w?oc=5",
-  "ts": 1795432806,
-  "time": "Mon, 23 Nov 2026 11:01:14 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Surplus expectations may push Brent lower."
- },
- {
-  "id": "634555b3a832",
-  "title": "Oil prices fall, Brent at $92.29 per barrel - Gulf Today",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS0poQlR4M3NyaWZkYmY3aEdnUXZsbVdpemI2aUIwWTBINk9uZTNXSC05OGxjSHcyV2VVcFVuTmJsTmdzS0xlY0pvWWdhb2V3VUVqREtvQkU0QUtsSDNqZE9qRS02NlE2YV9CNGlMUXFTSGh6SWx0dkFlVHU3R0lqREJGOVFlSnZmMXExV19B?oc=5",
-  "ts": 1795432805,
-  "time": "Mon, 23 Nov 2026 10:28:15 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "Brent price drop indicates downward pressure on oil."
  }
 ]
