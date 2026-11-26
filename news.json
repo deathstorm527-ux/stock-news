@@ -1,5 +1,31 @@
 [
  {
+  "id": "38b7132d8843",
+  "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+  "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
+  "ts": 1795678875,
+  "time": "Thu, 26 Nov 2026 10:50:12 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "WATCH",
+  "reason": "Brent > $95 suggests higher oil prices, boosting crude outlook."
+ },
+ {
+  "id": "136bff38803b",
+  "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+  "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+  "ts": 1795678875,
+  "time": "Thu, 26 Nov 2026 10:54:36 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Rupee weakness may pressure importers and increase costs."
+ },
+ {
   "id": "3c7ac62f3594",
   "title": "Oil Prices Rise Again As Gulf Tensions Threaten Supplies - WE News English",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMGJxWVZVRmdFRnJJdk00aDhmU1NWNzE5ZUNEbXlCTjNoOFA0N2l4SlRnVVFQNzBQeHppU1k4dWhBMDVTQUo4b2l2c0xremN1ZmZKOWtqMDladElhXzl1Nl9NaVk0R19pQ21XM010aVNiaTZjUE9KbzNLTWVWVkE?oc=5",
@@ -5172,31 +5198,5 @@
   "score": 7,
   "action": "AVOID",
   "reason": "Continued global price decline points to further crude weakness."
- },
- {
-  "id": "ef9a07d00807",
-  "title": "PSX rises 1,068 points in oil-driven rally - Investify",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUxmNW9ha2Z5OHFVMHVIeXlCNHlObG95TFNlU2FialhtVHdEUXY2dS0yUU1kRzgxVnp5bGNSc1o5US1YMWl5WVUxa2w0SWR1WEJCSlg0eUtkX0F6bEIzS3dCMl9sdnVfRTJzaEkxMTBMWlgtNmJ6eGZqQ0c0MGQ4UnRpWUZxYXV0TXpzWDlB?oc=5",
-  "ts": 1795574738,
-  "time": "Wed, 25 Nov 2026 02:26:24 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "Oil\u2011driven rally lifts regional market, indicating bullish sentiment."
- },
- {
-  "id": "e7781dc25e71",
-  "title": "Oil correction gone too far; sharp rebound likely: Mirae Asset Sharekhan - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc2c0cmtUVEVJRURnUFFYNlBjOFYyOUZOQ0UzM2FNMTRKU1dPZWhFcm9ZSV91ZUJGUkI3SXBJTURnQ3dFZDNtNC1VRGFvRTg1a0xyVktPa2VYSHZrMU9fa1p1Z3FBeE9tQjNUTFdveTM3WDB3QVlyQ0I4TFVidzBSTkk4bGNUTWxENi1zeXg4QTdEUUFrdFlqN3JMYjA0a09xNDRJNkQ1RjhtLWk0NE1KWnc4cEFOZzZwTlpQZEEyOFhyRmJKMUxtVUpFM2t3NC1sSnFj0gHYAUFVX3lxTE1COGwtSlRlcDZHYjZ0QTJZWVJHVHpwaHlYMG5BN0stUW9zVmlLRl9FUUtBTW9qc0dOVlFkMkhZbUgzZ2lBS3VsOWEweWg2M29MVVNOUVlBUmRFWWRmNUJlQlV6SlNXX2RfWjMyUGpJSE5ES2RDM25vM2Q5b2RhbE1RZG1McVJsTEhOR1Y2SHA5UFhPTDVwX2tQVjk3eXNsbjBncnByRHhSaDhBTy1FU1Z6SElIY2t4VU5nUklBX0NFRTI3T2lvQmxpV2kxRmp0TFI5UmJZNWpzcQ?oc=5",
-  "ts": 1795574738,
-  "time": "Wed, 25 Nov 2026 02:08:12 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Analyst expects sharp rebound, indicating crude price rise."
  }
 ]
