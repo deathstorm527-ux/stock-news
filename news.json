@@ -1,5 +1,57 @@
 [
  {
+  "id": "45a3095f9f48",
+  "title": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns - CNA",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0g4T2VjSXNMc3VKSkpNUkVuRGs1LWNDM3NWel9ZelN0R19jNVJTX1RtUmhuSEIzMmVJdVNEWFlQS2s2dGJNczBrY0FLRXI4SzlhS0FFdzIxZ0pvX1V0SWdlV2Fkc3VxR3VPVEg4MTZHcWFSYTlJT2tpMGNnZjY3bHQzN1gwLV9EZEVxLTNTRFVSQ3RCeEF0RVQyVmxJdzJnNG9qQlZwOWRFd3J5NHVjR3labm91ckZPNDhPeE00WE5xOWxHRW5nSzB5Vkc?oc=5",
+  "ts": 1795724504,
+  "time": "Thu, 26 Nov 2026 19:12:13 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 9,
+  "action": "BUY IDEA",
+  "reason": "Middle East supply concerns lift Brent, suggesting higher crude prices intraday."
+ },
+ {
+  "id": "8d5bceab022f",
+  "title": "Oil Price Forecast According to Experts: November 2026 - MoneyMagpie",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGg1eDFOTjltMjdyd2Z3dzB0dkgxNkJSTDN0bThRdjZnUE01ZXBYS05BUV9KTkpFT1VHeEp6LVVwc2xXU3RNbmhjVUd0ZVY4eFpqdnJuSFJNeWYwVTV4WEdfSG5ZOEp2c2xlRFJMRmQwUHdFRjFEalVoOWIzNUYxWmMwRzd1ZjA?oc=5",
+  "ts": 1795724504,
+  "time": "Thu, 26 Nov 2026 19:26:32 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "neutral",
+  "score": 3,
+  "action": "WATCH",
+  "reason": "Experts forecast oil price for Nov 2026, immediate impact unclear."
+ },
+ {
+  "id": "90549a8f5c70",
+  "title": "Economist Robin Brooks Warns Fed Could Trigger 'Full Meltdown' in Risk Assets Before December Decision - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yb3djeTJ6QzJtblo1a2N3ZTFNbjNQNDJvRnk5T0pGVk8wVy05ZHRhc0VvTkloMUZzaHdYMlNrOFRFUjRYZDF1SXFkRi1oM2RaUk85Z2dMUDMxMUFLM2NfaWd4cGtkNm1pWG41VHpseUFVeWJvNnc?oc=5",
+  "ts": 1795724504,
+  "time": "Thu, 26 Nov 2026 20:05:00 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 8,
+  "action": "BUY IDEA",
+  "reason": "Fed risk pushes investors to gold, likely raising prices."
+ },
+ {
+  "id": "1eeadab095e0",
+  "title": "Hardeep Puri, FM Sitharaman hail PM Modi\u2019s decision to \u2018safeguard citizens\u2019 with excise duty cut on petrol and diesel - DD News",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHNKbTV5VDFoWUR2QWVkdVZCeWJ2NnQ2OFJrcGlyTTZOVDFpVGRsWlZlLXF5U1BVeXFESUxBaDBSSXBaOGJQVWlJNzIyUVJYTVZ3Rlh5WWt1WGt0bVVRS1hTSERXYk4yN0Iza0RkcDZ0bkJmWUdiUUtGbkFzQzZrUk1qUzhVMkFmbDBNM0plY28tRkU2dnRleEhiUFZ6SVRpZlhxZGt1d0M3eTRxeHd1N09feG1hOVlkTWRLN19rRjRoN2FiRVZlTW5pdTAxRlplUUF1V0Nn?oc=5",
+  "ts": 1795724504,
+  "time": "Thu, 26 Nov 2026 18:32:18 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Excise duty cut boosts consumer demand, lifts Indian market sentiment."
+ },
+ {
   "id": "4d99d2a8ae84",
   "title": "Despite market disruptions, is an oil glut on the way? - Marketplace.org",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXA5UTk5UFpIc2pxUWo3SmNiVTlFd0JNblJSTV8xRTBKQ3RNM1RHckR1ZnpHamFmSHQ2TW83VXNNNG5QM19yN0ozalRXalBHME5VMEJxSVZvalZFN0ZXQldOTXpFMngxY2RYeTk2aDYzY3hwOXkxbVZhdmRHQW83Y2F0RExFTXVtMFBJ?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Houthis attack raises Brent, indicating upward move."
- },
- {
-  "id": "7c15fe5709a2",
-  "title": "Inflation report to provide Fed\u2019s preferred gauge of prices ahead of possible rate hike - MyCentralOregon.com",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTlhGVHNtaXhIbXg4NkVydGdtaHRJT0FWNWFaQmZxdE1FNDk4N3pkSURpdDFENnhCdHhLZFJWbGczbVRYQW9mdTlFT0xNdjQyb2lUSGl0NWlod2RTQmpiQUVQQlp5LWZ1c1ZRbU1aVnNQa3U5UDhmVlhOMXhGZE5ET3N4dFVicVQ5ZktFVDlNYTJzeDRqTTJ1X3V0dVI5djBNNFB5VFJDTlpwclVEQWlsaWI5aHIyUGlBYkkxR016NEhLTVQ1YXhhTFF3?oc=5",
-  "ts": 1795627545,
-  "time": "Wed, 25 Nov 2026 16:12:57 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "neutral",
-  "score": 5,
-  "action": "WATCH",
-  "reason": "US inflation data upcoming may increase gold demand if inflation stays high."
- },
- {
-  "id": "391a63ed592b",
-  "title": "India cuts Russian oil purchases by 40% - RBC-Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnBSSTBQX0JVaXNQZmdXRDVLQkxpNnh2ejZVNG4wQVNybkZGdHZLY0RROU9QS1A0QjZsdmFmcmxLaHhJTGRNVlBGVV9mMUl1bXNBUnhDVFFhMGdwWUdybjdlaE5ET29sRjBPVi1IcU5nVmRmSnpYbVVXQTdBWDZGUlBCbFcwZV9mZVFTY1ZFNA?oc=5",
-  "ts": 1795627545,
-  "time": "Wed, 25 Nov 2026 16:50:14 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "India cuts Russian oil imports 40%, tightening supply and boosting crude prices."
- },
- {
-  "id": "89ad7b44dd8c",
-  "title": "Crude Prices Climb on Escalating Attacks on Shipping in the Middle East - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWphZElBR29IdFY2eXFybEFpNThDS01qTjFvaHBjTzIwek9ja2hfaHZsUVJ6UklPdjViQWRHNUVtY2Z5OFlJY0ZiTThxOHUzemI4NGtmTWtGSXNKUGpBa0tMWHRoRTBXdHpnbGZFWEVYVi1OUlJLS3NxQ2VxVG1GQlFudVEtNEh6MldLZE9Gb1BuVmhPRU5rbUFraXgzMXlsSm9JdGVxNGZGVmkxbkhuVWJaeTg1Zw?oc=5",
-  "ts": 1795627545,
-  "time": "Wed, 25 Nov 2026 16:35:29 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Shipping attacks in Middle East lift crude prices, suggesting further gains."
- },
- {
-  "id": "435abbc0f431",
-  "title": "Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura - Crude Oil Prices Today | OilPrice.com",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2lKbzMyZVQ2bm9zQmtxclRkSTF6WFVwZU0xMmRydG1zZkczV1VxZXBzUEdTbUV6d0c3Ynd0dDA5d19qZzl1a1hKNjdyejJxMzlwY1R2WEczWWRQakpBekp3SDlXYXBQV1pxV2hlUVAxWnVBdzRva2pOMHBZbjNSVWVGSnVDMUdWb3RKRWk4RlhMaFlrcjdQMUhGakZ0SjgweWg3Vk51Yks0dkdNdFB6SHE2VTJtZnFxVGlHSW930gG-AUFVX3lxTFBXaUpvMzJlVDZub3NCa3FyVGRJMXpYVXBlTTEyZHJ0bXNmRzNXVXFlcHNQR1NtRXp3Rzdid3R0MDl3X2pnOXVrWEo2N3J6MnEzOXBjVHZYRzNZZFBqSkF6SndIOVdhcFBXWnFXaGVRUDFadUF3NG9rak4wcFluM1JVZUZKdUMxR1ZvdEpFaThGWExoWWtyN1AxSEZqRnRKODB5aDdWTnViSzR2R010UHpIcTZVMm1mcXFUaUdJb3c?oc=5",
-  "ts": 1795627544,
-  "time": "Wed, 25 Nov 2026 15:30:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Oil jumps >2% after Saudi downed drones, indicating upward price pressure."
  }
 ]
