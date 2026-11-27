@@ -1,5 +1,44 @@
 [
  {
+  "id": "178a8373a3bd",
+  "title": "Crude Oil Inventories Rise Less Than Forecast - IndexBox",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjlWLWtndDVDeC1EeG8wVmZSR0xvZVNfUlU2NDZFbE93VlZMZ1RkbGJGdkh4TExCVktqLXRxei1SeU5MUTJpc3Z1amRaN3VZV1FZLTI2c2FlWWhLMjFsdzZKSzJCNEFRT2s1RDh4Q2lKN1Fwa2VnSWlsLXh0bm9Wcg?oc=5",
+  "ts": 1795739409,
+  "time": "Thu, 26 Nov 2026 11:50:34 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Inventory build below forecast hints at higher crude prices, bullish for intraday traders."
+ },
+ {
+  "id": "72aa41502e73",
+  "title": "Small-cap investors are battling losses; over 900 stocks down by up to 45%: Know why - News9live",
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUHBtSlVfZnhmQmZMZnNFbEFIeG82alBmNUtkS21jdFNjNUU1R1hmNndCSjFiNHFMU1BnajZCbUxiSEFMdy1FdXNUQWZ0Z0EwaDJ0aV95X3N0V2R4aVBpa1RMQlZ3dldzWmVsNXNxbFhBeFJnc180OGltVTFONVdmNTZlblQ1R2xwbDFraGl1MTczMGVfZi1WYzFDUDFDaklSanlzajJCTVlMLXVQUVE1OHMzWjg1SU9qbjBIaXBNLXk2N3RlSEZyY2E1M3DSAdIBQVVfeXFMTTNadnVyTWNwN1hYTDM1T0ZsMzNsazNMdEFsVHdyVmEyQnJPYmx0ZnZyYkdsZWdjeFVYRVNLQVhoSmk3WVRxLXIyMmVaaHRsbUpsSmRIblc4VGJGZG12T2Z0bkpZV2hZWTAxV3ZsRnhydWowYVhvUWZaQ29fVWswY1NRdWVKSG5sX3hZUjRRWHJKVmRVVHo0ZkE0U1ItbTgtVHAxSXZlYm8tU1BNZG0xVmR2cFBhNW5NOHpNQVNvQ1p3VEdxQ3ItSG1URDB0TjVucFZ3?oc=5",
+  "ts": 1795739406,
+  "time": "Thu, 26 Nov 2026 23:32:26 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Widespread small\u2011cap losses show market weakness, could drag broader indices lower."
+ },
+ {
+  "id": "463371a8a360",
+  "title": "RBI Bulletin: NBFC Bank Borrowings Rise to 39.6% in FY26 - Elets BFSI",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aOV80dFhxOEZlUmxQdjlzeHRhSWhZTWpWc29ZUENGQkxqRWxwUUxfSEdOandiSEZGZUthcGpJZjlrbEl0THY1REh0VnFWSUV5WG82NDAyend0Q1FRZDktb0NGdDI?oc=5",
+  "ts": 1795739404,
+  "time": "Thu, 26 Nov 2026 12:47:01 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "WATCH",
+  "reason": "Rising NBFC borrowings signal credit growth, supporting overall market outlook."
+ },
+ {
   "id": "3da1ef2b9c6d",
   "title": "Oil Set for Weekly Gain as Mideast Attacks Keep Market on Edge - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEF4d0tiR3NCTXlCaXhVNFZFY0lNMFdMQ1NWTDBIcnZESE1WNmdST1Q1TmYwV181RVdkUTNNSndGUVRqeHdzdDg1RUNZX2YxV3JNZk9xSmVaaDBWTGRkRnZXbHRNb0JCdWpySEVzMjl3d2VDcjNKWTJiMVljbWxEODBRTGpnUVpTQ1E1TnJMekotS0IxWlpHZjFTcS1vdw?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Saudi drone attack raises supply concerns, points up Brent"
- },
- {
-  "id": "c0f72d50bfc9",
-  "title": "Gold rate outlook for November 26: MCX gold drops 1.29%; will prices fall further or recover on Thursday? - Livemint",
-  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNk84NmNwZGlVaVl5M1N2Q2pxY3lnTDVMQXpyWmZhNzRJdWVsVE1KWkQ4WFlZM0dneFcyd1lJbnRFNUJwZHduVkNmRFhOTUpVaC10a0JnX3dETEVfVkRfZEVqN0hwVHQxa0xsZkRYaE5PTGVLWGR2OXo2OXVSdjItNGZSNmhUa3BOS1hQRDRHeVR3S0p5SkdsRkVhalhZUkw2R1ZEaTBlTmVNQXZ6RFBYaGM1a25jSGloMkM4WnVsQ3k3em82d3pMaXdpT25GakluYXNkQXI3ZGZVZFpxUml2dzhvV3dpRGd2UHJ1QmlhLVlRS2JLS0FMVURuZXlRUdIBgwJBVV95cUxObGRqNlptQUxmYWpiNHY1M3hHMzFUZy1Jbkp3NTZvUmpKNURaM3R3V0FucTRSTGV0TlRhYlUtSWRWVDdOZmp3WTRFTzhOSU5oZG5YaFo3SEdCLVU3V1l2eHNlY3FLYmdvbmsxWjRwY3FPMnhCVDhuM3hmOFhHM3AzbC1vWUlFSTR2ZWxkRWxXNWE2akRhMGc5V3BqWHRwT3d2WUdwME1CdkdqNzU5VHdpMzh2bFhMVGNBdFRZUFQ5WVFwRXdYOWUyUWlIUUd5bWpPaC1EZWxZWFltcmFXblVTR1RJSWNZaUg2RkxtQ1VZbE1qNDhWbHRyRVVualFGSDQyWDVn?oc=5",
-  "ts": 1795638263,
-  "time": "Wed, 25 Nov 2026 14:01:00 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 7,
-  "action": "AVOID",
-  "reason": "MCX gold down 1.29%, likely further decline"
- },
- {
-  "id": "05b9ef4ff5a5",
-  "title": "Gold Rate Today in Deoria, 25 Nov 2026 - Live 18K, 22K & 24K Gold Prices - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMVGN5RFJ2aWhqQ3NDMTRvNXJSWHdINzRkdzJWdUZETWwxUXJsR21kdnFhcjRnVGFSa2V5NnlrcnNUYzNWQmN2d0pNYVE1MDAyTkM4aUUzMGIyOWtVQ003MmhIT1lieFFTY2kySWJnMA?oc=5",
-  "ts": 1795638263,
-  "time": "Wed, 25 Nov 2026 17:27:58 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "neutral",
-  "score": 3,
-  "action": "WATCH",
-  "reason": "Current gold price snapshot, no clear trend"
- },
- {
-  "id": "a592ef597c6f",
-  "title": "Oil edges higher over supply woes triggered by possible OPEC output cut - Yeni Safak English",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbUxaM2N3OURtRy1BdV9LaEM2NVJ6Sm5uMnZMeGVZU1ctdnIwMDM3bGJVU0NsNHhycy1UWGNqelZJTWNPUG1VQXRoQUY1VU40eUIwSUVPYTY5NFVxVkFDTjQ3ejkwYkp6cUs0Y0xHaWJOSTFQSlBHNlFWcFYxNGNVNTE3eVRnRjI3NEY3T2REYzZsOXF0YU83d1JPcUJmNGVob0lDbFFWS0wwLThVVDNxZ2VB?oc=5",
-  "ts": 1795638262,
-  "time": "Wed, 25 Nov 2026 20:16:46 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Possible OPEC cut pushes crude higher"
  }
 ]
