@@ -1,5 +1,44 @@
 [
  {
+  "id": "2b3fe37b3d88",
+  "title": "Small-cap, big jump! Waaree Renewable shares rise 14% on this order win; energy stock still 35% below 52-week high",
+  "link": "https://www.livemint.com/market/stock-market-news/smallcap-big-jump-waaree-renewable-shares-rise-14-on-this-order-win-energy-stock-still-35-below-52-week-high-11795756038934.html",
+  "ts": 1795760227,
+  "time": "Fri, 27 Nov 2026 11:09:27 +0530",
+  "src": "www.livemint.com",
+  "stock": "WAAREE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Order win drives 14% share rise, momentum positive."
+ },
+ {
+  "id": "9af88a1afbec",
+  "title": "Stock Market Live Updates: Sensex tumbles over 600 points, Nifty below 25,750; IT, FMCG lead losses",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026/liveblog/136206762.cms",
+  "ts": 1795760226,
+  "time": "Fri, 27 Nov 2026 07:09:08 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Sensex down 600 points, broad sell\u2011off across sectors."
+ },
+ {
+  "id": "6bf186680d6e",
+  "title": "Gold jumps 2%, silver surges 5% as bullion rebounds from multi-month lows: Gold Silver Rates Live Updates",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-27th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136208041.cms",
+  "ts": 1795760226,
+  "time": "Fri, 27 Nov 2026 08:59:30 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Gold jumps 2%, indicating strong upward momentum."
+ },
+ {
   "id": "01992fde6ce3",
   "title": "Oil set for weekly gain as Mideast attacks keep market on edge - The Edge Malaysia",
   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jQ0ZlYzJRUGVfM3FzMDZnS0pWaDZmb3hnbkNCTEp3RWZvcVZ4bnNiU09pajZONVVVVV93VWpLZ1dLSjU2eEQ4cjRuNDBXSTBV?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 5,
   "action": "AVOID",
   "reason": "Forecast surplus pressures WTI, indicating potential price decline"
- },
- {
-  "id": "b11ee86ab73c",
-  "title": "Venezuela Targets 2.9 Million Barrels Daily by 2036 - Wisevoter",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzRvemlSa0NudURtdm5sR2lxY3pnZnhEUXllVWYzQzJSZ3FUVlpKUkptZ29zeFVlY1BVQjU2aHRldHFqU19pMVR2ZVU3MnN1X1RrNkZhVndBT3VuallSOVA1WG5QeWktTWxmZ2E4a3QyQVc5X2JQc3NBVDBzZWQtQU8tT2V2M011TktmX1lBRGgzWWs?oc=5",
-  "ts": 1795658395,
-  "time": "Thu, 26 Nov 2026 01:18:12 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 4,
-  "action": "AVOID",
-  "reason": "Venezuela target increase suggests future supply, may pressure prices down"
- },
- {
-  "id": "8d621f4c23e1",
-  "title": "WTI rises above $83.50 on Middle East refinery attack - FXStreet",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcDdvamZERzVMSjUxQU9wZmZOem1lSW51V0pQRzY2RV8xRlozaWl4bHhCeDVfMEdkRzlXUFRXcFV1bWZzNzlMcDg5V2pHVEpEM0tNd1NaSUJ3dHV3R3dVZTRqLXJ4RFYwZllhYTQ3Q1c1R1AyQTM4blhNbjBybWV1QjBJbjlZdW55djYtM21QTXZTa1dVWm5IVjlR?oc=5",
-  "ts": 1795658395,
-  "time": "Thu, 26 Nov 2026 00:33:41 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Refinery attack lifts WTI, reinforcing crude bullishness"
- },
- {
-  "id": "40ca0a1fc7d3",
-  "title": "Oil prices rebound on Middle East supply fears - The Vibes",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDZyWHhWdWFPMWJYak8wNXY3U0VaYmFOeldOUEcyWWFIcUtzSTVCVlBlZTRScUx1TE1uSlFaTEloTlhha21nOGFneWNwY0FxVm03bHI1ZXFsTmQxbmFmOTZWVUJmdWNJSlJUS3VVVzczVUgxcjdCZ2tDaHJISF9pa19Ta1dOel95VHV5dG5lc3hBVmtaUVFPenpiRUU?oc=5",
-  "ts": 1795658394,
-  "time": "Thu, 26 Nov 2026 01:14:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Supply fears rebound oil prices, indicating upward trend"
  }
 ]
