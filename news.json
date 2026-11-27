@@ -1,5 +1,57 @@
 [
  {
+  "id": "a716daeaae26",
+  "title": "Why is Indian stock market falling today? Nifty down to near 25,700, Sensex crashes 600 points | Top 3 reasons explained",
+  "link": "https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-falling-today-nifty-down-to-near-25-700-sensex-crashes-700-points-top-3-reasons-explained-11795761327368.html",
+  "ts": 1795766088,
+  "time": "Fri, 27 Nov 2026 12:34:06 +0530",
+  "src": "www.livemint.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Market down on multiple pressures"
+ },
+ {
+  "id": "9906588547d4",
+  "title": "Why Asahi India Glass may keep sparkling, irrespective of ICE or EV growth",
+  "link": "https://www.livemint.com/market/mark-to-market/asahi-india-glass-automotive-glass-architectural-glass-auto-ancillary-stocks-electric-vehicles-passenger-vehicles-11795762126510.html",
+  "ts": 1795766088,
+  "time": "Fri, 27 Nov 2026 13:05:55 +0530",
+  "src": "www.livemint.com",
+  "stock": "ASAHI",
+  "sentiment": "bullish",
+  "score": 5,
+  "action": "BUY IDEA",
+  "reason": "Positive outlook despite industry trends"
+ },
+ {
+  "id": "776df27fef09",
+  "title": "Stock Market Live Updates | Sensex tumbles over  650 points, Nifty below 25,700; IT, FMCG stocks lead losses",
+  "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-share-price-27-november-2026/liveblog/136206762.cms",
+  "ts": 1795766088,
+  "time": "Fri, 27 Nov 2026 07:09:08 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Broad sell\u2011off drags indices down"
+ },
+ {
+  "id": "644b5befc8ef",
+  "title": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
+  "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+  "ts": 1795766088,
+  "time": "Fri, 27 Nov 2026 11:40:03 +0530",
+  "src": "economictimes.indiatimes.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "WATCH",
+  "reason": "Higher oil prices boost crude outlook"
+ },
+ {
   "id": "561e2b8b4ff5",
   "title": "Oil Set for Weekly Gain as Mideast Attacks Keep Market on Edge - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEF4d0tiR3NCTXlCaXhVNFZFY0lNMFdMQ1NWTDBIcnZESE1WNmdST1Q1TmYwV181RVdkUTNNSndGUVRqeHdzdDg1RUNZX2YxV3JNZk9xSmVaaDBWTGRkRnZXbHRNb0JCdWpySEVzMjl3d2VDcjNKWTJiMVljbWxEODBRTGpnUVpTQ1E1TnJMekotS0IxWlpHZjFTcS1vdw?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 6,
   "action": "BUY IDEA",
   "reason": "Oil gains over 1% signal upward trend for crude."
- },
- {
-  "id": "75109d91fd0f",
-  "title": "Crude oil prices rise as Middle East tensions threaten supply - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3FONXlEY1J0WWh4djdlYkZlM1cxYkVtYUNKMFdtcUhodk9FSVJHazZORVY2M3VTeExOVngtRTIxcjNJSHFYSUVHWms3Ynp3SXFma2FhTjg3c2FWYWRNaXg4aVNmV1BnZ0RNQzlmN2tWQWtNQWZHRnRtbi1TVHk0Q25Mc3ozUzFaV1h1Q1pkWXNyQ3M?oc=5",
-  "ts": 1795661703,
-  "time": "Thu, 26 Nov 2026 01:43:25 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Middle East tensions push crude higher, suggesting price increase."
- },
- {
-  "id": "beaa84e51425",
-  "title": "Yemen's Houthi Rebels Claim Attack on Saudi Arabia's Largest Refinery; Brent Crude Surges 3.5% - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SSE9XMDhucWxyVkJmYnJ0dHR5WXgzVXdyanY1eElwUlhWMS1UdWJ0NTY5bURsc29lRm9LRnpTWjZxOXJ2cGtROVI2a1JNcndTSHBodExNTlRxMnlUSFRfcEMzbEpDdmZjckhyRnN4eFJEZ1YzWUE?oc=5",
-  "ts": 1795661703,
-  "time": "Thu, 26 Nov 2026 01:25:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 9,
-  "action": "BUY IDEA",
-  "reason": "Houthi attack lifts Brent, indicating upward price movement."
- },
- {
-  "id": "4486b113a6bc",
-  "title": "Brent crude near $91 amid Hormuz supply fears - Inshorts",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREs1SmZzRC1yM3VkVU5FVE5tTkJEeFJJcmhUZTNEYXd3bGkydFhPaUZKcjJDRU1NeVZhcGRCakEzWHBTZ1paMENJMWcyX1MtZjdGZTE3Z2tfWHU1c3pHRXRkcnAwUGc2MHZGXzJxZ0NIcXc5aHMyUmluM2lzM3VKUGhvMTFyckFCVUFCelVKUXlzdw?oc=5",
-  "ts": 1795661507,
-  "time": "Wed, 25 Nov 2026 05:11:09 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Supply fears in Hormuz lift Brent towards $91."
- },
- {
-  "id": "ec4e29f3a9d3",
-  "title": "Gold and silver prices slide as Trump signals easing US-Iran tensions - DD News",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1VYeWZ3QjFiazlaWmY0bThWWnQzUVVaWlZZbEVNb2daMjVjNGJjQTItYXI5ZnhmcG5ua2FiRXlJQldldExKMENFRTZOS19wR1pURmhwLWlVMUlmd0R1UkFDaHpTNXlaQ3VSRm5NUF8ybXFaS1FWeEU2dUEwdWdLVWh2QkJ0ZE4yR2ZGcHQzdFpYTmQwaGFBUVJhMA?oc=5",
-  "ts": 1795661507,
-  "time": "Wed, 25 Nov 2026 18:59:03 GMT",
-  "src": "news.google.com",
-  "stock": "GOLD",
-  "sentiment": "bearish",
-  "score": 6,
-  "action": "AVOID",
-  "reason": "Easing tensions reduce safe\u2011haven demand, pulling gold lower."
  }
 ]
