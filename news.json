@@ -1,5 +1,44 @@
 [
  {
+  "id": "3534d189f38b",
+  "title": "Oil Prices Jump 5.8% in Three Days as Serial Strikes Hit Saudi Export Routes; IEA Surplus Forecast Under Pressure - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zeGZKS2JnU240bVozOVZrdUg0MDg5aU95OUFHZDg5cTh3Q0pmdWNtLXZNaDN6TjhYQnU0LXpndkUwUEtzSFc0V05UaUhsUGpWdndHODVkSzlzck96dnpTY09IRTM4YzE0TXNYQXZ4NUpBa2JBOFE?oc=5",
+  "ts": 1795832620,
+  "time": "Fri, 27 Nov 2026 05:25:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 9,
+  "action": "BUY IDEA",
+  "reason": "Strikes disrupt Saudi exports, pushing oil sharply higher"
+ },
+ {
+  "id": "0688ce17b4e3",
+  "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5",
+  "ts": 1795832619,
+  "time": "Fri, 27 Nov 2026 20:31:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 6,
+  "action": "AVOID",
+  "reason": "Futures dip anticipating OPEC+ meeting, likely downward pressure"
+ },
+ {
+  "id": "7ad0686f9184",
+  "title": "Sensex falls 989 points as investors book profits - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWmgzUGdpWmhiWlptSzZSQ2ZWSlFPdVE5YzlUMHV1VHU2M3NnMGNraW9BQUpxUXJjT0dkTEJwdG5va1RLam5KSW1BVmdMTUpJN0VKc0dDSHdxLXZRUnRIejhOVzBIZzRJd00xdzc2cW5vX1EyZTB1T1dDeUFXaS05SG9ydzFRUHJna3o0dG1udUZ1NEdWOGl5bVRWMERkREZGRm9xY283Z2o0RmM1LWMxOEdSX1kyZ2ZEX1pxX2hSNXZtZzhZekZvWWRsR0dDbEs40gHWAUFVX3lxTE1QajFUOFp4eWdia05zbnpIYVdzYmQxNzFyYU42VGxpNDZqV21qNndFc3Etb0NXcGRkdUw4YktLb2VOcGoyOXoxNTBPZnppem1CNVBvbEFlYjZMTjRCdDFTYkIwS1h1V21kYXZhSGVXVzRLdl9LNHZOWk4waFlLSlNqaXc4RF90ZUNtU1VfbUx3SjhwRkl4UU5feVRRdjZiMzFQN2NoNVZrQ19lTGhQclphazZYelFFVUtTZEFpd0twdi1FMjYzUmVIQ1NUcjdNNGw0Y19JUXc?oc=5",
+  "ts": 1795832616,
+  "time": "Sat, 28 Nov 2026 01:28:00 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Broad sell\u2011off, profit\u2011taking pressure on Indian equities"
+ },
+ {
   "id": "429fce3df479",
   "title": "U.S. Pressures Venezuela, Iraq on OPEC Exit - \uc870\uc120\uc77c\ubcf4",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGN0UTYxOEdudE5QTW5JdjZUdGxBdHlfa0NYd1dYQ2F6T0hhVVctVnR6WkMtUU9iMVVvUkc0eHZlUURQR1VfanRERzFSbGJMaGZVLWxRQ1duS3ByYlRxWkJCZmNhSFRoZFdSVnQ4bFdIY21janBwbjJTbHEySXNSUU1UYWE?oc=5",
@@ -5159,44 +5198,5 @@
   "score": 5,
   "action": "AVOID",
   "reason": "Rising US inventories and record output pressure crude prices down"
- },
- {
-  "id": "c8b30786c067",
-  "title": "China Imports Syrian Oil as Iranian Supplies Are Disrupted - Enab Baladi - Enab Baladi",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWlwOTNMZzZ4STFyY0pCdzh5bFU5NXZUaHBfMXBvampWd3M3MlQ0R2FmdnlpWmdZcl9Tb2ZEZ1gyU2Q2aUlXOHNtUktEaFFOUkx4RmxfVnVvdHNIUDFsYUhzVXU1QU45Rjdrcm81by16YWw0TjVIci1aNTQwcWF4OE9RdjU1UDBDdXlfTWhJVHg3cGI2R3hWcUxJbmt0MVhDWXlqU2pSY0M4NEHSAbABQVVfeXFMUGpmaEk3eUtudHVhTEdKV3ppTmJ6ZjYwcGZHZ3dUYjZvNWkwTlYwYTR2LUNLRW1zdE82dWE2Q2p5OXdLeU5rNDBPRUpHWURUVUk1aGNVbUFuNlBmTjhBbVJnY1c1S29VTExlTEZWVnA4LWtfaUVNVVppaHNDS2ZyaEZVaHhYclhlVzFscjV4cjhjam1PdlNPVllFRFk3XzNEZ0JWc3VzQTZSelpVOXhVUzM?oc=5",
-  "ts": 1795731589,
-  "time": "Thu, 26 Nov 2026 21:19:40 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 6,
-  "action": "BUY IDEA",
-  "reason": "Iranian supply disruption boosts oil demand, supporting higher crude prices"
- },
- {
-  "id": "aa10a47b2494",
-  "title": "Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns - The Business Times",
-  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVGh0R3BJTGFzWUhXTDVRcXQtRWFaS09aNjNxY3dWckFDM0tjdG1xOVBsZkpJVTRrSGlpSGN5X1hCajhKZndrdndEcHV4WGJNSzZ6T1pJTWItSTJvWjlFQ1ZIbjJibTRVOFRwb0ZMZU5iVklDUVhSODhtNk9TZnVoSERiMUdlTzRkamdfT0h5YUFlMnZsZHVYMUpoZnF3MEZzM2hOeUFHa1k5NGdnUGtRZkNOZk1tNDR1NkNFdGF6dV9DSG1Hckd0bWdBVDJYNGgzM3Rjem12S2I3aDlrQlJHMkhZYmZSbVJa?oc=5",
-  "ts": 1795731589,
-  "time": "Thu, 26 Nov 2026 21:52:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Mine strikes and refinery attacks raise Brent, indicating upward price movement"
- },
- {
-  "id": "d2f7e236f324",
-  "title": "Ras Tanura Smoke Seen From Space: What the Saudi Strikes Mean for Oil Prices - Around Prague",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcER5WGpmQ1hQTDFEM2lRNTlqMzRFakJ5bkVuNEwwZ1FSWE93cnFIMXpMdG9vRmNzNHFrMDhNd0p0Tzg0aV91U3dqRS1HLXhVZXpDVHRQSkpfTmx4em1XOEtnNGhaRy02TzQ2MHU0Tm04UzNHWmRLOW5Id3UycmRTLU9VYXdtaGtLeTdYRV92Vl9sazlndE12VlNQbWphb2FWZlhtZXllcnEzcUdHb3VfM083TQ?oc=5",
-  "ts": 1795731589,
-  "time": "Thu, 26 Nov 2026 21:26:26 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Saudi strikes tighten supply, pushing crude prices up"
  }
 ]
