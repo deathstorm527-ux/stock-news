@@ -1,5 +1,57 @@
 [
  {
+  "id": "3c143d4430eb",
+  "title": "Strait of Hormuz: Iran Says Two Tankers Hit Mines Near Oman as Shipping Attacks Peak - \u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JS0Z1MjBtX3NoRlRSbk94NlRPN0lNbXlndWZQOHloVGZPNXhtQm4xTy1lVng3X2RoemxCWU1ia2ZtUVVQdXQwT1YycFVaWjVTZElV?oc=5",
+  "ts": 1795825746,
+  "time": "Fri, 27 Nov 2026 23:43:49 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bullish",
+  "score": 6,
+  "action": "BUY IDEA",
+  "reason": "Tankers hit mines raise supply risk, pushing crude prices up."
+ },
+ {
+  "id": "6af97e430434",
+  "title": "Wall Street\u2019s bullish bets tick higher after gold bounces back above $3,600, Main Street maintains bearish bias with payrolls on deck - Kitco",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTNXWTMtUVlSdHdDazZkWVVEVmYzR0gwM1FnOGJiRE1KOEF5NS10YmptUUkyMTNJT1RVLVYzaVR5dVR5NHdOb1BvMW1DNmw0TzVoMk5SRDVMLWdRRmoyMzg0VENPX2FiRW4yR1J3ZFBUM0d1MDNaR2ozRnU0RDc4clhUd19UbHp5OVpMdy1BY21jMlk3ZV9lbGlxTk4yLURSMTZuNV94Z0tMb19aMzI1REpvVUJZSTlaNkE?oc=5",
+  "ts": 1795825746,
+  "time": "Fri, 27 Nov 2026 23:01:13 GMT",
+  "src": "news.google.com",
+  "stock": "GOLD",
+  "sentiment": "bullish",
+  "score": 7,
+  "action": "BUY IDEA",
+  "reason": "Gold rebounds above $3,600, suggesting upward momentum."
+ },
+ {
+  "id": "93d65df821a4",
+  "title": "BSE SENSEX Plunges to 83,339.26 as Brent Nears $98 and IT Stocks Slide - BBN Times",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSm5YV3dRS1dCeFVVcThQMGdkeTJicTBfN21INHYxM0Z4eXhMQ0pPbWNvRFhUUW12QkdTWERRUlZva0lMeTZLSURGUTJVSjdPT1ZyN0JmaDFnMXJhWk5ETTB6T0xyLXlnVTJvUkVpRThSZGIyRUhUY2NBR0ZzQlhfWThNcGNZYVUtVmNtOFhGMHM5dkVFcmg0R0s4X19XZ19jZTlXNl9xcXJIVDlnUFE?oc=5",
+  "ts": 1795825745,
+  "time": "Fri, 27 Nov 2026 23:03:45 GMT",
+  "src": "news.google.com",
+  "stock": "MARKET",
+  "sentiment": "bearish",
+  "score": 8,
+  "action": "AVOID",
+  "reason": "Sensex falls as Brent slides, indicating market weakness."
+ },
+ {
+  "id": "b15b425f6c7d",
+  "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers - Crude Oil Prices Today | OilPrice.com",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFMybVNSQzF3NFYtR2piMS1iMy1xSTNzR183OG4zMzVxVDdOYTc2Zkl0T2JQUTJ3bXhiaDVHXzRHMGdhbWZ6dDI5MG5SOVVzT0R5b2s1UXRPOXl2M3JEQ3p2alpsREVuV1U2bTkwcV9XM3hadGlpLXloWGJHajF0UTRFVUcyN0VtTHFRZWJLMld2bGRTZk43eGJmemxTVFowVVV6MFM2Z2tqN2xSSXhMNU44V0lmclgyaWc0OTBoM0dTYUVt0gHKAUFVX3lxTE5HcE5SSUZpeWpMVW9VUHg4S0tDUHgtOHBoZmI5Xy1WR0t5MXdZcmVHNDBFTWstYlZ3TUh5eUw5YUd4dnROMWdNZ0Jtc2pTa3BqSmcyWjJGcUQwQXFqWGxubUllX1JjWDlrc2M2bmF2RDFsRWxySlVzNkR3b0k0dGMzdnR3TkZ0dVBZMmFMTVhsanlrSndIZk92dnB5UlhucXdBYWthSVBxT3gxdXc0cHgyMm9DLUYxSTlXSEUwWEdYQ1JLaXE5NkhXdXc?oc=5",
+  "ts": 1795825745,
+  "time": "Sat, 28 Nov 2026 00:00:00 GMT",
+  "src": "news.google.com",
+  "stock": "CRUDE",
+  "sentiment": "bearish",
+  "score": 7,
+  "action": "AVOID",
+  "reason": "Renewable power use may cut crude demand, pointing down."
+ },
+ {
   "id": "952f73940852",
   "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks - Reuters",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5",
@@ -5146,57 +5198,5 @@
   "score": 8,
   "action": "BUY IDEA",
   "reason": "Fed risk pushes investors to gold, likely raising prices."
- },
- {
-  "id": "1eeadab095e0",
-  "title": "Hardeep Puri, FM Sitharaman hail PM Modi\u2019s decision to \u2018safeguard citizens\u2019 with excise duty cut on petrol and diesel - DD News",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHNKbTV5VDFoWUR2QWVkdVZCeWJ2NnQ2OFJrcGlyTTZOVDFpVGRsWlZlLXF5U1BVeXFESUxBaDBSSXBaOGJQVWlJNzIyUVJYTVZ3Rlh5WWt1WGt0bVVRS1hTSERXYk4yN0Iza0RkcDZ0bkJmWUdiUUtGbkFzQzZrUk1qUzhVMkFmbDBNM0plY28tRkU2dnRleEhiUFZ6SVRpZlhxZGt1d0M3eTRxeHd1N09feG1hOVlkTWRLN19rRjRoN2FiRVZlTW5pdTAxRlplUUF1V0Nn?oc=5",
-  "ts": 1795724504,
-  "time": "Thu, 26 Nov 2026 18:32:18 GMT",
-  "src": "news.google.com",
-  "stock": "MARKET",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Excise duty cut boosts consumer demand, lifts Indian market sentiment."
- },
- {
-  "id": "4d99d2a8ae84",
-  "title": "Despite market disruptions, is an oil glut on the way? - Marketplace.org",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXA5UTk5UFpIc2pxUWo3SmNiVTlFd0JNblJSTV8xRTBKQ3RNM1RHckR1ZnpHamFmSHQ2TW83VXNNNG5QM19yN0ozalRXalBHME5VMEJxSVZvalZFN0ZXQldOTXpFMngxY2RYeTk2aDYzY3hwOXkxbVZhdmRHQW83Y2F0RExFTXVtMFBJ?oc=5",
-  "ts": 1795720734,
-  "time": "Thu, 26 Nov 2026 19:06:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bearish",
-  "score": 5,
-  "action": "AVOID",
-  "reason": "Potential oil glut could depress prices, suggesting caution."
- },
- {
-  "id": "f050c0e94af7",
-  "title": "Iran War Disrupts Oil Shipping as AI Strike Strategy Faces Scrutiny - Peradaban.id",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BSXJFU213RmY4VG13MHlhMWJMR083S2lwTnNlVS1GSlNKOWhDb250VV80b29hTGJVOV9qUlpvRjFfazhyQm56VC1LOW1aYUNhZ0JETEE3UHhaLUxWX1B0NEw0Tzkyc01E?oc=5",
-  "ts": 1795720734,
-  "time": "Thu, 26 Nov 2026 17:53:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 7,
-  "action": "BUY IDEA",
-  "reason": "Iran war disrupts shipping, supporting higher crude prices."
- },
- {
-  "id": "35224717c1e7",
-  "title": "Oil Prices Climb as Houthi Attack Claim Raises Supply Fears - Demokratis.co.id",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3TVRJY0luVnhub0QwcmluX2lCa2Jkd3l2RjRVSHVoeXB0My1iWUcxX1BoalBqOGpFbUVPYmw4NnhQTi1vNFdqVG1SZ3hnU013VzZ1ZWpERUJzNXBJZ05UWVY5a0RoQTJLZXZqSg?oc=5",
-  "ts": 1795720734,
-  "time": "Thu, 26 Nov 2026 17:35:00 GMT",
-  "src": "news.google.com",
-  "stock": "CRUDE",
-  "sentiment": "bullish",
-  "score": 8,
-  "action": "BUY IDEA",
-  "reason": "Houthi attack claim raises supply fears, climbing oil prices."
  }
 ]
